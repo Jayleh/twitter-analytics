@@ -1,414 +1,529 @@
 Media Source,Tweet,Date,Compound,Positive,Neutral,Negative,Tweets Ago
-CNN,"The Trump Organization and Jared Kushner's family company are planning to do business together, The New York Times… https://t.co/Lqa7TIBa0d",Mon Mar 12 07:30:12 +0000 2018,0.0,0.0,1.0,0.0,1
-CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/7OfvS1IVt8",Mon Mar 12 07:30:01 +0000 2018,-0.6486,0.0,0.788,0.212,2
-CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/0fnlNDzdLX,Mon Mar 12 07:10:57 +0000 2018,-0.8625,0.0,0.556,0.444,3
-CNN,"Elon Musk says his Mars rocket will fly ""short flights"" next year https://t.co/rGLLBpLovB https://t.co/BRg9lYnoS5",Mon Mar 12 07:00:04 +0000 2018,0.0,0.0,1.0,0.0,4
-CNN,"The northeastern United States is bracing for its third significant winter storm in less than two weeks, with the p… https://t.co/OHf0hILIvW",Mon Mar 12 06:58:01 +0000 2018,0.5574,0.195,0.805,0.0,5
-CNN,Five people have now died after the helicopter they were passengers on went down on Sunday evening in New York's Ea… https://t.co/CdF9nj9SA8,Mon Mar 12 06:53:14 +0000 2018,-0.5574,0.0,0.854,0.146,6
-CNN,"Media reports suggest UK government is close to finalizing retaliatory measures, including diplomatic expulsions an… https://t.co/wNIdwPhB45",Mon Mar 12 06:45:04 +0000 2018,0.0,0.0,1.0,0.0,7
-CNN,"The US House of Representatives is set to vote this week on a bill to give money for more security at schools, as t… https://t.co/F8SJOLf7OK",Mon Mar 12 06:38:59 +0000 2018,0.4005,0.105,0.895,0.0,8
-CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/MOeIElY4gO",Mon Mar 12 06:37:02 +0000 2018,0.5719,0.239,0.761,0.0,9
-CNN,"President Xi Jinping's power knows no bounds, writes Samantha Vinograd for @CNNOpinion https://t.co/WTsENl1SH7 https://t.co/tWlL3lu4DO",Mon Mar 12 06:30:15 +0000 2018,-0.296,0.0,0.855,0.145,10
+CNN,"Wall Street's so-called fear gauge was ""manipulated,"" a new federal class action lawsuit alleges… https://t.co/SA7TngfFsp",Mon Mar 12 20:23:53 +0000 2018,-0.6249,0.0,0.702,0.298,1
+CNN,"RT @TheLeadCNN: Two weeks ago, President Trump talked about a lot of aggressive ideas to combat gun violence — but did he get gun shy? http…",Mon Mar 12 20:19:25 +0000 2018,-0.8705,0.0,0.583,0.417,2
+CNN,"As thousands of people attend the SXSW festival in Austin, Texas, police warn residents that three package blasts i… https://t.co/lPcdwyO1PD",Mon Mar 12 20:19:09 +0000 2018,0.4215,0.142,0.796,0.062,3
+CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/PxZNJ6nn2I",Mon Mar 12 20:17:59 +0000 2018,0.5719,0.239,0.761,0.0,4
+CNN,"RT @CNNPolitics: When asked about age limits, Sanders says Trump is still supports them but is pushing forward on things that can be accomp…",Mon Mar 12 20:07:26 +0000 2018,0.1901,0.071,0.929,0.0,5
+CNN,"“These are very powerful devices.” Police in Austin, Texas, speak about three deadly package bombings in the city t… https://t.co/wGOTMyyfTW",Mon Mar 12 20:06:48 +0000 2018,0.4754,0.14,0.86,0.0,6
+CNN,A wealthy Turkish socialite and seven of her friends were killed after the airplane carrying them home from her bac… https://t.co/ovCk9ChWrf,Mon Mar 12 19:58:07 +0000 2018,0.0258,0.207,0.627,0.166,7
+CNN,"Shane Smith could soon step aside as Vice's CEO, according to multiple media reports. He would likely be replaced b… https://t.co/WXyJvNfBIg",Mon Mar 12 19:54:30 +0000 2018,0.0,0.0,1.0,0.0,8
+CNN,White House press secretary Sarah Sanders declined to weigh in on Betsy DeVos’ recent performance in televised inte… https://t.co/sYD7xDvWpv,Mon Mar 12 19:50:40 +0000 2018,0.0,0.0,1.0,0.0,9
+CNN,White House press secretary Sarah Sanders declined to weigh in on Betsy DeVos’ recent performance in televised inte… https://t.co/7vKLE2v9a2,Mon Mar 12 19:44:51 +0000 2018,0.0,0.0,1.0,0.0,10
+CNN,The White House is closely monitoring the nerve agent attack on an ex-Russian spy in the United Kingdom and taking… https://t.co/E9w6Lx5o8F,Mon Mar 12 19:43:46 +0000 2018,-0.0772,0.112,0.763,0.124,11
+CNN,Hong Kong's pro-democracy camp has endured a setback in crucial by-elections as fears grow that Beijing is tighteni… https://t.co/7mC4IRv91H,Mon Mar 12 19:41:28 +0000 2018,-0.4215,0.0,0.859,0.141,12
+CNN,"White House press secretary Sarah Sanders: We ""fully expect"" the meeting with North Korean leader Kim Jong Un will… https://t.co/mSSGExQB9n",Mon Mar 12 19:30:16 +0000 2018,0.0,0.0,1.0,0.0,13
 CNN,"""I think there's a bunch of guys waiting for this to be over. It's never going to be over."" 
 
-#TimesUp co-founder N… https://t.co/nElZn1eID1",Mon Mar 12 06:20:26 +0000 2018,0.0,0.0,1.0,0.0,11
-CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.”… https://t.co/PutUhFxV7X",Mon Mar 12 06:08:57 +0000 2018,0.8481,0.313,0.687,0.0,12
-CNN,"After almost 32 years, a police executive welcomes an arrest in the death of her sister https://t.co/xY6B5Tq75F https://t.co/1d4zXQvdos",Mon Mar 12 06:00:04 +0000 2018,-0.5574,0.117,0.609,0.274,13
-CNN,"Russian President Vladimir Putin ""couldn't care less"" if Russian citizens meddled in the 2016 US election… https://t.co/Lewyec1WMn",Mon Mar 12 05:49:38 +0000 2018,-0.3875,0.0,0.859,0.141,14
-CNN,"Marine Le Pen, leader of France's far-right National Front, thinks it's time for the party to rebrand after her fai… https://t.co/JAQBkhB2cC",Mon Mar 12 05:38:00 +0000 2018,0.4019,0.119,0.881,0.0,15
-CNN,The trouble with President Trump's North Korea gambit https://t.co/tT3uQ5DjX9 (via @CNNOpinion) https://t.co/dUi0NqzHLz,Mon Mar 12 05:30:05 +0000 2018,-0.4019,0.0,0.803,0.197,16
-CNN,"South Korean officials will meet China's Xi Jinping on Monday, as part of an effort to bring jittery regional power… https://t.co/iUoFzaaS9w",Mon Mar 12 05:17:00 +0000 2018,0.0,0.0,1.0,0.0,17
-CNN,India by train -- with dogs? One couple shares their story https://t.co/6SGoucHiCg via @CNNTravel https://t.co/PudINg7byp,Mon Mar 12 05:13:20 +0000 2018,0.296,0.136,0.864,0.0,18
-CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/re1dVKA9dp",Mon Mar 12 05:06:29 +0000 2018,0.0772,0.053,0.947,0.0,19
-CNN,President Trump's speech at a rally in support of Pennsylvania state Rep. Rick Saccone proves why he is the GOP's w… https://t.co/DFblDfVNza,Mon Mar 12 05:00:15 +0000 2018,0.4019,0.119,0.881,0.0,20
-CNN,"The Trump Organization and Jared Kushner's family company are planning to do business together, The New York Times… https://t.co/Lqa7TIBa0d",Mon Mar 12 07:30:12 +0000 2018,0.0,0.0,1.0,0.0,21
-CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/7OfvS1IVt8",Mon Mar 12 07:30:01 +0000 2018,-0.6486,0.0,0.788,0.212,22
-CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/0fnlNDzdLX,Mon Mar 12 07:10:57 +0000 2018,-0.8625,0.0,0.556,0.444,23
-CNN,"Elon Musk says his Mars rocket will fly ""short flights"" next year https://t.co/rGLLBpLovB https://t.co/BRg9lYnoS5",Mon Mar 12 07:00:04 +0000 2018,0.0,0.0,1.0,0.0,24
-CNN,"The northeastern United States is bracing for its third significant winter storm in less than two weeks, with the p… https://t.co/OHf0hILIvW",Mon Mar 12 06:58:01 +0000 2018,0.5574,0.195,0.805,0.0,25
-CNN,Five people have now died after the helicopter they were passengers on went down on Sunday evening in New York's Ea… https://t.co/CdF9nj9SA8,Mon Mar 12 06:53:14 +0000 2018,-0.5574,0.0,0.854,0.146,26
-CNN,"Media reports suggest UK government is close to finalizing retaliatory measures, including diplomatic expulsions an… https://t.co/wNIdwPhB45",Mon Mar 12 06:45:04 +0000 2018,0.0,0.0,1.0,0.0,27
-CNN,"The US House of Representatives is set to vote this week on a bill to give money for more security at schools, as t… https://t.co/F8SJOLf7OK",Mon Mar 12 06:38:59 +0000 2018,0.4005,0.105,0.895,0.0,28
-CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/MOeIElY4gO",Mon Mar 12 06:37:02 +0000 2018,0.5719,0.239,0.761,0.0,29
-CNN,"President Xi Jinping's power knows no bounds, writes Samantha Vinograd for @CNNOpinion https://t.co/WTsENl1SH7 https://t.co/tWlL3lu4DO",Mon Mar 12 06:30:15 +0000 2018,-0.296,0.0,0.855,0.145,30
+#TimesUp co-founder N… https://t.co/YrIEdwks4w",Mon Mar 12 19:28:29 +0000 2018,0.0,0.0,1.0,0.0,14
+CNN,RT @CNNPolitics: White House press secretary Sarah Sanders outlines President Trump’s proposal for gun safety measures https://t.co/Kn8CIQe…,Mon Mar 12 19:18:30 +0000 2018,0.1027,0.139,0.743,0.119,15
+CNN,"White House press secretary Sarah Sanders: ""We fully expect"" that the meeting between US President Trump and Kim Jo… https://t.co/Y26qDmvKug",Mon Mar 12 19:17:54 +0000 2018,0.0,0.0,1.0,0.0,16
+CNN,"White House press secretary Sarah Sanders holds a press briefing. Watch CNN: https://t.co/UYpqI3w42L
+
+Follow live u… https://t.co/EejEviXsJs",Mon Mar 12 19:09:34 +0000 2018,0.0,0.0,1.0,0.0,17
+CNN,The US Naval Academy announced that disciplinary proceedings have been opened against five officers accused of usin… https://t.co/hoEZWxjbO6,Mon Mar 12 19:06:06 +0000 2018,-0.296,0.0,0.885,0.115,18
+CNN,Why Trump's modest proposal on guns still might not happen in Congress https://t.co/4UN9BbnlUe https://t.co/33QCV9avhB,Mon Mar 12 19:00:56 +0000 2018,0.0,0.0,1.0,0.0,19
+CNN,"Even a ""lost"" interview with OJ Simpson couldn't help Fox beat ABC's ""American Idol"" reboot https://t.co/Qg4B39Eu6n https://t.co/I53nmJS3Ap",Mon Mar 12 18:55:03 +0000 2018,-0.3089,0.0,0.869,0.131,20
+CNN,"Wall Street's so-called fear gauge was ""manipulated,"" a new federal class action lawsuit alleges… https://t.co/SA7TngfFsp",Mon Mar 12 20:23:53 +0000 2018,-0.6249,0.0,0.702,0.298,21
+CNN,"RT @TheLeadCNN: Two weeks ago, President Trump talked about a lot of aggressive ideas to combat gun violence — but did he get gun shy? http…",Mon Mar 12 20:19:25 +0000 2018,-0.8705,0.0,0.583,0.417,22
+CNN,"As thousands of people attend the SXSW festival in Austin, Texas, police warn residents that three package blasts i… https://t.co/lPcdwyO1PD",Mon Mar 12 20:19:09 +0000 2018,0.4215,0.142,0.796,0.062,23
+CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/PxZNJ6nn2I",Mon Mar 12 20:17:59 +0000 2018,0.5719,0.239,0.761,0.0,24
+CNN,"RT @CNNPolitics: When asked about age limits, Sanders says Trump is still supports them but is pushing forward on things that can be accomp…",Mon Mar 12 20:07:26 +0000 2018,0.1901,0.071,0.929,0.0,25
+CNN,"“These are very powerful devices.” Police in Austin, Texas, speak about three deadly package bombings in the city t… https://t.co/wGOTMyyfTW",Mon Mar 12 20:06:48 +0000 2018,0.4754,0.14,0.86,0.0,26
+CNN,A wealthy Turkish socialite and seven of her friends were killed after the airplane carrying them home from her bac… https://t.co/ovCk9ChWrf,Mon Mar 12 19:58:07 +0000 2018,0.0258,0.207,0.627,0.166,27
+CNN,"Shane Smith could soon step aside as Vice's CEO, according to multiple media reports. He would likely be replaced b… https://t.co/WXyJvNfBIg",Mon Mar 12 19:54:30 +0000 2018,0.0,0.0,1.0,0.0,28
+CNN,White House press secretary Sarah Sanders declined to weigh in on Betsy DeVos’ recent performance in televised inte… https://t.co/sYD7xDvWpv,Mon Mar 12 19:50:40 +0000 2018,0.0,0.0,1.0,0.0,29
+CNN,White House press secretary Sarah Sanders declined to weigh in on Betsy DeVos’ recent performance in televised inte… https://t.co/7vKLE2v9a2,Mon Mar 12 19:44:51 +0000 2018,0.0,0.0,1.0,0.0,30
+CNN,The White House is closely monitoring the nerve agent attack on an ex-Russian spy in the United Kingdom and taking… https://t.co/E9w6Lx5o8F,Mon Mar 12 19:43:46 +0000 2018,-0.0772,0.112,0.763,0.124,31
+CNN,Hong Kong's pro-democracy camp has endured a setback in crucial by-elections as fears grow that Beijing is tighteni… https://t.co/7mC4IRv91H,Mon Mar 12 19:41:28 +0000 2018,-0.4215,0.0,0.859,0.141,32
+CNN,"White House press secretary Sarah Sanders: We ""fully expect"" the meeting with North Korean leader Kim Jong Un will… https://t.co/mSSGExQB9n",Mon Mar 12 19:30:16 +0000 2018,0.0,0.0,1.0,0.0,33
 CNN,"""I think there's a bunch of guys waiting for this to be over. It's never going to be over."" 
 
-#TimesUp co-founder N… https://t.co/nElZn1eID1",Mon Mar 12 06:20:26 +0000 2018,0.0,0.0,1.0,0.0,31
-CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.”… https://t.co/PutUhFxV7X",Mon Mar 12 06:08:57 +0000 2018,0.8481,0.313,0.687,0.0,32
-CNN,"After almost 32 years, a police executive welcomes an arrest in the death of her sister https://t.co/xY6B5Tq75F https://t.co/1d4zXQvdos",Mon Mar 12 06:00:04 +0000 2018,-0.5574,0.117,0.609,0.274,33
-CNN,"Russian President Vladimir Putin ""couldn't care less"" if Russian citizens meddled in the 2016 US election… https://t.co/Lewyec1WMn",Mon Mar 12 05:49:38 +0000 2018,-0.3875,0.0,0.859,0.141,34
-CNN,"Marine Le Pen, leader of France's far-right National Front, thinks it's time for the party to rebrand after her fai… https://t.co/JAQBkhB2cC",Mon Mar 12 05:38:00 +0000 2018,0.4019,0.119,0.881,0.0,35
-CNN,The trouble with President Trump's North Korea gambit https://t.co/tT3uQ5DjX9 (via @CNNOpinion) https://t.co/dUi0NqzHLz,Mon Mar 12 05:30:05 +0000 2018,-0.4019,0.0,0.803,0.197,36
-CNN,"South Korean officials will meet China's Xi Jinping on Monday, as part of an effort to bring jittery regional power… https://t.co/iUoFzaaS9w",Mon Mar 12 05:17:00 +0000 2018,0.0,0.0,1.0,0.0,37
-CNN,India by train -- with dogs? One couple shares their story https://t.co/6SGoucHiCg via @CNNTravel https://t.co/PudINg7byp,Mon Mar 12 05:13:20 +0000 2018,0.296,0.136,0.864,0.0,38
-CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/re1dVKA9dp",Mon Mar 12 05:06:29 +0000 2018,0.0772,0.053,0.947,0.0,39
-CNN,President Trump's speech at a rally in support of Pennsylvania state Rep. Rick Saccone proves why he is the GOP's w… https://t.co/DFblDfVNza,Mon Mar 12 05:00:15 +0000 2018,0.4019,0.119,0.881,0.0,40
-CNN,The 64 most outrageous lines from US President Trump's untethered Pennsylvania speech https://t.co/YY4DCphOHO https://t.co/GHIkgNS15G,Mon Mar 12 04:45:51 +0000 2018,-0.5095,0.0,0.798,0.202,41
-CNN,"When tragedy struck, athletes stepped up for a Florida high school https://t.co/ec1JHh6bpF https://t.co/chZzUcxqHE",Mon Mar 12 04:37:09 +0000 2018,-0.7506,0.0,0.61,0.39,42
-CNN,President Trump says South Korean President Moon Jae-in credited him with the success of the 2018 Winter Olympic Ga… https://t.co/Zbmh7LnKrJ,Mon Mar 12 04:30:05 +0000 2018,0.7351,0.256,0.744,0.0,43
-CNN,Hong Kong's pro-democracy camp has endured a setback in crucial by-elections as fears grow that Beijing is tighteni… https://t.co/70z09CBmu7,Mon Mar 12 04:26:53 +0000 2018,-0.4215,0.0,0.859,0.141,44
-CNN,Socialism with Chinese characteristics? Beijing's propaganda explained https://t.co/diFchMooCV https://t.co/KCnPrBoIIk,Mon Mar 12 04:21:39 +0000 2018,-0.25,0.0,0.8,0.2,45
-CNN,"CNN Exclusive: The more opioids doctors prescribe, the more money they make https://t.co/V8iIADerxP https://t.co/EJ1r0J37QF",Mon Mar 12 04:14:58 +0000 2018,0.128,0.103,0.897,0.0,46
-CNN,Customers of a restaurant and a pub in the UK have been urged to wash their clothes as a precaution after traces of… https://t.co/EIruohNPhO,Mon Mar 12 04:08:24 +0000 2018,0.0,0.0,1.0,0.0,47
-CNN,"President Trump says his 2020 slogan will be ""Keep America Great!"" https://t.co/xZCKakQ1E1 https://t.co/W3BYxXkokH",Mon Mar 12 04:00:17 +0000 2018,0.0,0.0,1.0,0.0,48
-CNN,The trouble with US President Trump's North Korea gambit https://t.co/nmkmJNapi4 (via @CNNOpinion) https://t.co/v9cMhyIk59,Mon Mar 12 03:43:40 +0000 2018,-0.4019,0.0,0.816,0.184,49
-CNN,President Trump insults NBC News anchor Chuck Todd again https://t.co/jgIVbQb7g6 https://t.co/2z6kDLutxF,Mon Mar 12 03:30:13 +0000 2018,-0.4215,0.0,0.781,0.219,50
+#TimesUp co-founder N… https://t.co/YrIEdwks4w",Mon Mar 12 19:28:29 +0000 2018,0.0,0.0,1.0,0.0,34
+CNN,RT @CNNPolitics: White House press secretary Sarah Sanders outlines President Trump’s proposal for gun safety measures https://t.co/Kn8CIQe…,Mon Mar 12 19:18:30 +0000 2018,0.1027,0.139,0.743,0.119,35
+CNN,"White House press secretary Sarah Sanders: ""We fully expect"" that the meeting between US President Trump and Kim Jo… https://t.co/Y26qDmvKug",Mon Mar 12 19:17:54 +0000 2018,0.0,0.0,1.0,0.0,36
+CNN,"White House press secretary Sarah Sanders holds a press briefing. Watch CNN: https://t.co/UYpqI3w42L
+
+Follow live u… https://t.co/EejEviXsJs",Mon Mar 12 19:09:34 +0000 2018,0.0,0.0,1.0,0.0,37
+CNN,The US Naval Academy announced that disciplinary proceedings have been opened against five officers accused of usin… https://t.co/hoEZWxjbO6,Mon Mar 12 19:06:06 +0000 2018,-0.296,0.0,0.885,0.115,38
+CNN,Why Trump's modest proposal on guns still might not happen in Congress https://t.co/4UN9BbnlUe https://t.co/33QCV9avhB,Mon Mar 12 19:00:56 +0000 2018,0.0,0.0,1.0,0.0,39
+CNN,"Even a ""lost"" interview with OJ Simpson couldn't help Fox beat ABC's ""American Idol"" reboot https://t.co/Qg4B39Eu6n https://t.co/I53nmJS3Ap",Mon Mar 12 18:55:03 +0000 2018,-0.3089,0.0,0.869,0.131,40
+CNN,"The Church of Scientology is set to premiere Scientology TV, a new network that will air on DirecTV and be availabl… https://t.co/85DBDCCMra",Mon Mar 12 18:50:04 +0000 2018,0.0,0.0,1.0,0.0,41
+CNN,"Department of Education Secretary Betsy DeVos stumbles her way through tense portion of ""60 Minutes"" interview, adm… https://t.co/RKMGpZ1wUY",Mon Mar 12 18:40:05 +0000 2018,-0.34,0.0,0.876,0.124,42
+CNN,Elizabeth Warren says she isn't running for president. Don't believe her. | Analysis by @CillizzaCNN… https://t.co/CczGyYXeIj,Mon Mar 12 18:30:10 +0000 2018,0.0,0.0,1.0,0.0,43
+CNN,Here are 5 questions that could come up during today's White House press briefing. Follow live updates:… https://t.co/Rq8goTl5hB,Mon Mar 12 18:24:57 +0000 2018,0.0,0.0,1.0,0.0,44
+CNN,India by train -- with dogs? One couple shares their story https://t.co/Dzved442GF via @CNNTravel https://t.co/Eqol7ZOz8g,Mon Mar 12 18:22:24 +0000 2018,0.296,0.136,0.864,0.0,45
+CNN,"This Waffle House waitress took time to cut an elderly customer's ham, and the kind act won her a college scholarsh… https://t.co/vYD5kza1np",Mon Mar 12 18:20:00 +0000 2018,0.7184,0.261,0.662,0.077,46
+CNN,Democrats call on Trump to pressure Putin to extradite indicted Russians https://t.co/RyOdsG5K8v https://t.co/oW4Se4D7ZD,Mon Mar 12 18:10:08 +0000 2018,-0.296,0.0,0.845,0.155,47
+CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/nt2XwY2jk4,Mon Mar 12 18:03:34 +0000 2018,-0.8625,0.0,0.556,0.444,48
+CNN,"Police are now responding to another ""reported explosion"" this afternoon in Austin, Texas, but have not yet said wh… https://t.co/oR8wXFGQKu",Mon Mar 12 18:00:50 +0000 2018,0.0,0.0,1.0,0.0,49
+CNN,The USS Carl Vinson spent 4 days anchored off the coast of Vietnam -- the first time a US aircraft carrier had visi… https://t.co/l8bli1wD2J,Mon Mar 12 17:50:09 +0000 2018,0.0,0.0,1.0,0.0,50
+CNN,"The father of Joaquin Oliver, who was killed in the Florida school shooting, created a powerful mural to honor his… https://t.co/zcJdE8nrrl",Mon Mar 12 17:45:49 +0000 2018,0.3612,0.281,0.561,0.158,51
+CNN,The trouble with President Trump's North Korea gambit https://t.co/12eqFDwhni (via @CNNOpinion) https://t.co/g96QLHAp2N,Mon Mar 12 17:37:38 +0000 2018,-0.4019,0.0,0.803,0.197,52
+CNN,Both packages were not delivered via any mail services and both homes are those of African Americans. A 17-year-old… https://t.co/gfcNyvs8rA,Mon Mar 12 17:28:32 +0000 2018,0.0,0.0,1.0,0.0,53
+CNN,"The pair of explosions that left two people dead in Austin, Texas, over the last 10 days share similarities and aut… https://t.co/t87AZLqsAd",Mon Mar 12 17:26:52 +0000 2018,-0.4767,0.083,0.755,0.162,54
+CNN,"JUST IN: UK PM May says ""it is highly likely that Russia is responsible"" for the attempted murder of a former Russi… https://t.co/0b482ZDsAS",Mon Mar 12 17:26:37 +0000 2018,-0.5267,0.085,0.741,0.174,55
+CNN,"President Trump says his 2020 slogan will be ""Keep America Great!"" https://t.co/CrGmgssvf1 https://t.co/CpHxsfZ9h2",Mon Mar 12 17:25:17 +0000 2018,0.0,0.0,1.0,0.0,56
+CNN,"Education Secretary Betsy DeVos calls on President Trump to not use foul language, pointing to ""an opportunity and… https://t.co/TVNdXf8qUL",Mon Mar 12 17:15:11 +0000 2018,0.4215,0.135,0.865,0.0,57
+CNN,Sen. Elizabeth Warren is pushing back at a new call to take a DNA test to prove her Native American ancestral claim… https://t.co/7veD2UZn1W,Mon Mar 12 17:05:03 +0000 2018,0.0,0.0,1.0,0.0,58
+CNN,"JUST IN: Adult film actress Stormy Daniels is offering to return the $130,000 payment she received from Trump's att… https://t.co/sVitSh7863",Mon Mar 12 16:55:05 +0000 2018,0.0,0.0,1.0,0.0,59
+CNN,"Country singer Tim McGraw had to cut short his set after collapsing on stage at a show in Dublin, Ireland, over the… https://t.co/4OmiKy9aNh",Mon Mar 12 16:55:04 +0000 2018,-0.5106,0.0,0.823,0.177,60
+CNN,"Elon Musk says his Mars rocket will fly ""short flights"" next year https://t.co/2jqAFIuM0o https://t.co/KeZabL8ArA",Mon Mar 12 16:45:14 +0000 2018,0.0,0.0,1.0,0.0,61
+CNN,This weekend was the first time films by black directors with mega budgets held the top two spots at the box office… https://t.co/N2YQVyjA77,Mon Mar 12 16:35:05 +0000 2018,0.2023,0.076,0.924,0.0,62
+CNN,White House officials were alarmed by Betsy DeVos' struggle to answer basic questions about the nation's schools an… https://t.co/qlOyhVrSst,Mon Mar 12 16:24:06 +0000 2018,-0.5719,0.0,0.783,0.217,63
+CNN,Education Secretary Betsy DeVos' trainwreck interview on '60 Minutes' | Analysis by @CillizzaCNN… https://t.co/XURjruyIgZ,Mon Mar 12 16:12:45 +0000 2018,0.0,0.0,1.0,0.0,64
+CNN,"The tallest building in Frankfort, Kentucky, the state's capital, came crashing down on Sunday. The 28-story Capita… https://t.co/ElHy6CsKXU",Mon Mar 12 16:03:20 +0000 2018,0.0,0.0,1.0,0.0,65
+CNN,"RT @CNNnewsroom: Democratic Rep. Ted Deutch slams President Trump's backpedaling ""to a position that is solely the one that the NRA advocat…",Mon Mar 12 15:52:45 +0000 2018,0.0,0.0,1.0,0.0,66
+CNN,Know who's afraid of the NRA? Donald Trump. | Analysis by @CillizzaCNN https://t.co/dwJKDo1iw1 https://t.co/uXTtXtw3Zm,Mon Mar 12 15:50:10 +0000 2018,0.0,0.0,1.0,0.0,67
+CNN,"The acceptance speech the director of ""Moonlight"" never got to give https://t.co/IyTmbjO7En https://t.co/QOo0uM5x1K",Mon Mar 12 15:42:47 +0000 2018,0.4588,0.2,0.8,0.0,68
+CNN,"This Waffle House waitress took time to cut an elderly customer's ham, and the kind act won her a college scholarsh… https://t.co/1q0hw8h39W",Mon Mar 12 15:40:00 +0000 2018,0.7184,0.261,0.662,0.077,69
+CNN,"Actually, West Virginia isn't dismantling its Department of Education https://t.co/lIBOIyj1wb",Mon Mar 12 15:30:03 +0000 2018,0.0,0.0,1.0,0.0,70
+CNN,"Fashion designer Hubert de Givenchy, famous for styling Audrey Hepburn's ""Little Black Dress,"" has died at the age… https://t.co/lHi79jzuRv",Mon Mar 12 15:20:05 +0000 2018,-0.5574,0.0,0.833,0.167,71
+CNN,Jewish groups are criticizing Russian President Vladimir Putin after he suggested Russian minorities such as Jews o… https://t.co/gO1eyrXlGN,Mon Mar 12 15:10:12 +0000 2018,-0.3612,0.0,0.872,0.128,72
+CNN,The former US ambassador to Panama says he was compelled to resign from his post after President Trump failed to st… https://t.co/VB4JRo1ZaP,Mon Mar 12 15:00:46 +0000 2018,-0.6705,0.046,0.734,0.22,73
+CNN,"President Trump defends his administration's newly unveiled gun and school safety proposals, specifically his walkb… https://t.co/IxywpV0djS",Mon Mar 12 14:50:07 +0000 2018,0.1027,0.146,0.729,0.125,74
+CNN,"O.J. Simpson described ""blood and stuff"" in 2006 hypothetical murder TV confession https://t.co/WZbLOhBHCl https://t.co/7VswrHZW8p",Mon Mar 12 14:40:15 +0000 2018,-0.6908,0.0,0.734,0.266,75
+CNN,A second fertility clinic in the US says its eggs and embryos may no longer be viable after a storage tank malfunct… https://t.co/HwCOTnoeAN,Mon Mar 12 14:31:29 +0000 2018,-0.296,0.0,0.901,0.099,76
+CNN,She has been called one of the beauty industry's biggest disruptors. How @Glossier founder and CEO @EmilyWWeiss is… https://t.co/FXb4FyXOJ2,Mon Mar 12 14:20:21 +0000 2018,0.5859,0.174,0.826,0.0,77
+CNN,The one crime that impacts every American https://t.co/Hmz0knP0Jq (via @CNNOpinion) https://t.co/1ko0RiSyGC,Mon Mar 12 14:12:34 +0000 2018,-0.5423,0.0,0.741,0.259,78
+CNN,"Country singer Tim McGraw had to cut short his set after collapsing on stage at a show in Dublin, Ireland, over the… https://t.co/ZSnFLa571F",Mon Mar 12 14:01:29 +0000 2018,-0.5106,0.0,0.823,0.177,79
+CNN,Sen. Elizabeth Warren is pushing back at a new call to take a DNA test to prove her Native American ancestral claim… https://t.co/GQ261ymUpo,Mon Mar 12 13:52:05 +0000 2018,0.0,0.0,1.0,0.0,80
+CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.”… https://t.co/AEo8zjwPND",Mon Mar 12 13:43:17 +0000 2018,0.8481,0.313,0.687,0.0,81
+CNN,"Education Secretary Betsy DeVos calls on President Trump to not use foul language, pointing to ""an opportunity and… https://t.co/K1Sxy9qxMc",Mon Mar 12 13:30:10 +0000 2018,0.4215,0.135,0.865,0.0,82
+CNN,What's behind the stamina of Russian President Vladimir Putin? The 65-year-old is now contesting his fourth preside… https://t.co/lvcoPhMOMI,Mon Mar 12 13:23:42 +0000 2018,0.296,0.115,0.885,0.0,83
+CNN,The pilot in the New York City helicopter crash told investigators that one of the passenger's bags may have inadve… https://t.co/Ts29FsZuYJ,Mon Mar 12 13:10:04 +0000 2018,-0.4019,0.0,0.881,0.119,84
+CNN,"If you're planning to take part in the national school walkout on Wednesday to protest gun violence, read this:… https://t.co/Mgix0Lsgrs",Mon Mar 12 13:05:28 +0000 2018,-0.8689,0.0,0.597,0.403,85
+CNN,"How ""Meet the Press"" moderator Chuck Todd responded to President Trump's vulgar insult https://t.co/y60ZGAGXhH https://t.co/l1nX0WIXqi",Mon Mar 12 13:03:11 +0000 2018,-0.5106,0.0,0.809,0.191,86
+CNN,"This waitress took time to cut an elderly diner's ham, and the kind act won her a college scholarship… https://t.co/eemFBU64PY",Mon Mar 12 12:51:43 +0000 2018,0.7184,0.282,0.635,0.083,87
+CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/K0eZD8V4bQ",Mon Mar 12 12:40:12 +0000 2018,-0.6486,0.0,0.788,0.212,88
+CNN,"At least 39 people are dead after a plane crashed on the runway while landing at Tribhuvan Airport in Kathmandu, Ne… https://t.co/j0IS9DE3Qx",Mon Mar 12 12:30:04 +0000 2018,-0.6486,0.0,0.823,0.177,89
+CNN,This weekend was the first time films by black directors with mega budgets held the top two spots at the box office… https://t.co/HNaCFjhv7H,Mon Mar 12 12:25:07 +0000 2018,0.2023,0.076,0.924,0.0,90
+CNN,"The Trump Organization and Jared Kushner's family company are planning to do business together, The New York Times… https://t.co/D01sset0ym",Mon Mar 12 12:15:07 +0000 2018,0.0,0.0,1.0,0.0,91
+CNN,"Department of Education Secretary Betsy DeVos stumbles her way through tense portion of ""60 Minutes"" interview, adm… https://t.co/83GKHqSU4H",Mon Mar 12 12:03:40 +0000 2018,-0.34,0.0,0.876,0.124,92
+CNN,"Elon Musk says his Mars rocket will fly ""short flights"" next year https://t.co/RaarGgKZPA https://t.co/BWFamrqnMr",Mon Mar 12 11:53:30 +0000 2018,0.0,0.0,1.0,0.0,93
+CNN,"Nine people were killed in a forest fire in southern India after becoming trapped while hiking, police say… https://t.co/8D5LpGUPTI",Mon Mar 12 11:40:08 +0000 2018,-0.8834,0.0,0.593,0.407,94
+CNN,Update: At least 39 people are dead after a plane crashed while landing at Nepal's Tribhuvan Airport. The plane had… https://t.co/5pHNuf5HV1,Mon Mar 12 11:36:55 +0000 2018,-0.6486,0.0,0.815,0.185,95
+CNN,A second fertility clinic in the US says its eggs and embryos may no longer be viable after a storage tank malfunct… https://t.co/H1evFm2yUD,Mon Mar 12 11:30:09 +0000 2018,-0.296,0.0,0.901,0.099,96
+CNN,"5 things for Monday:
+
+- Gun debate
+- New York helicopter crash
+- California hostage deaths
+- UK and Russia
+- China… https://t.co/gjHCdOHxKL",Mon Mar 12 11:20:04 +0000 2018,-0.6249,0.0,0.746,0.254,97
+CNN,"The pilot of a helicopter that went down in New York's East River on Sunday is the sole survivor of the crash, afte… https://t.co/NmFrgYLbtx",Mon Mar 12 11:13:05 +0000 2018,-0.0516,0.095,0.802,0.103,98
+CNN,"RT @NewDay: ""Proposals without action remain proposals"": Florida shooting survivor David Hogg responds to the White House's guns and school…",Mon Mar 12 11:01:47 +0000 2018,0.3612,0.116,0.884,0.0,99
+CNN,"The pilot of a helicopter that went down in New York's East River Sunday is the sole survivor of the crash, after a… https://t.co/6BHCTbmRXz",Mon Mar 12 11:00:08 +0000 2018,-0.0516,0.095,0.802,0.103,100
+CNN,"Tiger Woods roars to second-place finish at the Valspar Championship, finishing just one behind the leader for his… https://t.co/JB8Hb07e6u",Mon Mar 12 10:50:06 +0000 2018,0.4404,0.139,0.861,0.0,101
+CNN,"When tragedy struck, athletes stepped up for a Florida high school https://t.co/xFgbMUuFkK https://t.co/IMO4VlTKBi",Mon Mar 12 10:42:23 +0000 2018,-0.7506,0.0,0.61,0.39,102
+CNN,"if we are to truly respect the sacrifice of the 3 Yountville victims who served the veteran community, we must help… https://t.co/5RCrG9jtxg",Mon Mar 12 10:30:06 +0000 2018,0.5719,0.228,0.684,0.087,103
+CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/8z6uuKcFnA",Mon Mar 12 10:22:34 +0000 2018,0.0772,0.053,0.947,0.0,104
+CNN,"13 people have been injured after a plane crashed on the runway while landing at Tribhuvan Airport in Kathmandu, Ne… https://t.co/xthms1y5Fx",Mon Mar 12 10:10:39 +0000 2018,-0.4019,0.0,0.876,0.124,105
+CNN,A storage tank malfunction at a San Francisco fertility center may have left some eggs and embryos unviable https://t.co/lSyzbJpHSJ,Mon Mar 12 10:05:41 +0000 2018,0.0,0.0,1.0,0.0,106
+CNN,Post-Soviet swingers versus the Kremlin https://t.co/t0qWrc5xSw https://t.co/k6xQGIj7KW,Mon Mar 12 10:00:16 +0000 2018,0.0,0.0,1.0,0.0,107
+CNN,"The northeastern United States is bracing for its third significant winter storm in less than two weeks, with the p… https://t.co/jGJggxhxcp",Mon Mar 12 09:53:02 +0000 2018,0.5574,0.195,0.805,0.0,108
+CNN,"What's today's Google Doodle? Meet William Henry Perkin, who invented the color purple (by accident) https://t.co/p3mxvDw0rc",Mon Mar 12 09:42:02 +0000 2018,0.0,0.0,1.0,0.0,109
+CNN,Britain's government could take retaliatory measures if a link with Moscow is established in the attempted murder o… https://t.co/fUpo6cmFCC,Mon Mar 12 09:30:42 +0000 2018,-0.6908,0.0,0.783,0.217,110
+CNN,Republican Sen. Ron Johnson says he'd back legislation opposing President Trump's newly announced tariffs on steel… https://t.co/ayeX2ryK0M,Mon Mar 12 09:30:27 +0000 2018,0.0,0.0,1.0,0.0,111
+CNN,"""I think there's a bunch of guys waiting for this to be over. It's never going to be over."" 
+
+#TimesUp co-founder N… https://t.co/0hDrB0l2jW",Mon Mar 12 09:30:11 +0000 2018,0.0,0.0,1.0,0.0,112
+CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.”… https://t.co/jyjWplyUJv",Mon Mar 12 09:17:02 +0000 2018,0.8481,0.313,0.687,0.0,113
+CNN,"The pilot of a helicopter that went down in New York's East River on Sunday is the sole survivor of the crash, afte… https://t.co/QsQwFZ8v5W",Mon Mar 12 09:03:20 +0000 2018,-0.0516,0.095,0.802,0.103,114
+CNN,India by train -- with dogs? One couple shares their story https://t.co/EPnLBLr62F via @CNNTravel https://t.co/aSY4yWG2Jg,Mon Mar 12 09:01:47 +0000 2018,0.296,0.136,0.864,0.0,115
+CNN,"How ""Meet the Press"" moderator Chuck Todd responded to President Trump's vulgar insult https://t.co/l753TgNcrA https://t.co/kbRyBjMvUt",Mon Mar 12 09:00:14 +0000 2018,-0.5106,0.0,0.809,0.191,116
+CNN,"China's largely ceremonial parliament overwhelmingly endorsed a controversial change to the country's constitution,… https://t.co/y4K7Bqocx7",Mon Mar 12 08:44:12 +0000 2018,-0.0772,0.131,0.654,0.216,117
+CNN,"This waitress took time to cut an elderly diner's ham, and the kind act won her a college scholarship… https://t.co/b2Xo8BpcCg",Mon Mar 12 08:30:29 +0000 2018,0.7184,0.282,0.635,0.083,118
+CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/eO2vrx5mL0",Mon Mar 12 08:18:36 +0000 2018,0.5719,0.239,0.761,0.0,119
+CNN,"The acceptance speech the director of ""Moonlight"" never got to give https://t.co/k2EDYvLkK3 https://t.co/5ZXGZQy4OI",Mon Mar 12 08:00:15 +0000 2018,0.4588,0.2,0.8,0.0,120
+CNN,What's behind the stamina of Russian President Vladimir Putin? The 65-year-old is now contesting his fourth preside… https://t.co/ctpS9nkZav,Mon Mar 12 07:46:38 +0000 2018,0.296,0.115,0.885,0.0,121
+CNN,"The Trump Organization and Jared Kushner's family company are planning to do business together, The New York Times… https://t.co/Lqa7TIBa0d",Mon Mar 12 07:30:12 +0000 2018,0.0,0.0,1.0,0.0,122
+CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/7OfvS1IVt8",Mon Mar 12 07:30:01 +0000 2018,-0.6486,0.0,0.788,0.212,123
+CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/0fnlNDzdLX,Mon Mar 12 07:10:57 +0000 2018,-0.8625,0.0,0.556,0.444,124
+CNN,"Elon Musk says his Mars rocket will fly ""short flights"" next year https://t.co/rGLLBpLovB https://t.co/BRg9lYnoS5",Mon Mar 12 07:00:04 +0000 2018,0.0,0.0,1.0,0.0,125
+CNN,"The northeastern United States is bracing for its third significant winter storm in less than two weeks, with the p… https://t.co/OHf0hILIvW",Mon Mar 12 06:58:01 +0000 2018,0.5574,0.195,0.805,0.0,126
+CNN,Five people have now died after the helicopter they were passengers on went down on Sunday evening in New York's Ea… https://t.co/CdF9nj9SA8,Mon Mar 12 06:53:14 +0000 2018,-0.5574,0.0,0.854,0.146,127
+CNN,"Media reports suggest UK government is close to finalizing retaliatory measures, including diplomatic expulsions an… https://t.co/wNIdwPhB45",Mon Mar 12 06:45:04 +0000 2018,0.0,0.0,1.0,0.0,128
+CNN,"The US House of Representatives is set to vote this week on a bill to give money for more security at schools, as t… https://t.co/F8SJOLf7OK",Mon Mar 12 06:38:59 +0000 2018,0.4005,0.105,0.895,0.0,129
+CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/MOeIElY4gO",Mon Mar 12 06:37:02 +0000 2018,0.5719,0.239,0.761,0.0,130
+CNN,"President Xi Jinping's power knows no bounds, writes Samantha Vinograd for @CNNOpinion https://t.co/WTsENl1SH7 https://t.co/tWlL3lu4DO",Mon Mar 12 06:30:15 +0000 2018,-0.296,0.0,0.855,0.145,131
+CNN,"""I think there's a bunch of guys waiting for this to be over. It's never going to be over."" 
+
+#TimesUp co-founder N… https://t.co/nElZn1eID1",Mon Mar 12 06:20:26 +0000 2018,0.0,0.0,1.0,0.0,132
+CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.”… https://t.co/PutUhFxV7X",Mon Mar 12 06:08:57 +0000 2018,0.8481,0.313,0.687,0.0,133
+CNN,"After almost 32 years, a police executive welcomes an arrest in the death of her sister https://t.co/xY6B5Tq75F https://t.co/1d4zXQvdos",Mon Mar 12 06:00:04 +0000 2018,-0.5574,0.117,0.609,0.274,134
+CNN,"Russian President Vladimir Putin ""couldn't care less"" if Russian citizens meddled in the 2016 US election… https://t.co/Lewyec1WMn",Mon Mar 12 05:49:38 +0000 2018,-0.3875,0.0,0.859,0.141,135
+CNN,"Marine Le Pen, leader of France's far-right National Front, thinks it's time for the party to rebrand after her fai… https://t.co/JAQBkhB2cC",Mon Mar 12 05:38:00 +0000 2018,0.4019,0.119,0.881,0.0,136
+CNN,The trouble with President Trump's North Korea gambit https://t.co/tT3uQ5DjX9 (via @CNNOpinion) https://t.co/dUi0NqzHLz,Mon Mar 12 05:30:05 +0000 2018,-0.4019,0.0,0.803,0.197,137
+CNN,"South Korean officials will meet China's Xi Jinping on Monday, as part of an effort to bring jittery regional power… https://t.co/iUoFzaaS9w",Mon Mar 12 05:17:00 +0000 2018,0.0,0.0,1.0,0.0,138
+CNN,India by train -- with dogs? One couple shares their story https://t.co/6SGoucHiCg via @CNNTravel https://t.co/PudINg7byp,Mon Mar 12 05:13:20 +0000 2018,0.296,0.136,0.864,0.0,139
+CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/re1dVKA9dp",Mon Mar 12 05:06:29 +0000 2018,0.0772,0.053,0.947,0.0,140
+CNN,President Trump's speech at a rally in support of Pennsylvania state Rep. Rick Saccone proves why he is the GOP's w… https://t.co/DFblDfVNza,Mon Mar 12 05:00:15 +0000 2018,0.4019,0.119,0.881,0.0,141
+CNN,The 64 most outrageous lines from US President Trump's untethered Pennsylvania speech https://t.co/YY4DCphOHO https://t.co/GHIkgNS15G,Mon Mar 12 04:45:51 +0000 2018,-0.5095,0.0,0.798,0.202,142
+CNN,"When tragedy struck, athletes stepped up for a Florida high school https://t.co/ec1JHh6bpF https://t.co/chZzUcxqHE",Mon Mar 12 04:37:09 +0000 2018,-0.7506,0.0,0.61,0.39,143
+CNN,President Trump says South Korean President Moon Jae-in credited him with the success of the 2018 Winter Olympic Ga… https://t.co/Zbmh7LnKrJ,Mon Mar 12 04:30:05 +0000 2018,0.7351,0.256,0.744,0.0,144
+CNN,Hong Kong's pro-democracy camp has endured a setback in crucial by-elections as fears grow that Beijing is tighteni… https://t.co/70z09CBmu7,Mon Mar 12 04:26:53 +0000 2018,-0.4215,0.0,0.859,0.141,145
+CNN,Socialism with Chinese characteristics? Beijing's propaganda explained https://t.co/diFchMooCV https://t.co/KCnPrBoIIk,Mon Mar 12 04:21:39 +0000 2018,-0.25,0.0,0.8,0.2,146
+CNN,"CNN Exclusive: The more opioids doctors prescribe, the more money they make https://t.co/V8iIADerxP https://t.co/EJ1r0J37QF",Mon Mar 12 04:14:58 +0000 2018,0.128,0.103,0.897,0.0,147
+CNN,Customers of a restaurant and a pub in the UK have been urged to wash their clothes as a precaution after traces of… https://t.co/EIruohNPhO,Mon Mar 12 04:08:24 +0000 2018,0.0,0.0,1.0,0.0,148
+CNN,"President Trump says his 2020 slogan will be ""Keep America Great!"" https://t.co/xZCKakQ1E1 https://t.co/W3BYxXkokH",Mon Mar 12 04:00:17 +0000 2018,0.0,0.0,1.0,0.0,149
+CNN,The trouble with US President Trump's North Korea gambit https://t.co/nmkmJNapi4 (via @CNNOpinion) https://t.co/v9cMhyIk59,Mon Mar 12 03:43:40 +0000 2018,-0.4019,0.0,0.816,0.184,150
+CNN,President Trump insults NBC News anchor Chuck Todd again https://t.co/jgIVbQb7g6 https://t.co/2z6kDLutxF,Mon Mar 12 03:30:13 +0000 2018,-0.4215,0.0,0.781,0.219,151
 CNN,"“Anywhere else my Great Hall would be a decent sized home, and my Great Staircase would be a mini tower block.” 
 
-C… https://t.co/LG1j9ka1Zb",Mon Mar 12 03:22:41 +0000 2018,0.8481,0.301,0.699,0.0,51
-CNN,"Uber executive says white men need to ""make noise"" about diversity https://t.co/ZjRsf2HfZX https://t.co/AeFouPLbn5",Mon Mar 12 03:15:07 +0000 2018,0.0,0.0,1.0,0.0,52
-CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/0CsYK3wJA4",Mon Mar 12 03:14:32 +0000 2018,-0.6486,0.0,0.788,0.212,53
-CNN,What's behind the stamina of Russian President Vladimir Putin? The 65-year-old is now contesting his fourth preside… https://t.co/S3KQcNSLQb,Mon Mar 12 03:09:23 +0000 2018,0.296,0.115,0.885,0.0,54
-CNN,"For porn star Stormy Daniels, controversy blows up into a club scene bonanza https://t.co/AtbT5RWTkQ https://t.co/gsP2zuf49u",Mon Mar 12 03:03:36 +0000 2018,0.0,0.0,1.0,0.0,55
-CNN,"The mayor of Kansas City says he hasn't ""shed a tear"" over not making the cut to host Amazon's new second headquart… https://t.co/nHbMd2nOpM",Mon Mar 12 03:00:19 +0000 2018,0.2057,0.08,0.92,0.0,56
+C… https://t.co/LG1j9ka1Zb",Mon Mar 12 03:22:41 +0000 2018,0.8481,0.301,0.699,0.0,152
+CNN,"Uber executive says white men need to ""make noise"" about diversity https://t.co/ZjRsf2HfZX https://t.co/AeFouPLbn5",Mon Mar 12 03:15:07 +0000 2018,0.0,0.0,1.0,0.0,153
+CNN,"A knife-wielding man was shot dead outside the Iranian ambassador's residence in Vienna on Sunday night, following… https://t.co/0CsYK3wJA4",Mon Mar 12 03:14:32 +0000 2018,-0.6486,0.0,0.788,0.212,154
+CNN,What's behind the stamina of Russian President Vladimir Putin? The 65-year-old is now contesting his fourth preside… https://t.co/S3KQcNSLQb,Mon Mar 12 03:09:23 +0000 2018,0.296,0.115,0.885,0.0,155
+CNN,"For porn star Stormy Daniels, controversy blows up into a club scene bonanza https://t.co/AtbT5RWTkQ https://t.co/gsP2zuf49u",Mon Mar 12 03:03:36 +0000 2018,0.0,0.0,1.0,0.0,156
+CNN,"The mayor of Kansas City says he hasn't ""shed a tear"" over not making the cut to host Amazon's new second headquart… https://t.co/nHbMd2nOpM",Mon Mar 12 03:00:19 +0000 2018,0.2057,0.08,0.92,0.0,157
 CNN,"""I just want to reiterate it would be very unwise for them to use weaponized gas."" 
 
-US Defense Secretary James Mat… https://t.co/BiCZaX8dmc",Mon Mar 12 02:48:56 +0000 2018,0.2023,0.123,0.877,0.0,57
-CNN,"Democratic Sen. Kamala Harris urges activists in Nevada to ""go in fighting"" https://t.co/EiVaZa1Y6Q https://t.co/0DsYHu4ZRI",Mon Mar 12 02:45:06 +0000 2018,-0.3612,0.0,0.839,0.161,58
-CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/sUHibkEj1V,Mon Mar 12 02:37:58 +0000 2018,-0.8625,0.0,0.556,0.444,59
-CNN,"GOP touts women in Trump cabinet — but the number lags behind Obama, Clinton https://t.co/TQJUnqoyZ1 https://t.co/YNmFBRbIlc",Mon Mar 12 02:30:12 +0000 2018,-0.431,0.082,0.676,0.242,60
-CNN,India by train -- with dogs? One couple shares their story https://t.co/nOZjYzw2jh via @CNNTravel https://t.co/qVJH7Cqdy5,Mon Mar 12 02:21:35 +0000 2018,0.296,0.136,0.864,0.0,61
-CNN,"Gunman at California veterans' home ""wanted to get back at them"" but ""not kill"" https://t.co/sPmjx2ZUhy https://t.co/Ye1xjkYNOF",Mon Mar 12 02:15:03 +0000 2018,0.7275,0.254,0.746,0.0,62
+US Defense Secretary James Mat… https://t.co/BiCZaX8dmc",Mon Mar 12 02:48:56 +0000 2018,0.2023,0.123,0.877,0.0,158
+CNN,"Democratic Sen. Kamala Harris urges activists in Nevada to ""go in fighting"" https://t.co/EiVaZa1Y6Q https://t.co/0DsYHu4ZRI",Mon Mar 12 02:45:06 +0000 2018,-0.3612,0.0,0.839,0.161,159
+CNN,Ethiopian soldiers accidentally killed 9 civilians and injured 12 others in a military operation targeting insurgen… https://t.co/sUHibkEj1V,Mon Mar 12 02:37:58 +0000 2018,-0.8625,0.0,0.556,0.444,160
+CNN,"GOP touts women in Trump cabinet — but the number lags behind Obama, Clinton https://t.co/TQJUnqoyZ1 https://t.co/YNmFBRbIlc",Mon Mar 12 02:30:12 +0000 2018,-0.431,0.082,0.676,0.242,161
+CNN,India by train -- with dogs? One couple shares their story https://t.co/nOZjYzw2jh via @CNNTravel https://t.co/qVJH7Cqdy5,Mon Mar 12 02:21:35 +0000 2018,0.296,0.136,0.864,0.0,162
+CNN,"Gunman at California veterans' home ""wanted to get back at them"" but ""not kill"" https://t.co/sPmjx2ZUhy https://t.co/Ye1xjkYNOF",Mon Mar 12 02:15:03 +0000 2018,0.7275,0.254,0.746,0.0,163
 CNN,"""I think there's a bunch of guys waiting for this to be over. It's never going to be over."" 
 
-#TimesUp co-founder N… https://t.co/VoFG37bK4f",Mon Mar 12 02:10:48 +0000 2018,0.0,0.0,1.0,0.0,63
-CNN,"For porn star Stormy Daniels, controversy blows up into a club scene bonanza https://t.co/a0SKoZVEXC https://t.co/YYQZaM2GoT",Mon Mar 12 02:00:10 +0000 2018,0.0,0.0,1.0,0.0,64
-CNN,"China's largely ceremonial parliament overwhelmingly endorsed a controversial change to the country's constitution,… https://t.co/R4Z5ID7lJv",Mon Mar 12 01:59:00 +0000 2018,-0.0772,0.131,0.654,0.216,65
-CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/cFgM6nYxtZ",Mon Mar 12 01:51:56 +0000 2018,0.0772,0.053,0.947,0.0,66
-CNN,"Marine Le Pen, leader of France's far-right National Front, thinks it's time for the party to rebrand after her fai… https://t.co/oZkVKgWwjJ",Mon Mar 12 01:47:56 +0000 2018,0.4019,0.119,0.881,0.0,67
-CNN,The one crime that impacts every American https://t.co/5MWba3fSkF (via @CNNOpinion) https://t.co/LEtyQ1QDPv,Mon Mar 12 01:45:04 +0000 2018,-0.5423,0.0,0.741,0.259,68
-CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/SYwyfd1dKo",Mon Mar 12 01:36:44 +0000 2018,0.5719,0.239,0.761,0.0,69
-CNN,"China's commerce minister says there would be no winner in any trade war between China and the United States, but t… https://t.co/Q6AHePo3DI",Mon Mar 12 01:30:08 +0000 2018,0.0644,0.163,0.683,0.154,70
-CNN,"Russian President Vladimir Putin ""couldn't care less"" if Russian citizens meddled in the 2016 US election… https://t.co/DVllKFcJc3",Mon Mar 12 01:15:05 +0000 2018,-0.3875,0.0,0.859,0.141,71
-CNN,At least two people have been killed and one rescued after a helicopter went down in New York's East River https://t.co/L5dd7QQerY,Mon Mar 12 01:13:56 +0000 2018,-0.4019,0.111,0.711,0.178,72
-CNN,"Syrian regime gains ground in ""semi-destroyed rubble town"" https://t.co/rtmGdhI5iY https://t.co/Gin3Bthkfp",Mon Mar 12 01:00:17 +0000 2018,0.34,0.211,0.789,0.0,73
-CNN,"""I would only speak if I felt that I could be heard,"" @Oprah tells @VanJones68 after he asks her what she would say… https://t.co/33FeeUtRGU",Mon Mar 12 00:50:00 +0000 2018,0.0,0.0,1.0,0.0,74
-CNN,"Director @ava discusses the need for an ""inclusion revolution"" in Hollywood with @Oprah and @VanJones68 on… https://t.co/QYKRKnmN1z",Mon Mar 12 00:47:58 +0000 2018,0.0,0.0,1.0,0.0,75
-CNN,A helicopter crashed into New York's East River on Sunday night. One person was removed  but it is not known how ma… https://t.co/a9lewmpU5M,Mon Mar 12 00:42:58 +0000 2018,0.0,0.0,1.0,0.0,76
-CNN,"""Betsy DeVos basically paid for her position...I think she's not the right person for this,"" says Florida shooting… https://t.co/lZQF4rUgMn",Mon Mar 12 00:35:43 +0000 2018,0.0,0.0,1.0,0.0,77
-CNN,"""I wake up in the morning, and the first thing I say is 'thank you',"" @Oprah tells @VanJones68 #VanJonesShow… https://t.co/99YmGEmlmY",Mon Mar 12 00:30:00 +0000 2018,0.3612,0.122,0.878,0.0,78
-CNN,"""Betsey DeVos basically paid for her position...I think she's not the right person for this,"" says Florida shooting… https://t.co/KlYFTYixcc",Mon Mar 12 00:29:14 +0000 2018,0.0,0.0,1.0,0.0,79
-CNN,"""Whether you are Republican or Democrat or Libertarian ... underneath everybody is this desire and need to be value… https://t.co/FvN6jhNpQS",Mon Mar 12 00:25:03 +0000 2018,0.6155,0.218,0.782,0.0,80
-CNN,"""I wanted to be able to bring kids from all over the country who wouldn't be able to afford to get to the march. Th… https://t.co/SmRirpdPaj",Mon Mar 12 00:21:21 +0000 2018,0.0,0.0,1.0,0.0,81
-CNN,"In politics today, ""everybody is feeding ... on the hysteria and the negativity. You've got to stay in the light,""… https://t.co/1MQ58opLIF",Mon Mar 12 00:11:04 +0000 2018,-0.7351,0.0,0.754,0.246,82
-CNN,"The #VanJonesShow with @Oprah and @Ava starts now. Head there wherever you are: on TV, desktop, mobile devices, app… https://t.co/fmRPmzAzex",Mon Mar 12 00:00:28 +0000 2018,0.0,0.0,1.0,0.0,83
-CNN,"JUST IN: The White House unveils new gun and school safety proposals, including hardening security, background chec… https://t.co/iGHZT9nZAQ",Sun Mar 11 23:58:43 +0000 2018,0.4215,0.23,0.664,0.106,84
-CNN,"Join CNN’s group in the #MarchMadness Bracket Challenge to see how you stack up against @wolfblitzer, @brookebcnn,… https://t.co/Mus3MoyUKl",Sun Mar 11 23:45:04 +0000 2018,0.3612,0.179,0.821,0.0,85
-CNN,President Trump hits EU on trade days after imposing new tariffs https://t.co/J9jZUVayuz https://t.co/lh6l1STK0q,Sun Mar 11 23:30:15 +0000 2018,-0.1027,0.0,0.896,0.104,86
-CNN,Warren Buffett has promised $1 million a year for life to the Berkshire Hathaway employee who picks a perfect brack… https://t.co/e9QUrDgVAU,Sun Mar 11 23:15:07 +0000 2018,0.7351,0.267,0.733,0.0,87
-CNN,Are you ready for Oprah Winfrey? The countdown is on. Tune in for her interview with @VanJones68 on The… https://t.co/1e5VNibLMW,Sun Mar 11 23:00:13 +0000 2018,0.3612,0.116,0.884,0.0,88
-CNN,Take a look at the week in politics https://t.co/8UCIFHzvaL https://t.co/nuQdD2Lo3Y,Sun Mar 11 22:45:06 +0000 2018,0.0,0.0,1.0,0.0,89
-CNN,"""The fact that they were creating this national march to say, 'enough.' ... what it takes to risk that on a nationa… https://t.co/OZykI3r4cU",Sun Mar 11 22:30:12 +0000 2018,0.0258,0.091,0.823,0.086,90
-CNN,President Trump says the person he most wants to run against in 2020 is Oprah https://t.co/TThb2WDIm0 https://t.co/4yUB269pjG,Sun Mar 11 22:15:07 +0000 2018,0.0,0.0,1.0,0.0,91
-CNN,You know their name. But how well do you know your Kennedy trivia? #TheKennedys premieres tonight at 9p. https://t.co/3YRwzmSy7U,Sun Mar 11 22:00:37 +0000 2018,0.2732,0.104,0.896,0.0,92
-CNN,"In California, a 15-hour standoff that left 1 officer dead started with a car chase https://t.co/zrHSHjn8K2 https://t.co/ajJH4ADUMC",Sun Mar 11 21:45:06 +0000 2018,-0.6486,0.0,0.751,0.249,93
-CNN,"""Do not spend all your time talking about your opponents."" Oprah has some advice for anyone who runs for president… https://t.co/YCsne8112s",Sun Mar 11 21:30:39 +0000 2018,0.0,0.0,1.0,0.0,94
-CNN,Socialism with Chinese characteristics? Beijing's propaganda explained https://t.co/Cx54QwIl0B https://t.co/E5YlfDmL6a,Sun Mar 11 21:15:05 +0000 2018,-0.25,0.0,0.8,0.2,95
-CNN,Hong Kong elects new lawmakers as city faces decades of Xi Jinping rule https://t.co/3emq2iUe2y https://t.co/jYEBTnCOdj,Sun Mar 11 21:00:13 +0000 2018,0.0,0.0,1.0,0.0,96
-CNN,President Trump blames diplomatic shortages on Democrats https://t.co/ejID8n95K5 https://t.co/IgpNWHjcSO,Sun Mar 11 20:45:06 +0000 2018,-0.5106,0.0,0.619,0.381,97
-CNN,"""I wake up in the morning, and the first thing I say is 'thank you,'"" Oprah Winfrey tells CNN's Van Jones. Watch he… https://t.co/nRcua0cyiR",Sun Mar 11 20:30:07 +0000 2018,0.3612,0.102,0.898,0.0,98
-CNN,"Sen. Mark Warner says the US is ""woefully unprepared"" for cyber threats https://t.co/KjebUo8zDU https://t.co/kD0Zb0Xy0q",Sun Mar 11 20:15:09 +0000 2018,-0.6705,0.0,0.686,0.314,99
-CNN,The section of a Baltimore park that once hosted Confederate monuments has been renamed in honor of abolitionist Ha… https://t.co/Fkaa1bx6qm,Sun Mar 11 20:00:08 +0000 2018,0.4939,0.151,0.849,0.0,100
-CNN,JUST IN: The White House is expected to unveil gun and school safety proposals Sunday https://t.co/h9ucmXTEwu https://t.co/zkpIB85soc,Sun Mar 11 19:52:47 +0000 2018,0.1027,0.139,0.743,0.119,101
-CNN,"Victims of California veterans home shooting lived ""to serve others"" https://t.co/dMh3ZInjTJ https://t.co/kKBTBjUYJ6",Sun Mar 11 19:45:06 +0000 2018,-0.3182,0.0,0.827,0.173,102
-CNN,"""I would only speak if I felt that I could be heard."" TV legend and philanthropist Oprah Winfrey discusses what she… https://t.co/KGzQSdTKO1",Sun Mar 11 19:30:43 +0000 2018,0.0,0.0,1.0,0.0,103
-CNN,"President Trump questions Rep. Maxine Waters' intelligence again, says she is ""a low IQ individual""… https://t.co/dNNeikovUO",Sun Mar 11 19:15:08 +0000 2018,0.25,0.161,0.729,0.109,104
-CNN,"When tragedy struck, athletes stepped up for a Florida high school https://t.co/nLTbM2hGht https://t.co/1ifqi4Vxqz",Sun Mar 11 19:00:13 +0000 2018,-0.7506,0.0,0.61,0.39,105
-CNN,China clears way for President Xi Jinping to rule for life https://t.co/GXHecoZM5L https://t.co/yPQhBmscRH,Sun Mar 11 18:45:04 +0000 2018,0.0772,0.098,0.902,0.0,106
-CNN,The 64 most outrageous lines from President Trump's untethered Pennsylvania speech https://t.co/r3vR1XPK4D https://t.co/sLolInfQqS,Sun Mar 11 18:30:14 +0000 2018,-0.5095,0.0,0.785,0.215,107
-CNN,"""Saturday Night Live"" parodied the season finale of ""The Bachelor"" in its cold open, but rather than a couple break… https://t.co/Tlomm97PAZ",Sun Mar 11 18:15:13 +0000 2018,0.0,0.0,1.0,0.0,108
-CNN,"Here's the methodology behind CNN's exclusive story, ""The more opioids doctors prescribe, the more money they make""… https://t.co/6Holhn9uKu",Sun Mar 11 18:00:14 +0000 2018,0.128,0.081,0.919,0.0,109
-CNN,"Barack Obama's faith in US democracy made him blind to what would come, writes Julian Zelizer, as he and seven hist… https://t.co/FTxT16oh8x",Sun Mar 11 17:45:07 +0000 2018,0.0258,0.11,0.784,0.106,110
-CNN,"CNN Exclusive: The more opioids doctors prescribe, the more money they make https://t.co/eAXuBJ1diw https://t.co/gcrT4jfpiU",Sun Mar 11 17:30:04 +0000 2018,0.128,0.103,0.897,0.0,111
-CNN,Wall Street is still trying to figure out which President Trump it'll get https://t.co/CYmOnyOIZW https://t.co/fFPsFhDTEu,Sun Mar 11 17:15:06 +0000 2018,0.0,0.0,1.0,0.0,112
-CNN,"The papacy has ruled for 2,000 years. Now go back to the beginning of the Pope’s rise to power. #Pope premieres ton… https://t.co/gI3SrvhHav",Sun Mar 11 17:01:09 +0000 2018,0.0,0.0,1.0,0.0,113
-CNN,"President Trump brags about his party's ""5-0"" record in House special elections https://t.co/vPSCfNDYeF https://t.co/imHxAcVfCB",Sun Mar 11 16:45:10 +0000 2018,0.4019,0.172,0.828,0.0,114
-CNN,Northeast prepares for its 3rd winter storm in the past 10 days https://t.co/JoTRQetMZY https://t.co/Jc6CQmUv7G,Sun Mar 11 16:30:07 +0000 2018,0.0,0.0,1.0,0.0,115
-CNN,"""Frankly, I just don't see how any senator can vote to weaken the regulations on Wall Street banks."" Democratic Sen… https://t.co/UElyMlyCl7",Sun Mar 11 16:16:06 +0000 2018,-0.4215,0.0,0.872,0.128,116
-CNN,Customers of a restaurant and a pub in the UK have been urged to wash their clothes as a precaution after traces of… https://t.co/D6mdjVheg6,Sun Mar 11 16:00:11 +0000 2018,0.0,0.0,1.0,0.0,117
-CNN,"""We can't do what we did with Iran and let off the pressure and then just watch the behavior go in the wrong direct… https://t.co/Z8knp3MEam",Sun Mar 11 15:45:52 +0000 2018,-0.6486,0.0,0.813,0.187,118
-CNN,"US Defense Secretary James Mattis warns Syria against using chemical weapons, doubts Russian missile claims… https://t.co/SS2g8Prnq1",Sun Mar 11 15:30:12 +0000 2018,-0.6124,0.075,0.6,0.325,119
-CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/LV5n4lhDKy",Sun Mar 11 15:00:15 +0000 2018,0.2187,0.13,0.774,0.095,120
-CNN,Video games do not teach people to become shooters in real life | By Lindsay Grace via @CNNOpinion… https://t.co/To5tJkefdd,Sun Mar 11 14:45:03 +0000 2018,0.4215,0.141,0.859,0.0,121
-CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/Nf0Lm30jOd",Sun Mar 11 14:30:10 +0000 2018,0.0,0.0,1.0,0.0,122
-CNN,11 tax deductions and other ways to cut your 2017 tax bill https://t.co/jq7skCHDUf https://t.co/EJkXr8jlW9,Sun Mar 11 14:15:07 +0000 2018,-0.2732,0.0,0.861,0.139,123
-CNN,"Oprah says she's ""not running for office,""  but her advice for someone who might is ""do not give your energy to the… https://t.co/n2iTxgYjrl",Sun Mar 11 14:03:27 +0000 2018,-0.3007,0.0,0.908,0.092,124
-CNN,11 tax deductions and other ways to cut your 2017 tax bill https://t.co/QQ1nZJEfRJ https://t.co/D2DABt7h1W,Sun Mar 11 14:01:04 +0000 2018,-0.2732,0.0,0.861,0.139,125
-CNN,"Anthony C. Acevedo, the first Mexican-American to register as a Holocaust survivor, was a World War II medic and on… https://t.co/IQ14hNQBWr",Sun Mar 11 13:31:02 +0000 2018,-0.34,0.107,0.726,0.167,126
-CNN,Sen. Elizabeth Warren: “I am not running for president in 2020” https://t.co/0dy8gxtdRw https://t.co/M99yjYnqvR,Sun Mar 11 13:28:03 +0000 2018,0.0,0.0,1.0,0.0,127
-CNN,"Sen. Elizabeth Warren: ""I want the President to succeed … but I am very worried he is going to go into these negoti… https://t.co/Q3DQPYof0Y",Sun Mar 11 13:22:14 +0000 2018,-0.2475,0.128,0.745,0.127,128
-CNN,"Sen. Elizabeth Warren: ""I am very glad to see this administration move toward a diplomatic approach to North Korea”… https://t.co/bFt8iWwzKq",Sun Mar 11 13:20:57 +0000 2018,0.5095,0.155,0.845,0.0,129
-CNN,"GOP Sen. Ron Johnson of Wisconsin: “It’s just incredibly important to, I would say, ratchet up the sanctions agains… https://t.co/9tuearvy9f",Sun Mar 11 13:14:35 +0000 2018,0.2716,0.104,0.896,0.0,130
-CNN,This photographer snaps cancer-stricken kids as superheroes https://t.co/bRrWqqIk7r https://t.co/5MFEqEFbMw,Sun Mar 11 13:01:02 +0000 2018,0.0,0.0,1.0,0.0,131
-CNN,"Barbie unveiled dolls based on real-life figures including Amelia Earhart, Frida Kahlo, Katherine Johnson and Chloe… https://t.co/Ss8N6WEbY4",Sun Mar 11 12:31:03 +0000 2018,0.0,0.0,1.0,0.0,132
-CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/3MB6jMLDON",Sun Mar 11 12:01:04 +0000 2018,0.2187,0.13,0.774,0.095,133
-CNN,"Inspired by her travels, this artist paints stunning pictures on tea bags https://t.co/O8piOHSRFL https://t.co/HZSii2dacL",Sun Mar 11 11:31:07 +0000 2018,0.7003,0.326,0.674,0.0,134
-CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/2R3nT6dWU7",Sun Mar 11 11:01:05 +0000 2018,0.0,0.0,1.0,0.0,135
-CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/5897yT64XL",Sun Mar 11 10:31:02 +0000 2018,0.0,0.0,1.0,0.0,136
-CNN,"These high-performance cars, which are priced in the millions, can't be legally driven on public roads… https://t.co/xF15GOjWIb",Sun Mar 11 10:01:02 +0000 2018,-0.0762,0.0,0.925,0.075,137
-CNN,"""Dumpster fire"" is in the Merriam-Webster dictionary now, defined as ""an utterly calamitous or mismanaged situation… https://t.co/oMS9hLU8Lx",Sun Mar 11 09:31:04 +0000 2018,-0.4588,0.0,0.789,0.211,138
-CNN,"Child marriage is declining, a new UNICEF report says - but 12 million girls are still married in childhood every y… https://t.co/DAUZ1yVebf",Sun Mar 11 09:01:05 +0000 2018,0.0,0.0,1.0,0.0,139
-CNN,"Scientists unravel the mystery of the Roman ""gate to hell,"" which was thought to belch a ""breath of death"" that cau… https://t.co/WJbHlsGepb",Sun Mar 11 08:31:04 +0000 2018,-0.5994,0.0,0.837,0.163,140
-CNN,"China's largely ceremonial parliament endorses a constitutional amendment, paving the way for President Xi Jinping… https://t.co/RCTC01CJUz",Sun Mar 11 08:30:48 +0000 2018,0.34,0.146,0.854,0.0,141
-CNN,"Find out who and what is making big waves in the worlds of tech, media and innovation. Sign up for PACIFIC, CNN’s n… https://t.co/V8Ln7DhjHo",Sun Mar 11 08:15:05 +0000 2018,0.3818,0.102,0.898,0.0,142
-CNN,Facebook robots may one day follow you around at home https://t.co/urKEOzSzgF https://t.co/t1dARIPBBS,Sun Mar 11 08:01:03 +0000 2018,0.0,0.0,1.0,0.0,143
-CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/kpbDwphXbN",Sun Mar 11 07:31:03 +0000 2018,-0.4767,0.0,0.829,0.171,144
-CNN,Uber says it has started using self-driving trucks to haul freight in Arizona https://t.co/r5bQPtepzj https://t.co/Fdxg8DUHHI,Sun Mar 11 07:01:03 +0000 2018,0.0,0.0,1.0,0.0,145
-CNN,Former White House press secretary Jay Carney says the role he once held has become unrecognizable under President… https://t.co/K3qLcWnL4R,Sun Mar 11 06:59:06 +0000 2018,0.0,0.0,1.0,0.0,146
-CNN,"""Black Panther"" to cross $1 billion worldwide in less than a month https://t.co/wJzaL36egw https://t.co/4uiuQSt2CG",Sun Mar 11 06:30:08 +0000 2018,0.0,0.0,1.0,0.0,147
-CNN,"Over 1.3 million live animals and plants, and a similar number of animal skins, have been exported from Africa to A… https://t.co/fHImyRVV9l",Sun Mar 11 06:01:04 +0000 2018,0.0772,0.061,0.939,0.0,148
-CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/Tm73ZWcpn9,Sun Mar 11 05:46:00 +0000 2018,0.0,0.0,1.0,0.0,149
-CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/MtqRDZ4kgB,Sun Mar 11 05:31:05 +0000 2018,0.0,0.0,1.0,0.0,150
-CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/aRZHkrFLDL",Sun Mar 11 05:16:00 +0000 2018,0.25,0.1,0.9,0.0,151
-CNN,"President Trump is looking at adding impeachment lawyer to the White House team, The New York Times reports… https://t.co/clGPoY680u",Sun Mar 11 05:00:06 +0000 2018,0.0,0.0,1.0,0.0,152
-CNN,"US Attorney General Jeff Sessions says judges blocking President Trump's policies is ""unconstitutional""… https://t.co/6FPpSHLqpd",Sun Mar 11 04:30:06 +0000 2018,-0.3818,0.0,0.833,0.167,153
-CNN,"""A Wrinkle in Time"" breaks through with a new kind of heroism, writes Van Jones for @CNNOpinion… https://t.co/nHKWj0zLmn",Sun Mar 11 04:00:08 +0000 2018,0.5434,0.18,0.82,0.0,154
-CNN,"Washington, save partisan fighting for actual partisan issues — not DACA, writes Fernand Fernandez for @CNNOpinion… https://t.co/PkLyK4GUMq",Sun Mar 11 03:30:11 +0000 2018,0.1779,0.162,0.711,0.127,155
-CNN,"The CEO of dating app Bumble says she pays no mind to Tinder, her biggest competitor and former employer… https://t.co/vOQrSvoZoV",Sun Mar 11 03:00:07 +0000 2018,-0.296,0.0,0.896,0.104,156
-CNN,US worries over China's expanding role in Africa https://t.co/JdQ485Nc35 https://t.co/HoPZkfx31V,Sun Mar 11 02:30:03 +0000 2018,-0.4215,0.0,0.763,0.237,157
-CNN,Oprah says she was inspired to help the Florida school shooting survivors fight for gun control because their dedic… https://t.co/SHC9psBXC6,Sun Mar 11 02:01:39 +0000 2018,0.2263,0.219,0.595,0.186,158
-CNN,"President Trump appears to mock ""presidential"" behavior: ""That's easy"" https://t.co/zvDdpiNUy1",Sun Mar 11 01:37:14 +0000 2018,0.0258,0.212,0.584,0.204,159
-CNN,US Secretary of State Rex Tillerson will resume his normal schedule Sunday after canceling his Saturday schedule of… https://t.co/8g4GLb4WHv,Sun Mar 11 01:30:08 +0000 2018,0.0,0.0,1.0,0.0,160
-CNN,"President Trump discusses the death penalty for drug dealers: ""I don't think we should play games ... These people… https://t.co/yZwcNUrreM",Sun Mar 11 01:28:25 +0000 2018,-0.6705,0.091,0.646,0.262,161
-CNN,"President Trump responds to chants of ""Build the wall"" at a rally in Pennsylvania: ""We are building the wall, 100%"" https://t.co/Oy2HVMcGjp",Sun Mar 11 01:15:30 +0000 2018,0.0,0.0,1.0,0.0,162
-CNN,Ireland seals Six Nations Championship title with four-try victory over Scotland https://t.co/uvZ1EZ067i https://t.co/AL5mTXS040,Sun Mar 11 01:00:18 +0000 2018,0.4404,0.195,0.805,0.0,163
-CNN,"President Trump: Even President Ronald Reagan ""was not great"" on trade https://t.co/UETvww4jNW",Sun Mar 11 00:58:33 +0000 2018,-0.5096,0.0,0.77,0.23,164
-CNN,"President Trump announces his 2020 campaign slogan: ""Keep America Great!"" https://t.co/hKeK7AB2h6",Sun Mar 11 00:46:34 +0000 2018,0.0,0.0,1.0,0.0,165
-CNN,"President Trump: ""I'd love to beat Oprah"" in the 2020 presidential election https://t.co/t30yRIq0zd",Sun Mar 11 00:39:31 +0000 2018,0.6369,0.259,0.741,0.0,166
-CNN,Turkish court frees 2 journalists on bail in trial of Cumhuriyet opposition paper https://t.co/Un1EUty2p6 https://t.co/mEJQZ19oc5,Sun Mar 11 00:30:04 +0000 2018,0.296,0.145,0.855,0.0,167
-CNN,"President Trump hits his predecessors on North Korea: ""They had their shot and all they did was nothing"" https://t.co/CIkhp64uW2",Sun Mar 11 00:26:45 +0000 2018,0.0,0.0,1.0,0.0,168
-CNN,"President Trump on negotiations with North Korea: ""This should have been handled, by the way, over the last 30 year… https://t.co/dKCUO0NRzD",Sun Mar 11 00:20:39 +0000 2018,0.0,0.0,1.0,0.0,169
-CNN,President Trump touts his new steel and aluminum tariffs during a rally for Pennsylvania GOP special election candi… https://t.co/Q3E8P3zFBy,Sun Mar 11 00:14:02 +0000 2018,0.3818,0.136,0.808,0.056,170
-CNN,Will Supreme Court Justice Anthony Kennedy retire and be Republicans' Senate savior?https://t.co/kr6I66I97I https://t.co/RnI7IY8i3j,Sun Mar 11 00:00:06 +0000 2018,0.7906,0.389,0.611,0.0,171
-CNN,LGBTQ groups cry discrimination as Republican Sen. Mike Lee reintroduces religious freedom bill… https://t.co/HqPsXmxcYf,Sat Mar 10 23:30:13 +0000 2018,0.2732,0.218,0.622,0.161,172
-CNN,President Trump's trade moves may be of no help in Pennsylvania special election https://t.co/11inyamR9f https://t.co/vJMpYrhEkU,Sat Mar 10 23:00:19 +0000 2018,0.4939,0.276,0.612,0.112,173
-CNN,US Secretary of State Rex Tillerson changes tune after President Trump accepts meeting with North Korean leader Kim… https://t.co/kFsksZqn0u,Sat Mar 10 22:45:03 +0000 2018,0.3182,0.113,0.887,0.0,174
-CNN,President Trump's estranged adviser Steve Bannon tells a far-right gathering in France that they should handle accu… https://t.co/X2jidYv3xU,Sat Mar 10 22:30:12 +0000 2018,0.0,0.0,1.0,0.0,175
-CNN,"Steven Spielberg's ""Ready Player One"" to have world premiere at SXSW https://t.co/AzahlUPzxB https://t.co/P6cND1J2cs",Sat Mar 10 22:15:05 +0000 2018,0.3612,0.172,0.828,0.0,176
-CNN,Attorney General Jeff Sessions tests limits of immigration powers with asylum moves https://t.co/B8AfIWFrDD https://t.co/8D4RnpFuT3,Sat Mar 10 22:00:22 +0000 2018,0.0,0.0,1.0,0.0,177
-CNN,The week President Trump rewarded enemies and punished friends https://t.co/h9ZNBoxZ9q https://t.co/wgTo39OKvt,Sat Mar 10 21:45:06 +0000 2018,0.0258,0.323,0.359,0.318,178
-CNN,"""The darkness is there to show you your light."" Oprah Winfrey gives advice to Americans feeling jaded amid increasi… https://t.co/bNTETFcemm",Sat Mar 10 21:30:16 +0000 2018,-0.4767,0.065,0.736,0.199,179
-CNN,Why is the US rolling back this high-return global investment? https://t.co/PHS5LIGmDj (via @CNNOpinion) https://t.co/nPp5q40N5r,Sat Mar 10 21:15:07 +0000 2018,0.0,0.0,1.0,0.0,180
-CNN,Jackie Kennedy looked like a movie star on her wedding day. But it wasn’t the wedding of her dreams. Go inside… https://t.co/oCzygC50Dv,Sat Mar 10 21:00:53 +0000 2018,0.6369,0.215,0.785,0.0,181
-CNN,Read CNN's interview with Stormy Daniels https://t.co/YIfuKhzX3Q https://t.co/HJOLk05OHs,Sat Mar 10 20:45:08 +0000 2018,0.0,0.0,1.0,0.0,182
-CNN,"Florida adopts a wide package of gun laws, while Washington stalls https://t.co/F9zXo17teo https://t.co/dZlwaY7P7X",Sat Mar 10 20:30:06 +0000 2018,-0.1779,0.121,0.709,0.17,183
-CNN,How porn star Stormy Daniels could impact the Russia investigation https://t.co/JoYkWOmiOx https://t.co/4UiUdSq7pE,Sat Mar 10 20:15:08 +0000 2018,0.0,0.0,1.0,0.0,184
-CNN,"Adwoa Aboah announces next ""Gurls Talk"" event in Ghana https://t.co/TI9WQ2BMZT https://t.co/dWDF0fpn3X",Sat Mar 10 20:00:22 +0000 2018,0.0,0.0,1.0,0.0,185
-CNN,Why China's footprint in Africa worries the US https://t.co/p1XrRgGA01 https://t.co/JXSDwDzDQ5,Sat Mar 10 19:45:05 +0000 2018,-0.4215,0.0,0.763,0.237,186
-CNN,Porn star Stormy Daniels says Trump scandal has been good for business https://t.co/CWliGpCPF5 https://t.co/VXZew4GxnF,Sat Mar 10 19:30:18 +0000 2018,0.0,0.163,0.674,0.163,187
-CNN,"""Black Panther"" to cross $1 billion worldwide in less than a month https://t.co/HKIJkqfpvn https://t.co/q6pnbyPeJ8",Sat Mar 10 19:15:09 +0000 2018,0.0,0.0,1.0,0.0,188
-CNN,A woman rode a horse into a dance club in Miami Beach https://t.co/e1ipW7Mih8 https://t.co/2MVq8Z8dEl,Sat Mar 10 19:00:13 +0000 2018,0.0,0.0,1.0,0.0,189
-CNN,A lawsuit accusing Harvard of capping Asian-American admissions could be tried this summer https://t.co/c6DLxTGmlp https://t.co/oSb5ywGPjT,Sat Mar 10 18:45:03 +0000 2018,-0.3818,0.0,0.769,0.231,190
-CNN,"Oprah's advice for Americans feeling jaded amid increasing political partisanship, gun control debates and inner ci… https://t.co/GBDRMAEiaY",Sat Mar 10 18:31:21 +0000 2018,-0.5423,0.073,0.683,0.244,191
-CNN,Complaining about the change to Daylight Saving Time? You're in the minority. https://t.co/oJnAcfmYqQ https://t.co/WQWU2PUCBj,Sat Mar 10 18:15:08 +0000 2018,-0.2023,0.0,0.878,0.122,192
-CNN,"Find out who and what is making big waves in the worlds of tech, media and innovation. Sign up for PACIFIC, CNN’s n… https://t.co/7cYXQ71LuB",Sat Mar 10 17:45:05 +0000 2018,0.3818,0.102,0.898,0.0,193
-CNN,This is the one big difference in the story about the Nashville mayor's affair https://t.co/bBA4azjyYj (via… https://t.co/h45W9IdVgr,Sat Mar 10 17:30:08 +0000 2018,0.0,0.0,1.0,0.0,194
-CNN,UK ministers are holding an emergency meeting as investigators probe the attempt to kill a former Russian double ag… https://t.co/ahpM64kxYH,Sat Mar 10 17:00:04 +0000 2018,-0.8074,0.0,0.7,0.3,195
-CNN,"JUST IN: A man is barricaded in an apartment in Pomona, California, after fatally shooting an officer and wounding… https://t.co/sc3x1MrBDM",Sat Mar 10 16:52:09 +0000 2018,-0.6369,0.0,0.811,0.189,196
-CNN,Here are some reads you missed during a busy news week https://t.co/S1PcV7ztqp https://t.co/6btlUSS4XN,Sat Mar 10 16:45:08 +0000 2018,-0.296,0.0,0.833,0.167,197
-CNN,God bless these doctors in Canada https://t.co/ulphJ72jda (via @CNNOpinion) https://t.co/uSfkIpUIWc,Sat Mar 10 16:30:07 +0000 2018,0.5994,0.38,0.62,0.0,198
-CNN,"Job growth is strong, but it probably won't save Republicans in the midterms https://t.co/7lYLdRReVK | Analysis by… https://t.co/8hgxVcWYhs",Sat Mar 10 16:15:08 +0000 2018,-0.126,0.185,0.654,0.161,199
-CNN,What President Xi Jinping's power play means for China's economy https://t.co/VtvRiBYcsu https://t.co/Nf7bGSiQx4,Sat Mar 10 16:00:11 +0000 2018,0.34,0.179,0.821,0.0,200
-CNN,Will hitting China with tariffs kill India's solar dreams?https://t.co/XpemciO5nU https://t.co/ZHv7Rv416B,Sat Mar 10 15:45:55 +0000 2018,-0.6908,0.0,0.657,0.343,201
-CNN,This photographer snaps cancer-stricken kids as superheroes https://t.co/fFC6pucyUH https://t.co/LFXLQw84eE,Sat Mar 10 15:01:08 +0000 2018,0.0,0.0,1.0,0.0,202
-CNN,"Barbie unveiled dolls based on real-life figures including Amelia Earhart, Frida Kahlo, Katherine Johnson and Chloe… https://t.co/XTcr37oUtS",Sat Mar 10 14:31:08 +0000 2018,0.0,0.0,1.0,0.0,203
-CNN,"Inspired by her travels, this artist paints stunning pictures on tea bags https://t.co/nz5dDAlxC4 https://t.co/Zg6KvN3iWF",Sat Mar 10 14:01:10 +0000 2018,0.7003,0.326,0.674,0.0,204
-CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/aU6DxQeeaR",Sat Mar 10 13:31:04 +0000 2018,0.0,0.0,1.0,0.0,205
-CNN,"""Dumpster fire"" is in the Merriam-Webster dictionary now, defined as ""an utterly calamitous or mismanaged situation… https://t.co/60GM8iM45n",Sat Mar 10 13:01:06 +0000 2018,-0.4588,0.0,0.789,0.211,206
-CNN,Thousands of dead starfish were found washed up on British shores https://t.co/oIGXDH5mhI https://t.co/5VqOSsvuqr,Sat Mar 10 12:31:53 +0000 2018,-0.6486,0.0,0.736,0.264,207
-CNN,"Cecil the lion ""suffered incredible cruelty for at least 10 hours"" before he died, according to a lion researcher's… https://t.co/nojuVmY238",Sat Mar 10 12:01:06 +0000 2018,-0.8934,0.0,0.599,0.401,208
-CNN,"2,000 years ago, people watched as animals mysteriously died at the entrance to a grotto in modern-day Turkey that… https://t.co/6fU1KnQyxK",Sat Mar 10 11:31:04 +0000 2018,-0.5574,0.0,0.833,0.167,209
-CNN,The kind of floods we've only seen during storms might someday become regular events as sea levels rise due to glob… https://t.co/IMDfqxFTkh,Sat Mar 10 11:01:02 +0000 2018,0.0,0.0,1.0,0.0,210
-CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/NZoj9PtRDr",Sat Mar 10 10:31:02 +0000 2018,-0.4767,0.0,0.829,0.171,211
-CNN,"These high-performance cars, which are priced in the millions, can't be legally driven on public roads… https://t.co/zk7Yw3fFa5",Sat Mar 10 10:01:02 +0000 2018,-0.0762,0.0,0.925,0.075,212
-CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/ST2jvgXLtd,Sat Mar 10 09:31:03 +0000 2018,0.0,0.0,1.0,0.0,213
-CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/WS2RPH0DNQ",Sat Mar 10 09:16:05 +0000 2018,-0.5423,0.07,0.698,0.233,214
-CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/DixTBIRbC4",Sat Mar 10 09:01:05 +0000 2018,0.2187,0.13,0.774,0.095,215
-CNN,"From Peter the Apostle to Pope Francis, he’s the most powerful man in history and this is his story. #Pope premiere… https://t.co/KD6J3rJzyy",Sat Mar 10 08:45:14 +0000 2018,0.4754,0.128,0.872,0.0,216
-CNN,"RT @CNNTonight: Former Republican congressman David Jolly: ""It is an optimistic moment to see a governor take on the NRA, ... but realistic…",Sat Mar 10 08:35:53 +0000 2018,0.4215,0.16,0.84,0.0,217
-CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/dj7QruMo1Z",Sat Mar 10 08:31:06 +0000 2018,0.7096,0.315,0.594,0.091,218
-CNN,"Anthony C. Acevedo, the first Mexican-American to register as a Holocaust survivor, was a World War II medic and on… https://t.co/a0W9ZlYRyS",Sat Mar 10 08:16:01 +0000 2018,-0.34,0.107,0.726,0.167,219
-CNN,"The number of children admitted to hospitals for opioid overdose has nearly doubled since 2004, according to a new… https://t.co/11schEibg9",Sat Mar 10 08:01:04 +0000 2018,0.1779,0.137,0.863,0.0,220
-CNN,"Tybre Faw traveled 7 hours to see his hero, Dem. Rep. John Lewis, who was in Selma, Alabama, to commemorate the 196… https://t.co/LLKIQIwl4Y",Sat Mar 10 07:46:00 +0000 2018,0.5574,0.146,0.854,0.0,221
-CNN,Uber says it has started using self-driving trucks to haul freight in Arizona https://t.co/8eKBi79u5N https://t.co/wT1MMUdkc0,Sat Mar 10 07:31:04 +0000 2018,0.0,0.0,1.0,0.0,222
-CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/YVwm701nQN,Sat Mar 10 07:16:00 +0000 2018,0.0,0.0,1.0,0.0,223
-CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/8I2R5Fcqk5",Sat Mar 10 06:57:08 +0000 2018,0.0,0.0,1.0,0.0,224
-CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/iSbAlGPA00",Sat Mar 10 06:46:00 +0000 2018,0.25,0.1,0.9,0.0,225
-CNN,Former White House press secretary Jay Carney says the role he once held has become unrecognizable under President… https://t.co/Rq0eTf0hsl,Sat Mar 10 06:31:06 +0000 2018,0.0,0.0,1.0,0.0,226
-CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/c4eeWchIm6",Sat Mar 10 06:23:37 +0000 2018,0.25,0.1,0.9,0.0,227
-CNN,Tired of winter? Cherry blossom season is on its way. Japan should start seeing these lovely flowers toward the end… https://t.co/7iICEbbiLS,Sat Mar 10 06:16:00 +0000 2018,0.2263,0.148,0.739,0.113,228
-CNN,"Diana Falzone, a reporter who covered entertainment and issues related to sexual harassment, has settled a lawsuit… https://t.co/6hQxy4EdpI",Sat Mar 10 06:12:38 +0000 2018,-0.1779,0.138,0.69,0.172,229
-CNN,"After age 13, no new brain cells are created in a brain region linked to learning, according to a new study… https://t.co/HnEAMQJ8jw",Sat Mar 10 06:01:05 +0000 2018,-0.0516,0.09,0.811,0.099,230
+#TimesUp co-founder N… https://t.co/VoFG37bK4f",Mon Mar 12 02:10:48 +0000 2018,0.0,0.0,1.0,0.0,164
+CNN,"For porn star Stormy Daniels, controversy blows up into a club scene bonanza https://t.co/a0SKoZVEXC https://t.co/YYQZaM2GoT",Mon Mar 12 02:00:10 +0000 2018,0.0,0.0,1.0,0.0,165
+CNN,"China's largely ceremonial parliament overwhelmingly endorsed a controversial change to the country's constitution,… https://t.co/R4Z5ID7lJv",Mon Mar 12 01:59:00 +0000 2018,-0.0772,0.131,0.654,0.216,166
+CNN,"""I want white men to look around in their office and say, 'Oh look, there's a lot of white men here. Let's change t… https://t.co/cFgM6nYxtZ",Mon Mar 12 01:51:56 +0000 2018,0.0772,0.053,0.947,0.0,167
+CNN,"Marine Le Pen, leader of France's far-right National Front, thinks it's time for the party to rebrand after her fai… https://t.co/oZkVKgWwjJ",Mon Mar 12 01:47:56 +0000 2018,0.4019,0.119,0.881,0.0,168
+CNN,The one crime that impacts every American https://t.co/5MWba3fSkF (via @CNNOpinion) https://t.co/LEtyQ1QDPv,Mon Mar 12 01:45:04 +0000 2018,-0.5423,0.0,0.741,0.259,169
+CNN,"Russia's Defense Ministry says it has successfully tested one of the ""invincible"" missiles that President Vladimir… https://t.co/SYwyfd1dKo",Mon Mar 12 01:36:44 +0000 2018,0.5719,0.239,0.761,0.0,170
+CNN,"China's commerce minister says there would be no winner in any trade war between China and the United States, but t… https://t.co/Q6AHePo3DI",Mon Mar 12 01:30:08 +0000 2018,0.0644,0.163,0.683,0.154,171
+CNN,"Russian President Vladimir Putin ""couldn't care less"" if Russian citizens meddled in the 2016 US election… https://t.co/DVllKFcJc3",Mon Mar 12 01:15:05 +0000 2018,-0.3875,0.0,0.859,0.141,172
+CNN,At least two people have been killed and one rescued after a helicopter went down in New York's East River https://t.co/L5dd7QQerY,Mon Mar 12 01:13:56 +0000 2018,-0.4019,0.111,0.711,0.178,173
+CNN,"Syrian regime gains ground in ""semi-destroyed rubble town"" https://t.co/rtmGdhI5iY https://t.co/Gin3Bthkfp",Mon Mar 12 01:00:17 +0000 2018,0.34,0.211,0.789,0.0,174
+CNN,"""I would only speak if I felt that I could be heard,"" @Oprah tells @VanJones68 after he asks her what she would say… https://t.co/33FeeUtRGU",Mon Mar 12 00:50:00 +0000 2018,0.0,0.0,1.0,0.0,175
+CNN,"Director @ava discusses the need for an ""inclusion revolution"" in Hollywood with @Oprah and @VanJones68 on… https://t.co/QYKRKnmN1z",Mon Mar 12 00:47:58 +0000 2018,0.0,0.0,1.0,0.0,176
+CNN,A helicopter crashed into New York's East River on Sunday night. One person was removed  but it is not known how ma… https://t.co/a9lewmpU5M,Mon Mar 12 00:42:58 +0000 2018,0.0,0.0,1.0,0.0,177
+CNN,"""Betsy DeVos basically paid for her position...I think she's not the right person for this,"" says Florida shooting… https://t.co/lZQF4rUgMn",Mon Mar 12 00:35:43 +0000 2018,0.0,0.0,1.0,0.0,178
+CNN,"""I wake up in the morning, and the first thing I say is 'thank you',"" @Oprah tells @VanJones68 #VanJonesShow… https://t.co/99YmGEmlmY",Mon Mar 12 00:30:00 +0000 2018,0.3612,0.122,0.878,0.0,179
+CNN,"""Betsey DeVos basically paid for her position...I think she's not the right person for this,"" says Florida shooting… https://t.co/KlYFTYixcc",Mon Mar 12 00:29:14 +0000 2018,0.0,0.0,1.0,0.0,180
+CNN,"""Whether you are Republican or Democrat or Libertarian ... underneath everybody is this desire and need to be value… https://t.co/FvN6jhNpQS",Mon Mar 12 00:25:03 +0000 2018,0.6155,0.218,0.782,0.0,181
+CNN,"""I wanted to be able to bring kids from all over the country who wouldn't be able to afford to get to the march. Th… https://t.co/SmRirpdPaj",Mon Mar 12 00:21:21 +0000 2018,0.0,0.0,1.0,0.0,182
+CNN,"In politics today, ""everybody is feeding ... on the hysteria and the negativity. You've got to stay in the light,""… https://t.co/1MQ58opLIF",Mon Mar 12 00:11:04 +0000 2018,-0.7351,0.0,0.754,0.246,183
+CNN,"The #VanJonesShow with @Oprah and @Ava starts now. Head there wherever you are: on TV, desktop, mobile devices, app… https://t.co/fmRPmzAzex",Mon Mar 12 00:00:28 +0000 2018,0.0,0.0,1.0,0.0,184
+CNN,"JUST IN: The White House unveils new gun and school safety proposals, including hardening security, background chec… https://t.co/iGHZT9nZAQ",Sun Mar 11 23:58:43 +0000 2018,0.4215,0.23,0.664,0.106,185
+CNN,"Join CNN’s group in the #MarchMadness Bracket Challenge to see how you stack up against @wolfblitzer, @brookebcnn,… https://t.co/Mus3MoyUKl",Sun Mar 11 23:45:04 +0000 2018,0.3612,0.179,0.821,0.0,186
+CNN,President Trump hits EU on trade days after imposing new tariffs https://t.co/J9jZUVayuz https://t.co/lh6l1STK0q,Sun Mar 11 23:30:15 +0000 2018,-0.1027,0.0,0.896,0.104,187
+CNN,Warren Buffett has promised $1 million a year for life to the Berkshire Hathaway employee who picks a perfect brack… https://t.co/e9QUrDgVAU,Sun Mar 11 23:15:07 +0000 2018,0.7351,0.267,0.733,0.0,188
+CNN,Are you ready for Oprah Winfrey? The countdown is on. Tune in for her interview with @VanJones68 on The… https://t.co/1e5VNibLMW,Sun Mar 11 23:00:13 +0000 2018,0.3612,0.116,0.884,0.0,189
+CNN,Take a look at the week in politics https://t.co/8UCIFHzvaL https://t.co/nuQdD2Lo3Y,Sun Mar 11 22:45:06 +0000 2018,0.0,0.0,1.0,0.0,190
+CNN,"""The fact that they were creating this national march to say, 'enough.' ... what it takes to risk that on a nationa… https://t.co/OZykI3r4cU",Sun Mar 11 22:30:12 +0000 2018,0.0258,0.091,0.823,0.086,191
+CNN,President Trump says the person he most wants to run against in 2020 is Oprah https://t.co/TThb2WDIm0 https://t.co/4yUB269pjG,Sun Mar 11 22:15:07 +0000 2018,0.0,0.0,1.0,0.0,192
+CNN,You know their name. But how well do you know your Kennedy trivia? #TheKennedys premieres tonight at 9p. https://t.co/3YRwzmSy7U,Sun Mar 11 22:00:37 +0000 2018,0.2732,0.104,0.896,0.0,193
+CNN,"In California, a 15-hour standoff that left 1 officer dead started with a car chase https://t.co/zrHSHjn8K2 https://t.co/ajJH4ADUMC",Sun Mar 11 21:45:06 +0000 2018,-0.6486,0.0,0.751,0.249,194
+CNN,"""Do not spend all your time talking about your opponents."" Oprah has some advice for anyone who runs for president… https://t.co/YCsne8112s",Sun Mar 11 21:30:39 +0000 2018,0.0,0.0,1.0,0.0,195
+CNN,Socialism with Chinese characteristics? Beijing's propaganda explained https://t.co/Cx54QwIl0B https://t.co/E5YlfDmL6a,Sun Mar 11 21:15:05 +0000 2018,-0.25,0.0,0.8,0.2,196
+CNN,Hong Kong elects new lawmakers as city faces decades of Xi Jinping rule https://t.co/3emq2iUe2y https://t.co/jYEBTnCOdj,Sun Mar 11 21:00:13 +0000 2018,0.0,0.0,1.0,0.0,197
+CNN,President Trump blames diplomatic shortages on Democrats https://t.co/ejID8n95K5 https://t.co/IgpNWHjcSO,Sun Mar 11 20:45:06 +0000 2018,-0.5106,0.0,0.619,0.381,198
+CNN,"""I wake up in the morning, and the first thing I say is 'thank you,'"" Oprah Winfrey tells CNN's Van Jones. Watch he… https://t.co/nRcua0cyiR",Sun Mar 11 20:30:07 +0000 2018,0.3612,0.102,0.898,0.0,199
+CNN,"Sen. Mark Warner says the US is ""woefully unprepared"" for cyber threats https://t.co/KjebUo8zDU https://t.co/kD0Zb0Xy0q",Sun Mar 11 20:15:09 +0000 2018,-0.6705,0.0,0.686,0.314,200
+CNN,The section of a Baltimore park that once hosted Confederate monuments has been renamed in honor of abolitionist Ha… https://t.co/Fkaa1bx6qm,Sun Mar 11 20:00:08 +0000 2018,0.4939,0.151,0.849,0.0,201
+CNN,JUST IN: The White House is expected to unveil gun and school safety proposals Sunday https://t.co/h9ucmXTEwu https://t.co/zkpIB85soc,Sun Mar 11 19:52:47 +0000 2018,0.1027,0.139,0.743,0.119,202
+CNN,"Victims of California veterans home shooting lived ""to serve others"" https://t.co/dMh3ZInjTJ https://t.co/kKBTBjUYJ6",Sun Mar 11 19:45:06 +0000 2018,-0.3182,0.0,0.827,0.173,203
+CNN,"""I would only speak if I felt that I could be heard."" TV legend and philanthropist Oprah Winfrey discusses what she… https://t.co/KGzQSdTKO1",Sun Mar 11 19:30:43 +0000 2018,0.0,0.0,1.0,0.0,204
+CNN,"President Trump questions Rep. Maxine Waters' intelligence again, says she is ""a low IQ individual""… https://t.co/dNNeikovUO",Sun Mar 11 19:15:08 +0000 2018,0.25,0.161,0.729,0.109,205
+CNN,"When tragedy struck, athletes stepped up for a Florida high school https://t.co/nLTbM2hGht https://t.co/1ifqi4Vxqz",Sun Mar 11 19:00:13 +0000 2018,-0.7506,0.0,0.61,0.39,206
+CNN,China clears way for President Xi Jinping to rule for life https://t.co/GXHecoZM5L https://t.co/yPQhBmscRH,Sun Mar 11 18:45:04 +0000 2018,0.0772,0.098,0.902,0.0,207
+CNN,The 64 most outrageous lines from President Trump's untethered Pennsylvania speech https://t.co/r3vR1XPK4D https://t.co/sLolInfQqS,Sun Mar 11 18:30:14 +0000 2018,-0.5095,0.0,0.785,0.215,208
+CNN,"""Saturday Night Live"" parodied the season finale of ""The Bachelor"" in its cold open, but rather than a couple break… https://t.co/Tlomm97PAZ",Sun Mar 11 18:15:13 +0000 2018,0.0,0.0,1.0,0.0,209
+CNN,"Here's the methodology behind CNN's exclusive story, ""The more opioids doctors prescribe, the more money they make""… https://t.co/6Holhn9uKu",Sun Mar 11 18:00:14 +0000 2018,0.128,0.081,0.919,0.0,210
+CNN,"Barack Obama's faith in US democracy made him blind to what would come, writes Julian Zelizer, as he and seven hist… https://t.co/FTxT16oh8x",Sun Mar 11 17:45:07 +0000 2018,0.0258,0.11,0.784,0.106,211
+CNN,"CNN Exclusive: The more opioids doctors prescribe, the more money they make https://t.co/eAXuBJ1diw https://t.co/gcrT4jfpiU",Sun Mar 11 17:30:04 +0000 2018,0.128,0.103,0.897,0.0,212
+CNN,Wall Street is still trying to figure out which President Trump it'll get https://t.co/CYmOnyOIZW https://t.co/fFPsFhDTEu,Sun Mar 11 17:15:06 +0000 2018,0.0,0.0,1.0,0.0,213
+CNN,"The papacy has ruled for 2,000 years. Now go back to the beginning of the Pope’s rise to power. #Pope premieres ton… https://t.co/gI3SrvhHav",Sun Mar 11 17:01:09 +0000 2018,0.0,0.0,1.0,0.0,214
+CNN,"President Trump brags about his party's ""5-0"" record in House special elections https://t.co/vPSCfNDYeF https://t.co/imHxAcVfCB",Sun Mar 11 16:45:10 +0000 2018,0.4019,0.172,0.828,0.0,215
+CNN,Northeast prepares for its 3rd winter storm in the past 10 days https://t.co/JoTRQetMZY https://t.co/Jc6CQmUv7G,Sun Mar 11 16:30:07 +0000 2018,0.0,0.0,1.0,0.0,216
+CNN,"""Frankly, I just don't see how any senator can vote to weaken the regulations on Wall Street banks."" Democratic Sen… https://t.co/UElyMlyCl7",Sun Mar 11 16:16:06 +0000 2018,-0.4215,0.0,0.872,0.128,217
+CNN,Customers of a restaurant and a pub in the UK have been urged to wash their clothes as a precaution after traces of… https://t.co/D6mdjVheg6,Sun Mar 11 16:00:11 +0000 2018,0.0,0.0,1.0,0.0,218
+CNN,"""We can't do what we did with Iran and let off the pressure and then just watch the behavior go in the wrong direct… https://t.co/Z8knp3MEam",Sun Mar 11 15:45:52 +0000 2018,-0.6486,0.0,0.813,0.187,219
+CNN,"US Defense Secretary James Mattis warns Syria against using chemical weapons, doubts Russian missile claims… https://t.co/SS2g8Prnq1",Sun Mar 11 15:30:12 +0000 2018,-0.6124,0.075,0.6,0.325,220
+CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/LV5n4lhDKy",Sun Mar 11 15:00:15 +0000 2018,0.2187,0.13,0.774,0.095,221
+CNN,Video games do not teach people to become shooters in real life | By Lindsay Grace via @CNNOpinion… https://t.co/To5tJkefdd,Sun Mar 11 14:45:03 +0000 2018,0.4215,0.141,0.859,0.0,222
+CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/Nf0Lm30jOd",Sun Mar 11 14:30:10 +0000 2018,0.0,0.0,1.0,0.0,223
+CNN,11 tax deductions and other ways to cut your 2017 tax bill https://t.co/jq7skCHDUf https://t.co/EJkXr8jlW9,Sun Mar 11 14:15:07 +0000 2018,-0.2732,0.0,0.861,0.139,224
+CNN,"Oprah says she's ""not running for office,""  but her advice for someone who might is ""do not give your energy to the… https://t.co/n2iTxgYjrl",Sun Mar 11 14:03:27 +0000 2018,-0.3007,0.0,0.908,0.092,225
+CNN,11 tax deductions and other ways to cut your 2017 tax bill https://t.co/QQ1nZJEfRJ https://t.co/D2DABt7h1W,Sun Mar 11 14:01:04 +0000 2018,-0.2732,0.0,0.861,0.139,226
+CNN,"Anthony C. Acevedo, the first Mexican-American to register as a Holocaust survivor, was a World War II medic and on… https://t.co/IQ14hNQBWr",Sun Mar 11 13:31:02 +0000 2018,-0.34,0.107,0.726,0.167,227
+CNN,Sen. Elizabeth Warren: “I am not running for president in 2020” https://t.co/0dy8gxtdRw https://t.co/M99yjYnqvR,Sun Mar 11 13:28:03 +0000 2018,0.0,0.0,1.0,0.0,228
+CNN,"Sen. Elizabeth Warren: ""I want the President to succeed … but I am very worried he is going to go into these negoti… https://t.co/Q3DQPYof0Y",Sun Mar 11 13:22:14 +0000 2018,-0.2475,0.128,0.745,0.127,229
+CNN,"Sen. Elizabeth Warren: ""I am very glad to see this administration move toward a diplomatic approach to North Korea”… https://t.co/bFt8iWwzKq",Sun Mar 11 13:20:57 +0000 2018,0.5095,0.155,0.845,0.0,230
+CNN,"GOP Sen. Ron Johnson of Wisconsin: “It’s just incredibly important to, I would say, ratchet up the sanctions agains… https://t.co/9tuearvy9f",Sun Mar 11 13:14:35 +0000 2018,0.2716,0.104,0.896,0.0,231
+CNN,This photographer snaps cancer-stricken kids as superheroes https://t.co/bRrWqqIk7r https://t.co/5MFEqEFbMw,Sun Mar 11 13:01:02 +0000 2018,0.0,0.0,1.0,0.0,232
+CNN,"Barbie unveiled dolls based on real-life figures including Amelia Earhart, Frida Kahlo, Katherine Johnson and Chloe… https://t.co/Ss8N6WEbY4",Sun Mar 11 12:31:03 +0000 2018,0.0,0.0,1.0,0.0,233
+CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/3MB6jMLDON",Sun Mar 11 12:01:04 +0000 2018,0.2187,0.13,0.774,0.095,234
+CNN,"Inspired by her travels, this artist paints stunning pictures on tea bags https://t.co/O8piOHSRFL https://t.co/HZSii2dacL",Sun Mar 11 11:31:07 +0000 2018,0.7003,0.326,0.674,0.0,235
+CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/2R3nT6dWU7",Sun Mar 11 11:01:05 +0000 2018,0.0,0.0,1.0,0.0,236
+CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/5897yT64XL",Sun Mar 11 10:31:02 +0000 2018,0.0,0.0,1.0,0.0,237
+CNN,"These high-performance cars, which are priced in the millions, can't be legally driven on public roads… https://t.co/xF15GOjWIb",Sun Mar 11 10:01:02 +0000 2018,-0.0762,0.0,0.925,0.075,238
+CNN,"""Dumpster fire"" is in the Merriam-Webster dictionary now, defined as ""an utterly calamitous or mismanaged situation… https://t.co/oMS9hLU8Lx",Sun Mar 11 09:31:04 +0000 2018,-0.4588,0.0,0.789,0.211,239
+CNN,"Child marriage is declining, a new UNICEF report says - but 12 million girls are still married in childhood every y… https://t.co/DAUZ1yVebf",Sun Mar 11 09:01:05 +0000 2018,0.0,0.0,1.0,0.0,240
+CNN,"Scientists unravel the mystery of the Roman ""gate to hell,"" which was thought to belch a ""breath of death"" that cau… https://t.co/WJbHlsGepb",Sun Mar 11 08:31:04 +0000 2018,-0.5994,0.0,0.837,0.163,241
+CNN,"China's largely ceremonial parliament endorses a constitutional amendment, paving the way for President Xi Jinping… https://t.co/RCTC01CJUz",Sun Mar 11 08:30:48 +0000 2018,0.34,0.146,0.854,0.0,242
+CNN,"Find out who and what is making big waves in the worlds of tech, media and innovation. Sign up for PACIFIC, CNN’s n… https://t.co/V8Ln7DhjHo",Sun Mar 11 08:15:05 +0000 2018,0.3818,0.102,0.898,0.0,243
+CNN,Facebook robots may one day follow you around at home https://t.co/urKEOzSzgF https://t.co/t1dARIPBBS,Sun Mar 11 08:01:03 +0000 2018,0.0,0.0,1.0,0.0,244
+CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/kpbDwphXbN",Sun Mar 11 07:31:03 +0000 2018,-0.4767,0.0,0.829,0.171,245
+CNN,Uber says it has started using self-driving trucks to haul freight in Arizona https://t.co/r5bQPtepzj https://t.co/Fdxg8DUHHI,Sun Mar 11 07:01:03 +0000 2018,0.0,0.0,1.0,0.0,246
+CNN,Former White House press secretary Jay Carney says the role he once held has become unrecognizable under President… https://t.co/K3qLcWnL4R,Sun Mar 11 06:59:06 +0000 2018,0.0,0.0,1.0,0.0,247
+CNN,"""Black Panther"" to cross $1 billion worldwide in less than a month https://t.co/wJzaL36egw https://t.co/4uiuQSt2CG",Sun Mar 11 06:30:08 +0000 2018,0.0,0.0,1.0,0.0,248
+CNN,"Over 1.3 million live animals and plants, and a similar number of animal skins, have been exported from Africa to A… https://t.co/fHImyRVV9l",Sun Mar 11 06:01:04 +0000 2018,0.0772,0.061,0.939,0.0,249
+CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/Tm73ZWcpn9,Sun Mar 11 05:46:00 +0000 2018,0.0,0.0,1.0,0.0,250
+CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/MtqRDZ4kgB,Sun Mar 11 05:31:05 +0000 2018,0.0,0.0,1.0,0.0,251
+CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/aRZHkrFLDL",Sun Mar 11 05:16:00 +0000 2018,0.25,0.1,0.9,0.0,252
+CNN,"President Trump is looking at adding impeachment lawyer to the White House team, The New York Times reports… https://t.co/clGPoY680u",Sun Mar 11 05:00:06 +0000 2018,0.0,0.0,1.0,0.0,253
+CNN,"US Attorney General Jeff Sessions says judges blocking President Trump's policies is ""unconstitutional""… https://t.co/6FPpSHLqpd",Sun Mar 11 04:30:06 +0000 2018,-0.3818,0.0,0.833,0.167,254
+CNN,"""A Wrinkle in Time"" breaks through with a new kind of heroism, writes Van Jones for @CNNOpinion… https://t.co/nHKWj0zLmn",Sun Mar 11 04:00:08 +0000 2018,0.5434,0.18,0.82,0.0,255
+CNN,"Washington, save partisan fighting for actual partisan issues — not DACA, writes Fernand Fernandez for @CNNOpinion… https://t.co/PkLyK4GUMq",Sun Mar 11 03:30:11 +0000 2018,0.1779,0.162,0.711,0.127,256
+CNN,"The CEO of dating app Bumble says she pays no mind to Tinder, her biggest competitor and former employer… https://t.co/vOQrSvoZoV",Sun Mar 11 03:00:07 +0000 2018,-0.296,0.0,0.896,0.104,257
+CNN,US worries over China's expanding role in Africa https://t.co/JdQ485Nc35 https://t.co/HoPZkfx31V,Sun Mar 11 02:30:03 +0000 2018,-0.4215,0.0,0.763,0.237,258
+CNN,Oprah says she was inspired to help the Florida school shooting survivors fight for gun control because their dedic… https://t.co/SHC9psBXC6,Sun Mar 11 02:01:39 +0000 2018,0.2263,0.219,0.595,0.186,259
+CNN,"President Trump appears to mock ""presidential"" behavior: ""That's easy"" https://t.co/zvDdpiNUy1",Sun Mar 11 01:37:14 +0000 2018,0.0258,0.212,0.584,0.204,260
+CNN,US Secretary of State Rex Tillerson will resume his normal schedule Sunday after canceling his Saturday schedule of… https://t.co/8g4GLb4WHv,Sun Mar 11 01:30:08 +0000 2018,0.0,0.0,1.0,0.0,261
+CNN,"President Trump discusses the death penalty for drug dealers: ""I don't think we should play games ... These people… https://t.co/yZwcNUrreM",Sun Mar 11 01:28:25 +0000 2018,-0.6705,0.091,0.646,0.262,262
+CNN,"President Trump responds to chants of ""Build the wall"" at a rally in Pennsylvania: ""We are building the wall, 100%"" https://t.co/Oy2HVMcGjp",Sun Mar 11 01:15:30 +0000 2018,0.0,0.0,1.0,0.0,263
+CNN,Ireland seals Six Nations Championship title with four-try victory over Scotland https://t.co/uvZ1EZ067i https://t.co/AL5mTXS040,Sun Mar 11 01:00:18 +0000 2018,0.4404,0.195,0.805,0.0,264
+CNN,"President Trump: Even President Ronald Reagan ""was not great"" on trade https://t.co/UETvww4jNW",Sun Mar 11 00:58:33 +0000 2018,-0.5096,0.0,0.77,0.23,265
+CNN,"President Trump announces his 2020 campaign slogan: ""Keep America Great!"" https://t.co/hKeK7AB2h6",Sun Mar 11 00:46:34 +0000 2018,0.0,0.0,1.0,0.0,266
+CNN,"President Trump: ""I'd love to beat Oprah"" in the 2020 presidential election https://t.co/t30yRIq0zd",Sun Mar 11 00:39:31 +0000 2018,0.6369,0.259,0.741,0.0,267
+CNN,Turkish court frees 2 journalists on bail in trial of Cumhuriyet opposition paper https://t.co/Un1EUty2p6 https://t.co/mEJQZ19oc5,Sun Mar 11 00:30:04 +0000 2018,0.296,0.145,0.855,0.0,268
+CNN,"President Trump hits his predecessors on North Korea: ""They had their shot and all they did was nothing"" https://t.co/CIkhp64uW2",Sun Mar 11 00:26:45 +0000 2018,0.0,0.0,1.0,0.0,269
+CNN,"President Trump on negotiations with North Korea: ""This should have been handled, by the way, over the last 30 year… https://t.co/dKCUO0NRzD",Sun Mar 11 00:20:39 +0000 2018,0.0,0.0,1.0,0.0,270
+CNN,President Trump touts his new steel and aluminum tariffs during a rally for Pennsylvania GOP special election candi… https://t.co/Q3E8P3zFBy,Sun Mar 11 00:14:02 +0000 2018,0.3818,0.136,0.808,0.056,271
+CNN,Will Supreme Court Justice Anthony Kennedy retire and be Republicans' Senate savior?https://t.co/kr6I66I97I https://t.co/RnI7IY8i3j,Sun Mar 11 00:00:06 +0000 2018,0.7906,0.389,0.611,0.0,272
+CNN,LGBTQ groups cry discrimination as Republican Sen. Mike Lee reintroduces religious freedom bill… https://t.co/HqPsXmxcYf,Sat Mar 10 23:30:13 +0000 2018,0.2732,0.218,0.622,0.161,273
+CNN,President Trump's trade moves may be of no help in Pennsylvania special election https://t.co/11inyamR9f https://t.co/vJMpYrhEkU,Sat Mar 10 23:00:19 +0000 2018,0.4939,0.276,0.612,0.112,274
+CNN,US Secretary of State Rex Tillerson changes tune after President Trump accepts meeting with North Korean leader Kim… https://t.co/kFsksZqn0u,Sat Mar 10 22:45:03 +0000 2018,0.3182,0.113,0.887,0.0,275
+CNN,President Trump's estranged adviser Steve Bannon tells a far-right gathering in France that they should handle accu… https://t.co/X2jidYv3xU,Sat Mar 10 22:30:12 +0000 2018,0.0,0.0,1.0,0.0,276
+CNN,"Steven Spielberg's ""Ready Player One"" to have world premiere at SXSW https://t.co/AzahlUPzxB https://t.co/P6cND1J2cs",Sat Mar 10 22:15:05 +0000 2018,0.3612,0.172,0.828,0.0,277
+CNN,Attorney General Jeff Sessions tests limits of immigration powers with asylum moves https://t.co/B8AfIWFrDD https://t.co/8D4RnpFuT3,Sat Mar 10 22:00:22 +0000 2018,0.0,0.0,1.0,0.0,278
+CNN,The week President Trump rewarded enemies and punished friends https://t.co/h9ZNBoxZ9q https://t.co/wgTo39OKvt,Sat Mar 10 21:45:06 +0000 2018,0.0258,0.323,0.359,0.318,279
+CNN,"""The darkness is there to show you your light."" Oprah Winfrey gives advice to Americans feeling jaded amid increasi… https://t.co/bNTETFcemm",Sat Mar 10 21:30:16 +0000 2018,-0.4767,0.065,0.736,0.199,280
+CNN,Why is the US rolling back this high-return global investment? https://t.co/PHS5LIGmDj (via @CNNOpinion) https://t.co/nPp5q40N5r,Sat Mar 10 21:15:07 +0000 2018,0.0,0.0,1.0,0.0,281
+CNN,Jackie Kennedy looked like a movie star on her wedding day. But it wasn’t the wedding of her dreams. Go inside… https://t.co/oCzygC50Dv,Sat Mar 10 21:00:53 +0000 2018,0.6369,0.215,0.785,0.0,282
+CNN,Read CNN's interview with Stormy Daniels https://t.co/YIfuKhzX3Q https://t.co/HJOLk05OHs,Sat Mar 10 20:45:08 +0000 2018,0.0,0.0,1.0,0.0,283
+CNN,"Florida adopts a wide package of gun laws, while Washington stalls https://t.co/F9zXo17teo https://t.co/dZlwaY7P7X",Sat Mar 10 20:30:06 +0000 2018,-0.1779,0.121,0.709,0.17,284
+CNN,How porn star Stormy Daniels could impact the Russia investigation https://t.co/JoYkWOmiOx https://t.co/4UiUdSq7pE,Sat Mar 10 20:15:08 +0000 2018,0.0,0.0,1.0,0.0,285
+CNN,"Adwoa Aboah announces next ""Gurls Talk"" event in Ghana https://t.co/TI9WQ2BMZT https://t.co/dWDF0fpn3X",Sat Mar 10 20:00:22 +0000 2018,0.0,0.0,1.0,0.0,286
+CNN,Why China's footprint in Africa worries the US https://t.co/p1XrRgGA01 https://t.co/JXSDwDzDQ5,Sat Mar 10 19:45:05 +0000 2018,-0.4215,0.0,0.763,0.237,287
+CNN,Porn star Stormy Daniels says Trump scandal has been good for business https://t.co/CWliGpCPF5 https://t.co/VXZew4GxnF,Sat Mar 10 19:30:18 +0000 2018,0.0,0.163,0.674,0.163,288
+CNN,"""Black Panther"" to cross $1 billion worldwide in less than a month https://t.co/HKIJkqfpvn https://t.co/q6pnbyPeJ8",Sat Mar 10 19:15:09 +0000 2018,0.0,0.0,1.0,0.0,289
+CNN,A woman rode a horse into a dance club in Miami Beach https://t.co/e1ipW7Mih8 https://t.co/2MVq8Z8dEl,Sat Mar 10 19:00:13 +0000 2018,0.0,0.0,1.0,0.0,290
+CNN,A lawsuit accusing Harvard of capping Asian-American admissions could be tried this summer https://t.co/c6DLxTGmlp https://t.co/oSb5ywGPjT,Sat Mar 10 18:45:03 +0000 2018,-0.3818,0.0,0.769,0.231,291
+CNN,"Oprah's advice for Americans feeling jaded amid increasing political partisanship, gun control debates and inner ci… https://t.co/GBDRMAEiaY",Sat Mar 10 18:31:21 +0000 2018,-0.5423,0.073,0.683,0.244,292
+CNN,Complaining about the change to Daylight Saving Time? You're in the minority. https://t.co/oJnAcfmYqQ https://t.co/WQWU2PUCBj,Sat Mar 10 18:15:08 +0000 2018,-0.2023,0.0,0.878,0.122,293
+CNN,"Find out who and what is making big waves in the worlds of tech, media and innovation. Sign up for PACIFIC, CNN’s n… https://t.co/7cYXQ71LuB",Sat Mar 10 17:45:05 +0000 2018,0.3818,0.102,0.898,0.0,294
+CNN,This is the one big difference in the story about the Nashville mayor's affair https://t.co/bBA4azjyYj (via… https://t.co/h45W9IdVgr,Sat Mar 10 17:30:08 +0000 2018,0.0,0.0,1.0,0.0,295
+CNN,UK ministers are holding an emergency meeting as investigators probe the attempt to kill a former Russian double ag… https://t.co/ahpM64kxYH,Sat Mar 10 17:00:04 +0000 2018,-0.8074,0.0,0.7,0.3,296
+CNN,"JUST IN: A man is barricaded in an apartment in Pomona, California, after fatally shooting an officer and wounding… https://t.co/sc3x1MrBDM",Sat Mar 10 16:52:09 +0000 2018,-0.6369,0.0,0.811,0.189,297
+CNN,Here are some reads you missed during a busy news week https://t.co/S1PcV7ztqp https://t.co/6btlUSS4XN,Sat Mar 10 16:45:08 +0000 2018,-0.296,0.0,0.833,0.167,298
+CNN,God bless these doctors in Canada https://t.co/ulphJ72jda (via @CNNOpinion) https://t.co/uSfkIpUIWc,Sat Mar 10 16:30:07 +0000 2018,0.5994,0.38,0.62,0.0,299
+CNN,"Job growth is strong, but it probably won't save Republicans in the midterms https://t.co/7lYLdRReVK | Analysis by… https://t.co/8hgxVcWYhs",Sat Mar 10 16:15:08 +0000 2018,-0.126,0.185,0.654,0.161,300
+CNN,What President Xi Jinping's power play means for China's economy https://t.co/VtvRiBYcsu https://t.co/Nf7bGSiQx4,Sat Mar 10 16:00:11 +0000 2018,0.34,0.179,0.821,0.0,301
+CNN,Will hitting China with tariffs kill India's solar dreams?https://t.co/XpemciO5nU https://t.co/ZHv7Rv416B,Sat Mar 10 15:45:55 +0000 2018,-0.6908,0.0,0.657,0.343,302
+CNN,This photographer snaps cancer-stricken kids as superheroes https://t.co/fFC6pucyUH https://t.co/LFXLQw84eE,Sat Mar 10 15:01:08 +0000 2018,0.0,0.0,1.0,0.0,303
+CNN,"Barbie unveiled dolls based on real-life figures including Amelia Earhart, Frida Kahlo, Katherine Johnson and Chloe… https://t.co/XTcr37oUtS",Sat Mar 10 14:31:08 +0000 2018,0.0,0.0,1.0,0.0,304
+CNN,"Inspired by her travels, this artist paints stunning pictures on tea bags https://t.co/nz5dDAlxC4 https://t.co/Zg6KvN3iWF",Sat Mar 10 14:01:10 +0000 2018,0.7003,0.326,0.674,0.0,305
+CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/aU6DxQeeaR",Sat Mar 10 13:31:04 +0000 2018,0.0,0.0,1.0,0.0,306
+CNN,"""Dumpster fire"" is in the Merriam-Webster dictionary now, defined as ""an utterly calamitous or mismanaged situation… https://t.co/60GM8iM45n",Sat Mar 10 13:01:06 +0000 2018,-0.4588,0.0,0.789,0.211,307
+CNN,Thousands of dead starfish were found washed up on British shores https://t.co/oIGXDH5mhI https://t.co/5VqOSsvuqr,Sat Mar 10 12:31:53 +0000 2018,-0.6486,0.0,0.736,0.264,308
+CNN,"Cecil the lion ""suffered incredible cruelty for at least 10 hours"" before he died, according to a lion researcher's… https://t.co/nojuVmY238",Sat Mar 10 12:01:06 +0000 2018,-0.8934,0.0,0.599,0.401,309
+CNN,"2,000 years ago, people watched as animals mysteriously died at the entrance to a grotto in modern-day Turkey that… https://t.co/6fU1KnQyxK",Sat Mar 10 11:31:04 +0000 2018,-0.5574,0.0,0.833,0.167,310
+CNN,The kind of floods we've only seen during storms might someday become regular events as sea levels rise due to glob… https://t.co/IMDfqxFTkh,Sat Mar 10 11:01:02 +0000 2018,0.0,0.0,1.0,0.0,311
+CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/NZoj9PtRDr",Sat Mar 10 10:31:02 +0000 2018,-0.4767,0.0,0.829,0.171,312
+CNN,"These high-performance cars, which are priced in the millions, can't be legally driven on public roads… https://t.co/zk7Yw3fFa5",Sat Mar 10 10:01:02 +0000 2018,-0.0762,0.0,0.925,0.075,313
+CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/ST2jvgXLtd,Sat Mar 10 09:31:03 +0000 2018,0.0,0.0,1.0,0.0,314
+CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/WS2RPH0DNQ",Sat Mar 10 09:16:05 +0000 2018,-0.5423,0.07,0.698,0.233,315
+CNN,"66% of Millennials have nothing saved for retirement, a new report shows. Of those who do save, most have less than… https://t.co/DixTBIRbC4",Sat Mar 10 09:01:05 +0000 2018,0.2187,0.13,0.774,0.095,316
+CNN,"From Peter the Apostle to Pope Francis, he’s the most powerful man in history and this is his story. #Pope premiere… https://t.co/KD6J3rJzyy",Sat Mar 10 08:45:14 +0000 2018,0.4754,0.128,0.872,0.0,317
+CNN,"RT @CNNTonight: Former Republican congressman David Jolly: ""It is an optimistic moment to see a governor take on the NRA, ... but realistic…",Sat Mar 10 08:35:53 +0000 2018,0.4215,0.16,0.84,0.0,318
+CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/dj7QruMo1Z",Sat Mar 10 08:31:06 +0000 2018,0.7096,0.315,0.594,0.091,319
+CNN,"Anthony C. Acevedo, the first Mexican-American to register as a Holocaust survivor, was a World War II medic and on… https://t.co/a0W9ZlYRyS",Sat Mar 10 08:16:01 +0000 2018,-0.34,0.107,0.726,0.167,320
+CNN,"The number of children admitted to hospitals for opioid overdose has nearly doubled since 2004, according to a new… https://t.co/11schEibg9",Sat Mar 10 08:01:04 +0000 2018,0.1779,0.137,0.863,0.0,321
+CNN,"Tybre Faw traveled 7 hours to see his hero, Dem. Rep. John Lewis, who was in Selma, Alabama, to commemorate the 196… https://t.co/LLKIQIwl4Y",Sat Mar 10 07:46:00 +0000 2018,0.5574,0.146,0.854,0.0,322
+CNN,Uber says it has started using self-driving trucks to haul freight in Arizona https://t.co/8eKBi79u5N https://t.co/wT1MMUdkc0,Sat Mar 10 07:31:04 +0000 2018,0.0,0.0,1.0,0.0,323
+CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/YVwm701nQN,Sat Mar 10 07:16:00 +0000 2018,0.0,0.0,1.0,0.0,324
+CNN,"Local law says that ""every head of household residing in the city limits is required to maintain a firearm"" in Kenn… https://t.co/8I2R5Fcqk5",Sat Mar 10 06:57:08 +0000 2018,0.0,0.0,1.0,0.0,325
+CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/iSbAlGPA00",Sat Mar 10 06:46:00 +0000 2018,0.25,0.1,0.9,0.0,326
+CNN,Former White House press secretary Jay Carney says the role he once held has become unrecognizable under President… https://t.co/Rq0eTf0hsl,Sat Mar 10 06:31:06 +0000 2018,0.0,0.0,1.0,0.0,327
+CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/c4eeWchIm6",Sat Mar 10 06:23:37 +0000 2018,0.25,0.1,0.9,0.0,328
+CNN,Tired of winter? Cherry blossom season is on its way. Japan should start seeing these lovely flowers toward the end… https://t.co/7iICEbbiLS,Sat Mar 10 06:16:00 +0000 2018,0.2263,0.148,0.739,0.113,329
+CNN,"Diana Falzone, a reporter who covered entertainment and issues related to sexual harassment, has settled a lawsuit… https://t.co/6hQxy4EdpI",Sat Mar 10 06:12:38 +0000 2018,-0.1779,0.138,0.69,0.172,330
+CNN,"After age 13, no new brain cells are created in a brain region linked to learning, according to a new study… https://t.co/HnEAMQJ8jw",Sat Mar 10 06:01:05 +0000 2018,-0.0516,0.09,0.811,0.099,331
 CNN,"Rapper @common helped @CNNFreedom spread the message about child labor in Haiti.
 
-You too can stand up against mode… https://t.co/AYMLlzmAQe",Sat Mar 10 05:55:09 +0000 2018,0.0,0.0,1.0,0.0,231
-CNN,"The world's oldest known message in a bottle was found on an Australian beach, nearly 132 years after it was thrown… https://t.co/RznUu9j6ZO",Sat Mar 10 05:46:00 +0000 2018,0.0,0.0,1.0,0.0,232
-CNN,"The US is not effectively countering the Russia cyber threat, a top general says https://t.co/rO9JXvg32R https://t.co/NZ5Zellh8p",Sat Mar 10 05:43:05 +0000 2018,-0.6131,0.092,0.612,0.296,233
-CNN,"Toys ""R"" Us may close all of its US stores as soon as next week, according to several reports… https://t.co/BKpJhZPbHY",Sat Mar 10 05:31:04 +0000 2018,0.0,0.0,1.0,0.0,234
-CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/nMrQRWZMSt,Sat Mar 10 05:16:36 +0000 2018,0.0,0.0,1.0,0.0,235
-CNN,Martin Shkreli was sentenced to seven years in prison on Friday for defrauding investors out of more than $10 milli… https://t.co/7MWoGx1CAL,Sat Mar 10 05:01:04 +0000 2018,-0.5267,0.0,0.812,0.188,236
-CNN,Concerns in Washington are growing amid reports that China is poised to gain control of a major commercial port on… https://t.co/QikJejHO3n,Sat Mar 10 04:50:00 +0000 2018,0.7269,0.295,0.705,0.0,237
-CNN,"RT @CNNTonight: ""This the last thing that most of the uniform military would like to be doing, spending their time practicing just for a do…",Sat Mar 10 04:47:56 +0000 2018,0.3612,0.098,0.902,0.0,238
-CNN,It’s a policy for modern day churches and it traces back to 248 AD. See how Christianity went from persecution to p… https://t.co/i77fMJ4Stl,Sat Mar 10 04:45:17 +0000 2018,0.0,0.0,1.0,0.0,239
-CNN,The Trump administration is helping a lost generation of workers recover | By Scott Jennings via @CNNOpinion… https://t.co/lhH94NrshW,Sat Mar 10 04:38:03 +0000 2018,-0.0258,0.119,0.757,0.124,240
-CNN,This Oakland coffee shop says it's keeping the peace by not serving cops https://t.co/rpDx8bEEwX https://t.co/CQ1LIb2msi,Sat Mar 10 04:31:05 +0000 2018,0.5423,0.2,0.8,0.0,241
-CNN,"5 days, 15 big stories, 1 Trump White House | Analysis by @CillizzaCNN https://t.co/3Nrw1NNvXK https://t.co/ntYWqxZJz1",Sat Mar 10 04:23:24 +0000 2018,0.0,0.0,1.0,0.0,242
-CNN,"""Even by China's standard, the annual session of the largely ceremonial parliament seems to be a much more choreogr… https://t.co/Feux7A2QC7",Sat Mar 10 04:17:17 +0000 2018,0.0,0.0,1.0,0.0,243
-CNN,Olive branch may beat big stick when it comes to North Korea | By John Kirby via @CNNOpinion https://t.co/moMl7ctAOV,Sat Mar 10 04:16:01 +0000 2018,0.0,0.0,1.0,0.0,244
-CNN,"Three women and a gunman were found dead after a hostage standoff at a veterans home in Yountville, a California la… https://t.co/xI68dIjTsb",Sat Mar 10 04:03:57 +0000 2018,-0.6486,0.0,0.798,0.202,245
-CNN,RT @AC360: Porn star's attorney: Cohen used his Trump Organization signature in email https://t.co/sbMz1wgi2q https://t.co/m9Yd4btUSX,Sat Mar 10 04:02:21 +0000 2018,0.0,0.0,1.0,0.0,246
-CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/DZSL5Qus4k",Sat Mar 10 04:01:52 +0000 2018,-0.5423,0.07,0.698,0.233,247
-CNN,Porn star's attorney: Michael Cohen used his Trump Organization signature in email https://t.co/BRUDB9If2r https://t.co/cJGwmAntY6,Sat Mar 10 03:48:07 +0000 2018,0.0,0.0,1.0,0.0,248
-CNN,"""There is a powerful movement taking shape to stand up on behalf of some of our country's most silenced and vulnera… https://t.co/rsSZNbloRT",Sat Mar 10 03:46:04 +0000 2018,0.4215,0.123,0.877,0.0,249
-CNN,"How South Korea triggered Trump's flip from ""fire and fury"" https://t.co/7PmxRGELF9 https://t.co/74dGwHR4jn",Sat Mar 10 03:39:29 +0000 2018,-0.7269,0.0,0.621,0.379,250
-CNN,"The President of Mauritius will resign next week, the island country's prime minister has said… https://t.co/yVtHhbBxp9",Sat Mar 10 03:31:09 +0000 2018,-0.34,0.0,0.862,0.138,251
-CNN,"ESPN's Michael Smith leaves ""SportsCenter"" https://t.co/OpZMe86gQf https://t.co/Q5atKIBFGx",Sat Mar 10 03:28:28 +0000 2018,0.0,0.0,1.0,0.0,252
-CNN,I had the coolest job on the planet ... at Tower Records | By Katia Hetter via @CNNOpinion https://t.co/mPjsEpPUSC https://t.co/LkhnfVNbkW,Sat Mar 10 03:25:43 +0000 2018,0.0,0.0,1.0,0.0,253
-CNN,"CNN's @FareedZakaria: The North Koreans have never shown any interest in giving up their nuclear weapons. ""This is… https://t.co/rEHRbNoiV7",Sat Mar 10 03:25:09 +0000 2018,-0.4552,0.101,0.673,0.226,254
-CNN,A futuristic retreat that aims to be the world's first energy-positive hotel is being planned in the Arctic Circle… https://t.co/iTvQEcFP7m,Sat Mar 10 03:23:56 +0000 2018,0.2023,0.091,0.909,0.0,255
-CNN,"Van Jones: ""Find me a lawyer who's going to go and pay my bills off of a home equity line. ... There's not a lawyer… https://t.co/rA4fXamZDz",Sat Mar 10 03:16:41 +0000 2018,-0.1027,0.0,0.94,0.06,256
-CNN,"Volkswagen says it will stop using coal to power its main factory in Wolfsburg, Germany https://t.co/l6CeSbpDhr https://t.co/ltRCY3UoSb",Sat Mar 10 03:10:32 +0000 2018,-0.296,0.0,0.879,0.121,257
-CNN,An Ohio woman stumbled upon an unusual treasure during one of her bargain hunts: a 74-year-old NYPD Medal for Valor… https://t.co/DjgcrTsj3x,Sat Mar 10 02:57:28 +0000 2018,0.7269,0.295,0.705,0.0,258
-CNN,"""If America's allies in South Korea were already worried ... they will find the latest news of Trump's head-snappin… https://t.co/5uwlwZay76",Sat Mar 10 02:52:08 +0000 2018,-0.296,0.0,0.896,0.104,259
-CNN,Republican defense hawks are watching closely as US President Trump prepares to meet with North Korean leader Kim J… https://t.co/QAqR4pg2cd,Sat Mar 10 02:47:25 +0000 2018,0.128,0.073,0.927,0.0,260
-CNN,Sen. Bernie Sanders says the recent attacks on a Texas candidate for Congress by the Democratic Congressional Campa… https://t.co/wOWy7I4fZt,Sat Mar 10 02:45:02 +0000 2018,-0.4404,0.0,0.854,0.146,261
-CNN,"The State Department is warning US citizens against travel to Mexico's Playa del Carmen, a week after an explosive… https://t.co/QlbLV5vF4B",Sat Mar 10 02:35:21 +0000 2018,-0.34,0.0,0.882,0.118,262
-CNN,Here come the tariffs. Is a trade war next? https://t.co/8CDXvjDuYd https://t.co/P2S0ptNM1g,Sat Mar 10 02:21:34 +0000 2018,-0.5994,0.0,0.698,0.302,263
-CNN,"Cameron Kasky, a student who survived the Florida school shooting: GOP Governor Rick Scott is using the newly-passe… https://t.co/sWeTid7QzG",Sat Mar 10 02:15:10 +0000 2018,0.5106,0.163,0.837,0.0,264
-CNN,"2,000 years ago, people watched as animals mysteriously died at the entrance to a grotto in modern-day Turkey that… https://t.co/JH4wOzxg1T",Sat Mar 10 02:09:56 +0000 2018,-0.5574,0.0,0.833,0.167,265
-CNN,The White House met with four Cabinet-level officials last month over embarrassing stories about questionable uneth… https://t.co/sQ3T8aU4L1,Sat Mar 10 02:02:54 +0000 2018,-0.5859,0.0,0.758,0.242,266
-CNN,"Facebook wants to gain the trust of publishers after a contentious year of fake news and algorithm changes, as well… https://t.co/j6Cng5TE2q",Sat Mar 10 02:00:22 +0000 2018,0.34,0.239,0.571,0.189,267
-CNN,"Rep. Eliot Engel says he is ""more confused now than when he first heard"" about President Trump accepting an invitat… https://t.co/mLwWwtbUPq",Sat Mar 10 01:51:13 +0000 2018,0.0018,0.107,0.785,0.107,268
-CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/qxlQBaajea,Sat Mar 10 01:44:02 +0000 2018,0.0,0.0,1.0,0.0,269
-CNN,"Stormy Daniels’ lawyer on Trump’s lawyer's explanation of porn star payment: “Nonsense, ridiculous, preposterous, l… https://t.co/GKRC9gmfKg",Sat Mar 10 01:38:49 +0000 2018,-0.3612,0.0,0.857,0.143,270
-CNN,".@andersoncooper on the Stormy Daniels payment: This is about the payoff, not the affair. #KeepingThemHonest… https://t.co/oJNg2OHTqp",Sat Mar 10 01:35:48 +0000 2018,0.0,0.0,1.0,0.0,271
-CNN,"RT @OutFrontCNN: ""Who among us, Erin, has not taken out a loan from their home equity line to pay off a stripper through a Delaware corpora…",Sat Mar 10 01:32:36 +0000 2018,-0.1027,0.0,0.94,0.06,272
+You too can stand up against mode… https://t.co/AYMLlzmAQe",Sat Mar 10 05:55:09 +0000 2018,0.0,0.0,1.0,0.0,332
+CNN,"The world's oldest known message in a bottle was found on an Australian beach, nearly 132 years after it was thrown… https://t.co/RznUu9j6ZO",Sat Mar 10 05:46:00 +0000 2018,0.0,0.0,1.0,0.0,333
+CNN,"The US is not effectively countering the Russia cyber threat, a top general says https://t.co/rO9JXvg32R https://t.co/NZ5Zellh8p",Sat Mar 10 05:43:05 +0000 2018,-0.6131,0.092,0.612,0.296,334
+CNN,"Toys ""R"" Us may close all of its US stores as soon as next week, according to several reports… https://t.co/BKpJhZPbHY",Sat Mar 10 05:31:04 +0000 2018,0.0,0.0,1.0,0.0,335
+CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/nMrQRWZMSt,Sat Mar 10 05:16:36 +0000 2018,0.0,0.0,1.0,0.0,336
+CNN,Martin Shkreli was sentenced to seven years in prison on Friday for defrauding investors out of more than $10 milli… https://t.co/7MWoGx1CAL,Sat Mar 10 05:01:04 +0000 2018,-0.5267,0.0,0.812,0.188,337
+CNN,Concerns in Washington are growing amid reports that China is poised to gain control of a major commercial port on… https://t.co/QikJejHO3n,Sat Mar 10 04:50:00 +0000 2018,0.7269,0.295,0.705,0.0,338
+CNN,"RT @CNNTonight: ""This the last thing that most of the uniform military would like to be doing, spending their time practicing just for a do…",Sat Mar 10 04:47:56 +0000 2018,0.3612,0.098,0.902,0.0,339
+CNN,It’s a policy for modern day churches and it traces back to 248 AD. See how Christianity went from persecution to p… https://t.co/i77fMJ4Stl,Sat Mar 10 04:45:17 +0000 2018,0.0,0.0,1.0,0.0,340
+CNN,The Trump administration is helping a lost generation of workers recover | By Scott Jennings via @CNNOpinion… https://t.co/lhH94NrshW,Sat Mar 10 04:38:03 +0000 2018,-0.0258,0.119,0.757,0.124,341
+CNN,This Oakland coffee shop says it's keeping the peace by not serving cops https://t.co/rpDx8bEEwX https://t.co/CQ1LIb2msi,Sat Mar 10 04:31:05 +0000 2018,0.5423,0.2,0.8,0.0,342
+CNN,"5 days, 15 big stories, 1 Trump White House | Analysis by @CillizzaCNN https://t.co/3Nrw1NNvXK https://t.co/ntYWqxZJz1",Sat Mar 10 04:23:24 +0000 2018,0.0,0.0,1.0,0.0,343
+CNN,"""Even by China's standard, the annual session of the largely ceremonial parliament seems to be a much more choreogr… https://t.co/Feux7A2QC7",Sat Mar 10 04:17:17 +0000 2018,0.0,0.0,1.0,0.0,344
+CNN,Olive branch may beat big stick when it comes to North Korea | By John Kirby via @CNNOpinion https://t.co/moMl7ctAOV,Sat Mar 10 04:16:01 +0000 2018,0.0,0.0,1.0,0.0,345
+CNN,"Three women and a gunman were found dead after a hostage standoff at a veterans home in Yountville, a California la… https://t.co/xI68dIjTsb",Sat Mar 10 04:03:57 +0000 2018,-0.6486,0.0,0.798,0.202,346
+CNN,RT @AC360: Porn star's attorney: Cohen used his Trump Organization signature in email https://t.co/sbMz1wgi2q https://t.co/m9Yd4btUSX,Sat Mar 10 04:02:21 +0000 2018,0.0,0.0,1.0,0.0,347
+CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/DZSL5Qus4k",Sat Mar 10 04:01:52 +0000 2018,-0.5423,0.07,0.698,0.233,348
+CNN,Porn star's attorney: Michael Cohen used his Trump Organization signature in email https://t.co/BRUDB9If2r https://t.co/cJGwmAntY6,Sat Mar 10 03:48:07 +0000 2018,0.0,0.0,1.0,0.0,349
+CNN,"""There is a powerful movement taking shape to stand up on behalf of some of our country's most silenced and vulnera… https://t.co/rsSZNbloRT",Sat Mar 10 03:46:04 +0000 2018,0.4215,0.123,0.877,0.0,350
+CNN,"How South Korea triggered Trump's flip from ""fire and fury"" https://t.co/7PmxRGELF9 https://t.co/74dGwHR4jn",Sat Mar 10 03:39:29 +0000 2018,-0.7269,0.0,0.621,0.379,351
+CNN,"The President of Mauritius will resign next week, the island country's prime minister has said… https://t.co/yVtHhbBxp9",Sat Mar 10 03:31:09 +0000 2018,-0.34,0.0,0.862,0.138,352
+CNN,"ESPN's Michael Smith leaves ""SportsCenter"" https://t.co/OpZMe86gQf https://t.co/Q5atKIBFGx",Sat Mar 10 03:28:28 +0000 2018,0.0,0.0,1.0,0.0,353
+CNN,I had the coolest job on the planet ... at Tower Records | By Katia Hetter via @CNNOpinion https://t.co/mPjsEpPUSC https://t.co/LkhnfVNbkW,Sat Mar 10 03:25:43 +0000 2018,0.0,0.0,1.0,0.0,354
+CNN,"CNN's @FareedZakaria: The North Koreans have never shown any interest in giving up their nuclear weapons. ""This is… https://t.co/rEHRbNoiV7",Sat Mar 10 03:25:09 +0000 2018,-0.4552,0.101,0.673,0.226,355
+CNN,A futuristic retreat that aims to be the world's first energy-positive hotel is being planned in the Arctic Circle… https://t.co/iTvQEcFP7m,Sat Mar 10 03:23:56 +0000 2018,0.2023,0.091,0.909,0.0,356
+CNN,"Van Jones: ""Find me a lawyer who's going to go and pay my bills off of a home equity line. ... There's not a lawyer… https://t.co/rA4fXamZDz",Sat Mar 10 03:16:41 +0000 2018,-0.1027,0.0,0.94,0.06,357
+CNN,"Volkswagen says it will stop using coal to power its main factory in Wolfsburg, Germany https://t.co/l6CeSbpDhr https://t.co/ltRCY3UoSb",Sat Mar 10 03:10:32 +0000 2018,-0.296,0.0,0.879,0.121,358
+CNN,An Ohio woman stumbled upon an unusual treasure during one of her bargain hunts: a 74-year-old NYPD Medal for Valor… https://t.co/DjgcrTsj3x,Sat Mar 10 02:57:28 +0000 2018,0.7269,0.295,0.705,0.0,359
+CNN,"""If America's allies in South Korea were already worried ... they will find the latest news of Trump's head-snappin… https://t.co/5uwlwZay76",Sat Mar 10 02:52:08 +0000 2018,-0.296,0.0,0.896,0.104,360
+CNN,Republican defense hawks are watching closely as US President Trump prepares to meet with North Korean leader Kim J… https://t.co/QAqR4pg2cd,Sat Mar 10 02:47:25 +0000 2018,0.128,0.073,0.927,0.0,361
+CNN,Sen. Bernie Sanders says the recent attacks on a Texas candidate for Congress by the Democratic Congressional Campa… https://t.co/wOWy7I4fZt,Sat Mar 10 02:45:02 +0000 2018,-0.4404,0.0,0.854,0.146,362
+CNN,"The State Department is warning US citizens against travel to Mexico's Playa del Carmen, a week after an explosive… https://t.co/QlbLV5vF4B",Sat Mar 10 02:35:21 +0000 2018,-0.34,0.0,0.882,0.118,363
+CNN,Here come the tariffs. Is a trade war next? https://t.co/8CDXvjDuYd https://t.co/P2S0ptNM1g,Sat Mar 10 02:21:34 +0000 2018,-0.5994,0.0,0.698,0.302,364
+CNN,"Cameron Kasky, a student who survived the Florida school shooting: GOP Governor Rick Scott is using the newly-passe… https://t.co/sWeTid7QzG",Sat Mar 10 02:15:10 +0000 2018,0.5106,0.163,0.837,0.0,365
+CNN,"2,000 years ago, people watched as animals mysteriously died at the entrance to a grotto in modern-day Turkey that… https://t.co/JH4wOzxg1T",Sat Mar 10 02:09:56 +0000 2018,-0.5574,0.0,0.833,0.167,366
+CNN,The White House met with four Cabinet-level officials last month over embarrassing stories about questionable uneth… https://t.co/sQ3T8aU4L1,Sat Mar 10 02:02:54 +0000 2018,-0.5859,0.0,0.758,0.242,367
+CNN,"Facebook wants to gain the trust of publishers after a contentious year of fake news and algorithm changes, as well… https://t.co/j6Cng5TE2q",Sat Mar 10 02:00:22 +0000 2018,0.34,0.239,0.571,0.189,368
+CNN,"Rep. Eliot Engel says he is ""more confused now than when he first heard"" about President Trump accepting an invitat… https://t.co/mLwWwtbUPq",Sat Mar 10 01:51:13 +0000 2018,0.0018,0.107,0.785,0.107,369
+CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/qxlQBaajea,Sat Mar 10 01:44:02 +0000 2018,0.0,0.0,1.0,0.0,370
+CNN,"Stormy Daniels’ lawyer on Trump’s lawyer's explanation of porn star payment: “Nonsense, ridiculous, preposterous, l… https://t.co/GKRC9gmfKg",Sat Mar 10 01:38:49 +0000 2018,-0.3612,0.0,0.857,0.143,371
+CNN,".@andersoncooper on the Stormy Daniels payment: This is about the payoff, not the affair. #KeepingThemHonest… https://t.co/oJNg2OHTqp",Sat Mar 10 01:35:48 +0000 2018,0.0,0.0,1.0,0.0,372
+CNN,"RT @OutFrontCNN: ""Who among us, Erin, has not taken out a loan from their home equity line to pay off a stripper through a Delaware corpora…",Sat Mar 10 01:32:36 +0000 2018,-0.1027,0.0,0.94,0.06,373
 CNN,"President Trump's steel and aluminum tariffs raise two big questions:
 
 1. Are they legal?
-2. And will it matter if… https://t.co/Yvv6jpZXoQ",Sat Mar 10 01:31:42 +0000 2018,0.1531,0.12,0.88,0.0,273
-CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/zUXt12EeZT",Sat Mar 10 01:22:28 +0000 2018,-0.4767,0.0,0.829,0.171,274
-CNN,"Model-activist Adwoa Aboah wants her online platform ""Gurls Talk,"" addressing issues of mental health and sexuality… https://t.co/ximbny7BEE",Sat Mar 10 01:09:56 +0000 2018,0.0,0.0,1.0,0.0,275
-CNN,"When World War II ended, no industry was stronger or more important than American steel. https://t.co/jDwPGexpg8",Sat Mar 10 01:00:27 +0000 2018,-0.3415,0.206,0.526,0.268,276
-CNN,A North Carolina police officer who resigned after a body camera video showed him hitting and using a Taser on a ma… https://t.co/bWATDIktOR,Sat Mar 10 00:49:48 +0000 2018,-0.25,0.0,0.9,0.1,277
-CNN,"Nancy Pelosi was on ""RuPaul's Drag Race All Stars."" Here's what happened https://t.co/GyiOYXI8tg https://t.co/7iXvnYrQss",Sat Mar 10 00:46:47 +0000 2018,-0.2263,0.0,0.872,0.128,278
-CNN,"""The adults make the laws because we have the age. We have the wisdom. And we have the experience to make these law… https://t.co/OTOlUrbEby",Sat Mar 10 00:42:26 +0000 2018,0.5267,0.129,0.871,0.0,279
-CNN,"""Do we allow the children to tell us that we should pass a law that says, 'No homework'? ... No. The adults make th… https://t.co/yaI6k0R1Jo",Sat Mar 10 00:36:43 +0000 2018,-0.3612,0.07,0.769,0.161,280
-CNN,Exclusive: The military parade President Trump wants is unlikely to mirror France's Bastille Day event and won't in… https://t.co/gQALpnQ8lX,Sat Mar 10 00:31:09 +0000 2018,0.128,0.077,0.923,0.0,281
-CNN,Remember Elon Musk's plan to dig a massive web of traffic-beating tunnels underneath Los Angeles? He's now overhaul… https://t.co/QhuuHrQKS5,Sat Mar 10 00:26:24 +0000 2018,0.0,0.0,1.0,0.0,282
-CNN,President Trump’s potential testimony is at the center of his attorneys’ strategy to gauge the status of special co… https://t.co/a4Ir9ydw4K,Sat Mar 10 00:19:39 +0000 2018,0.4019,0.124,0.876,0.0,283
-CNN,"In a Netflix documentary, Rachel Dolezal's son says he resents some of his mom's choices https://t.co/gvDAqEVo1M https://t.co/0BslgxygUI",Sat Mar 10 00:12:12 +0000 2018,-0.296,0.0,0.872,0.128,284
-CNN,"The NRA has sued Florida after Gov. Rick Scott signed Senate Bill 7026 into law, the first gun control legislation… https://t.co/HfvS5rLlcR",Fri Mar 09 23:59:48 +0000 2018,-0.34,0.0,0.893,0.107,285
-CNN,Zabie Yamasaki was sexually assaulted by a stranger during her senior year in college. She took up yoga during her… https://t.co/KeiG85beAA,Fri Mar 09 23:51:04 +0000 2018,-0.5267,0.0,0.848,0.152,286
-CNN,JUST IN: The NRA is suing Florida to block a new gun law that prohibits the sale of firearms to anyone below the ag… https://t.co/aaEmuP2uwG,Fri Mar 09 23:49:03 +0000 2018,-0.7506,0.0,0.739,0.261,287
-CNN,A 17-year-old has been charged with manslaughter in the shooting death of a teenage girl at an Alabama high school… https://t.co/COTBc25hYP,Fri Mar 09 23:46:04 +0000 2018,-0.6908,0.0,0.749,0.251,288
-CNN,"Amazon is offering Medicaid recipients a Prime Membership for $5.99 a month, a 54% discount from the normal rate… https://t.co/Y5gbWUZFTI",Fri Mar 09 23:38:46 +0000 2018,0.1779,0.096,0.904,0.0,289
-CNN,Very little is known about US President Donald Trump's plans to meet North Korean leader Kim Jong Un except that th… https://t.co/aHdxXckaiQ,Fri Mar 09 23:38:44 +0000 2018,0.0,0.0,1.0,0.0,290
-CNN,"RT @CNNOpinion: Jared Kushner is quietly tackling Washington's swamp, writes @kayleighmcenany https://t.co/UKeJt1YZiZ",Fri Mar 09 23:32:09 +0000 2018,0.0,0.0,1.0,0.0,291
-CNN,"Exclusive: President Trump is getting a military parade, but tanks won't roll down Pennsylvania Avenue… https://t.co/ehAOfkIy6C",Fri Mar 09 23:24:50 +0000 2018,0.0644,0.082,0.918,0.0,292
-CNN,"President Trump's lawyer says he used his home equity line for the $130,000 paid to porn star Stormy Daniels and th… https://t.co/bERwF4Wxh7",Fri Mar 09 23:16:42 +0000 2018,0.0,0.0,1.0,0.0,293
-CNN,"Toys ""R"" Us may close all of its US stores as soon as next week, according to several reports… https://t.co/q8PnhGGHoL",Fri Mar 09 23:11:04 +0000 2018,0.0,0.0,1.0,0.0,294
-CNN,Donald Trump isn't the first US President to get a North Korean invite. But he's the first to accept. | Analysis by… https://t.co/12uybimMzv,Fri Mar 09 23:01:05 +0000 2018,0.4939,0.181,0.819,0.0,295
-CNN,A showdown between the White House and GOP lawmakers looms over the Rob Porter scandal https://t.co/g8QQyFA2gT https://t.co/JgABg0dV9J,Fri Mar 09 22:51:05 +0000 2018,-0.7964,0.0,0.616,0.384,296
-CNN,"US President Trump will travel to Peru next month where he will attend the Summit of the Americas, according to a W… https://t.co/FHfnzjY1Uc",Fri Mar 09 22:41:04 +0000 2018,0.0,0.0,1.0,0.0,297
-CNN,"A gunman has taken hostages at the Veterans Home of California in Yountville, according to the California Highway P… https://t.co/eVHsN6lNhG",Fri Mar 09 22:33:06 +0000 2018,0.0,0.0,1.0,0.0,298
-CNN,"Scientists unravel the mystery of the Roman ""gate to hell,"" which was thought to belch a ""breath of death"" that cau… https://t.co/dfvS7HZcP1",Fri Mar 09 22:22:02 +0000 2018,-0.5994,0.0,0.837,0.163,299
-CNN,"The US economy added 313,000 jobs in February. That was much stronger than economists expected and the biggest gain… https://t.co/HmFMMbVZyG",Fri Mar 09 22:16:20 +0000 2018,0.3818,0.12,0.88,0.0,300
-CNN,An internal FBI report concludes that a technical glitch was behind a seemingly abrupt November 2016 tweet on Clint… https://t.co/8Q0hdSC9ts,Fri Mar 09 22:10:33 +0000 2018,0.0,0.0,1.0,0.0,301
-CNN,"Longtime coach Richard Callaghan, who has mentored Olympic and world champions, has been suspended by US Figure Ska… https://t.co/MPJqCMBNTd",Fri Mar 09 22:07:10 +0000 2018,0.0772,0.145,0.723,0.132,302
-CNN,RT @VanJones68: Want to find out what got @OPRAH dancing like this? Tune in on Sunday — 8pm ET / 5pm PT on @cnn. Set your DVRs now! #vanjon…,Fri Mar 09 22:01:25 +0000 2018,0.4753,0.141,0.859,0.0,303
-CNN,"Sen. James Risch on North Korea talks: ""I'm watching a lot of negativity about this. ... This President needs to be… https://t.co/paWZmBTQi0",Fri Mar 09 21:57:29 +0000 2018,-0.5106,0.0,0.858,0.142,304
-CNN,"The Trump Organization says it donated more than $150,000 to the US Treasury, representing the profits it made at i… https://t.co/2lz7mdadig",Fri Mar 09 21:53:25 +0000 2018,0.5719,0.198,0.802,0.0,305
-CNN,"RT @CNNnewsroom: ""All I can say is, it was church. It was Oprah Winfrey from like '96, '97. She starts dancing, she's preaching...I forgot…",Fri Mar 09 21:47:29 +0000 2018,0.3612,0.102,0.898,0.0,306
-CNN,White House press secretary Sarah Sanders made clear that she has nothing else to say about the alleged affair betw… https://t.co/Zor2f8JGiO,Fri Mar 09 21:46:26 +0000 2018,0.3818,0.115,0.885,0.0,307
-CNN,"RT @TheLeadCNN: Talks with North Korea would represent a huge risk for Trump, who would be putting the prestige of the United States and hi…",Fri Mar 09 21:36:56 +0000 2018,0.4588,0.181,0.745,0.074,308
-CNN,"Thousands may have been exposed to mumps at a national cheerleading competition last month in Dallas, health offici… https://t.co/jVUUVDCp2F",Fri Mar 09 21:36:46 +0000 2018,0.2263,0.113,0.821,0.067,309
-CNN,The ACLU has filed a class-action lawsuit charging the Trump administration with separating immigrant parents from… https://t.co/dyPzdDmlT0,Fri Mar 09 21:29:39 +0000 2018,-0.2263,0.0,0.888,0.112,310
-CNN,"RT @CNNnewsroom: .@VanJones68 on new Florida gun reform law: “This is progress” in that a Republican governor, majority-Republican House an…",Fri Mar 09 21:25:59 +0000 2018,-0.34,0.0,0.882,0.118,311
-CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/njYwhSCy2j",Fri Mar 09 21:25:53 +0000 2018,-0.5423,0.07,0.698,0.233,312
-CNN,The White House puts an asterisk on President Trump's planned meeting with North Korean leader Kim Jong Un… https://t.co/7qu512apmT,Fri Mar 09 21:16:44 +0000 2018,0.0,0.0,1.0,0.0,313
-CNN,Stormy Daniels' attorney confirms that Michael Cohen used his Trump Organization email while negotiating details of… https://t.co/DIOqRFTCil,Fri Mar 09 21:04:17 +0000 2018,0.0,0.0,1.0,0.0,314
-CNN,"White House press secretary Sarah Sanders: ""Let's be very clear: The United States has made zero concessions, but N… https://t.co/zpfKtL7kMo",Fri Mar 09 21:01:50 +0000 2018,0.4549,0.181,0.819,0.0,315
-CNN,"Gov. Rick Scott on the Florida gun bill: ""There are things in this bill that I oppose, and I've been pretty open ab… https://t.co/xAIiOeSp6y",Fri Mar 09 20:59:53 +0000 2018,0.2023,0.12,0.789,0.09,316
-CNN,"Of the 313,000 jobs that were added last month, 92,000 were in the construction and manufacturing sectors. Another… https://t.co/I9JcaysfdY",Fri Mar 09 20:44:31 +0000 2018,0.0,0.0,1.0,0.0,317
-CNN,The lawyer handling the Stormy Daniels scandal for Michael Cohen comes from the same small New York law firm that e… https://t.co/rT380TQOBy,Fri Mar 09 20:43:27 +0000 2018,-0.4404,0.0,0.879,0.121,318
-CNN,Here's what's in the Florida gun bill dubbed the Marjory Stoneman Douglas High School Public Safety Act… https://t.co/yhMF3P5ISG,Fri Mar 09 20:35:58 +0000 2018,0.1027,0.132,0.755,0.113,319
-CNN,"Gunfire was reported at the Veterans Home of California in Yountville, the California Department of Veterans said… https://t.co/5ODKxWmXNE",Fri Mar 09 20:30:25 +0000 2018,0.0,0.0,1.0,0.0,320
-CNN,"The new Florida law, known as the Marjory Stoneman Douglas High School Public Safety Act, tightens gun control in s… https://t.co/QN6NVsd0Ri",Fri Mar 09 20:29:23 +0000 2018,0.1027,0.116,0.785,0.099,321
-CNN,"JUST IN: Florida Gov. Rick Scott has signed Senate Bill 7026 into law, the first gun control legislation enacted in… https://t.co/kMse7Rw9gK",Fri Mar 09 20:25:51 +0000 2018,-0.34,0.0,0.893,0.107,322
-CNN,"A multistate outbreak of salmonella has been linked to pet guinea pigs, the CDC says https://t.co/b45AUucJ3p https://t.co/GReJmJH4nd",Fri Mar 09 20:13:52 +0000 2018,0.0,0.0,1.0,0.0,323
-CNN,RT @CNNPolitics: Sanders on the Stormy Daniels scandal: “I’ve addressed this extensively. I don’t have anything else to add” https://t.co/J…,Fri Mar 09 20:10:14 +0000 2018,-0.4404,0.0,0.861,0.139,324
-CNN,Asked if H.R. McMaster will remain national security adviser for the duration of negotiations for North Korea talks… https://t.co/gF20U9hn7o,Fri Mar 09 20:08:35 +0000 2018,0.34,0.118,0.882,0.0,325
-CNN,White House press secretary Sarah Sanders says the time and place of President Trump's meeting with Kim Jong Un hav… https://t.co/4NpWLktflv,Fri Mar 09 20:03:09 +0000 2018,0.0,0.0,1.0,0.0,326
-CNN,"A Florida teacher has been suspended after his school district concluded he repeatedly used the N-word in class, an… https://t.co/KbVOWtRGvF",Fri Mar 09 20:00:14 +0000 2018,-0.4767,0.0,0.853,0.147,327
-CNN,"White House press secretary Sarah Sanders says ""we are making no concessions"" and the US will not move forward with… https://t.co/LNPFwocHaD",Fri Mar 09 19:58:32 +0000 2018,-0.296,0.0,0.901,0.099,328
-CNN,RT @CNNPolitics: Sanders says the time and place of Trump's meeting with Kim Jong Un have not been set https://t.co/WeEoA755ld,Fri Mar 09 19:54:47 +0000 2018,0.0,0.0,1.0,0.0,329
-CNN,"Anthony C. Acevedo, an Army medic who documented the horrors inside a Nazi slave camp, has died at age 93… https://t.co/Kavvw76CAj",Fri Mar 09 19:50:07 +0000 2018,-0.8074,0.0,0.711,0.289,330
-CNN,"White House press secretary Sarah Sanders: ""The Secretary of State's deputy was in the room at the time these conve… https://t.co/LcIUcQ6Pzd",Fri Mar 09 19:47:25 +0000 2018,0.0,0.0,1.0,0.0,331
-CNN,"White House press secretary Sarah Sanders: ""Let's be very clear: The United States has made zero concessions, but N… https://t.co/sH18K5D8CE",Fri Mar 09 19:40:48 +0000 2018,0.4549,0.181,0.819,0.0,332
-CNN,The outgoing US ambassador to Panama issued a scathing critique of President Trump and his foreign policies in an o… https://t.co/BHjhaiu5uP,Fri Mar 09 19:40:03 +0000 2018,0.296,0.104,0.896,0.0,333
-CNN,White House press secretary Sarah Sanders says President Trump won’t meet with Kim Jong Un “until we see concrete a… https://t.co/FZitHDgZXS,Fri Mar 09 19:36:39 +0000 2018,0.0,0.0,1.0,0.0,334
-CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/WjfiYDfxFv",Fri Mar 09 19:30:05 +0000 2018,0.7096,0.315,0.594,0.091,335
+2. And will it matter if… https://t.co/Yvv6jpZXoQ",Sat Mar 10 01:31:42 +0000 2018,0.1531,0.12,0.88,0.0,374
+CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/zUXt12EeZT",Sat Mar 10 01:22:28 +0000 2018,-0.4767,0.0,0.829,0.171,375
+CNN,"Model-activist Adwoa Aboah wants her online platform ""Gurls Talk,"" addressing issues of mental health and sexuality… https://t.co/ximbny7BEE",Sat Mar 10 01:09:56 +0000 2018,0.0,0.0,1.0,0.0,376
+CNN,"When World War II ended, no industry was stronger or more important than American steel. https://t.co/jDwPGexpg8",Sat Mar 10 01:00:27 +0000 2018,-0.3415,0.206,0.526,0.268,377
+CNN,A North Carolina police officer who resigned after a body camera video showed him hitting and using a Taser on a ma… https://t.co/bWATDIktOR,Sat Mar 10 00:49:48 +0000 2018,-0.25,0.0,0.9,0.1,378
+CNN,"Nancy Pelosi was on ""RuPaul's Drag Race All Stars."" Here's what happened https://t.co/GyiOYXI8tg https://t.co/7iXvnYrQss",Sat Mar 10 00:46:47 +0000 2018,-0.2263,0.0,0.872,0.128,379
+CNN,"""The adults make the laws because we have the age. We have the wisdom. And we have the experience to make these law… https://t.co/OTOlUrbEby",Sat Mar 10 00:42:26 +0000 2018,0.5267,0.129,0.871,0.0,380
+CNN,"""Do we allow the children to tell us that we should pass a law that says, 'No homework'? ... No. The adults make th… https://t.co/yaI6k0R1Jo",Sat Mar 10 00:36:43 +0000 2018,-0.3612,0.07,0.769,0.161,381
+CNN,Exclusive: The military parade President Trump wants is unlikely to mirror France's Bastille Day event and won't in… https://t.co/gQALpnQ8lX,Sat Mar 10 00:31:09 +0000 2018,0.128,0.077,0.923,0.0,382
+CNN,Remember Elon Musk's plan to dig a massive web of traffic-beating tunnels underneath Los Angeles? He's now overhaul… https://t.co/QhuuHrQKS5,Sat Mar 10 00:26:24 +0000 2018,0.0,0.0,1.0,0.0,383
+CNN,President Trump’s potential testimony is at the center of his attorneys’ strategy to gauge the status of special co… https://t.co/a4Ir9ydw4K,Sat Mar 10 00:19:39 +0000 2018,0.4019,0.124,0.876,0.0,384
+CNN,"In a Netflix documentary, Rachel Dolezal's son says he resents some of his mom's choices https://t.co/gvDAqEVo1M https://t.co/0BslgxygUI",Sat Mar 10 00:12:12 +0000 2018,-0.296,0.0,0.872,0.128,385
+CNN,"The NRA has sued Florida after Gov. Rick Scott signed Senate Bill 7026 into law, the first gun control legislation… https://t.co/HfvS5rLlcR",Fri Mar 09 23:59:48 +0000 2018,-0.34,0.0,0.893,0.107,386
+CNN,Zabie Yamasaki was sexually assaulted by a stranger during her senior year in college. She took up yoga during her… https://t.co/KeiG85beAA,Fri Mar 09 23:51:04 +0000 2018,-0.5267,0.0,0.848,0.152,387
+CNN,JUST IN: The NRA is suing Florida to block a new gun law that prohibits the sale of firearms to anyone below the ag… https://t.co/aaEmuP2uwG,Fri Mar 09 23:49:03 +0000 2018,-0.7506,0.0,0.739,0.261,388
+CNN,A 17-year-old has been charged with manslaughter in the shooting death of a teenage girl at an Alabama high school… https://t.co/COTBc25hYP,Fri Mar 09 23:46:04 +0000 2018,-0.6908,0.0,0.749,0.251,389
+CNN,"Amazon is offering Medicaid recipients a Prime Membership for $5.99 a month, a 54% discount from the normal rate… https://t.co/Y5gbWUZFTI",Fri Mar 09 23:38:46 +0000 2018,0.1779,0.096,0.904,0.0,390
+CNN,Very little is known about US President Donald Trump's plans to meet North Korean leader Kim Jong Un except that th… https://t.co/aHdxXckaiQ,Fri Mar 09 23:38:44 +0000 2018,0.0,0.0,1.0,0.0,391
+CNN,"RT @CNNOpinion: Jared Kushner is quietly tackling Washington's swamp, writes @kayleighmcenany https://t.co/UKeJt1YZiZ",Fri Mar 09 23:32:09 +0000 2018,0.0,0.0,1.0,0.0,392
+CNN,"Exclusive: President Trump is getting a military parade, but tanks won't roll down Pennsylvania Avenue… https://t.co/ehAOfkIy6C",Fri Mar 09 23:24:50 +0000 2018,0.0644,0.082,0.918,0.0,393
+CNN,"President Trump's lawyer says he used his home equity line for the $130,000 paid to porn star Stormy Daniels and th… https://t.co/bERwF4Wxh7",Fri Mar 09 23:16:42 +0000 2018,0.0,0.0,1.0,0.0,394
+CNN,"Toys ""R"" Us may close all of its US stores as soon as next week, according to several reports… https://t.co/q8PnhGGHoL",Fri Mar 09 23:11:04 +0000 2018,0.0,0.0,1.0,0.0,395
+CNN,Donald Trump isn't the first US President to get a North Korean invite. But he's the first to accept. | Analysis by… https://t.co/12uybimMzv,Fri Mar 09 23:01:05 +0000 2018,0.4939,0.181,0.819,0.0,396
+CNN,A showdown between the White House and GOP lawmakers looms over the Rob Porter scandal https://t.co/g8QQyFA2gT https://t.co/JgABg0dV9J,Fri Mar 09 22:51:05 +0000 2018,-0.7964,0.0,0.616,0.384,397
+CNN,"US President Trump will travel to Peru next month where he will attend the Summit of the Americas, according to a W… https://t.co/FHfnzjY1Uc",Fri Mar 09 22:41:04 +0000 2018,0.0,0.0,1.0,0.0,398
+CNN,"A gunman has taken hostages at the Veterans Home of California in Yountville, according to the California Highway P… https://t.co/eVHsN6lNhG",Fri Mar 09 22:33:06 +0000 2018,0.0,0.0,1.0,0.0,399
+CNN,"Scientists unravel the mystery of the Roman ""gate to hell,"" which was thought to belch a ""breath of death"" that cau… https://t.co/dfvS7HZcP1",Fri Mar 09 22:22:02 +0000 2018,-0.5994,0.0,0.837,0.163,400
+CNN,"The US economy added 313,000 jobs in February. That was much stronger than economists expected and the biggest gain… https://t.co/HmFMMbVZyG",Fri Mar 09 22:16:20 +0000 2018,0.3818,0.12,0.88,0.0,401
+CNN,An internal FBI report concludes that a technical glitch was behind a seemingly abrupt November 2016 tweet on Clint… https://t.co/8Q0hdSC9ts,Fri Mar 09 22:10:33 +0000 2018,0.0,0.0,1.0,0.0,402
+CNN,"Longtime coach Richard Callaghan, who has mentored Olympic and world champions, has been suspended by US Figure Ska… https://t.co/MPJqCMBNTd",Fri Mar 09 22:07:10 +0000 2018,0.0772,0.145,0.723,0.132,403
+CNN,RT @VanJones68: Want to find out what got @OPRAH dancing like this? Tune in on Sunday — 8pm ET / 5pm PT on @cnn. Set your DVRs now! #vanjon…,Fri Mar 09 22:01:25 +0000 2018,0.4753,0.141,0.859,0.0,404
+CNN,"Sen. James Risch on North Korea talks: ""I'm watching a lot of negativity about this. ... This President needs to be… https://t.co/paWZmBTQi0",Fri Mar 09 21:57:29 +0000 2018,-0.5106,0.0,0.858,0.142,405
+CNN,"The Trump Organization says it donated more than $150,000 to the US Treasury, representing the profits it made at i… https://t.co/2lz7mdadig",Fri Mar 09 21:53:25 +0000 2018,0.5719,0.198,0.802,0.0,406
+CNN,"RT @CNNnewsroom: ""All I can say is, it was church. It was Oprah Winfrey from like '96, '97. She starts dancing, she's preaching...I forgot…",Fri Mar 09 21:47:29 +0000 2018,0.3612,0.102,0.898,0.0,407
+CNN,White House press secretary Sarah Sanders made clear that she has nothing else to say about the alleged affair betw… https://t.co/Zor2f8JGiO,Fri Mar 09 21:46:26 +0000 2018,0.3818,0.115,0.885,0.0,408
+CNN,"RT @TheLeadCNN: Talks with North Korea would represent a huge risk for Trump, who would be putting the prestige of the United States and hi…",Fri Mar 09 21:36:56 +0000 2018,0.4588,0.181,0.745,0.074,409
+CNN,"Thousands may have been exposed to mumps at a national cheerleading competition last month in Dallas, health offici… https://t.co/jVUUVDCp2F",Fri Mar 09 21:36:46 +0000 2018,0.2263,0.113,0.821,0.067,410
+CNN,The ACLU has filed a class-action lawsuit charging the Trump administration with separating immigrant parents from… https://t.co/dyPzdDmlT0,Fri Mar 09 21:29:39 +0000 2018,-0.2263,0.0,0.888,0.112,411
+CNN,"RT @CNNnewsroom: .@VanJones68 on new Florida gun reform law: “This is progress” in that a Republican governor, majority-Republican House an…",Fri Mar 09 21:25:59 +0000 2018,-0.34,0.0,0.882,0.118,412
+CNN,"Oprah Winfrey has some advice for Americans feeling jaded amid increasing political partisanship, debates on gun co… https://t.co/njYwhSCy2j",Fri Mar 09 21:25:53 +0000 2018,-0.5423,0.07,0.698,0.233,413
+CNN,The White House puts an asterisk on President Trump's planned meeting with North Korean leader Kim Jong Un… https://t.co/7qu512apmT,Fri Mar 09 21:16:44 +0000 2018,0.0,0.0,1.0,0.0,414
+CNN,Stormy Daniels' attorney confirms that Michael Cohen used his Trump Organization email while negotiating details of… https://t.co/DIOqRFTCil,Fri Mar 09 21:04:17 +0000 2018,0.0,0.0,1.0,0.0,415
+CNN,"White House press secretary Sarah Sanders: ""Let's be very clear: The United States has made zero concessions, but N… https://t.co/zpfKtL7kMo",Fri Mar 09 21:01:50 +0000 2018,0.4549,0.181,0.819,0.0,416
+CNN,"Gov. Rick Scott on the Florida gun bill: ""There are things in this bill that I oppose, and I've been pretty open ab… https://t.co/xAIiOeSp6y",Fri Mar 09 20:59:53 +0000 2018,0.2023,0.12,0.789,0.09,417
+CNN,"Of the 313,000 jobs that were added last month, 92,000 were in the construction and manufacturing sectors. Another… https://t.co/I9JcaysfdY",Fri Mar 09 20:44:31 +0000 2018,0.0,0.0,1.0,0.0,418
+CNN,The lawyer handling the Stormy Daniels scandal for Michael Cohen comes from the same small New York law firm that e… https://t.co/rT380TQOBy,Fri Mar 09 20:43:27 +0000 2018,-0.4404,0.0,0.879,0.121,419
+CNN,Here's what's in the Florida gun bill dubbed the Marjory Stoneman Douglas High School Public Safety Act… https://t.co/yhMF3P5ISG,Fri Mar 09 20:35:58 +0000 2018,0.1027,0.132,0.755,0.113,420
+CNN,"Gunfire was reported at the Veterans Home of California in Yountville, the California Department of Veterans said… https://t.co/5ODKxWmXNE",Fri Mar 09 20:30:25 +0000 2018,0.0,0.0,1.0,0.0,421
+CNN,"The new Florida law, known as the Marjory Stoneman Douglas High School Public Safety Act, tightens gun control in s… https://t.co/QN6NVsd0Ri",Fri Mar 09 20:29:23 +0000 2018,0.1027,0.116,0.785,0.099,422
+CNN,"JUST IN: Florida Gov. Rick Scott has signed Senate Bill 7026 into law, the first gun control legislation enacted in… https://t.co/kMse7Rw9gK",Fri Mar 09 20:25:51 +0000 2018,-0.34,0.0,0.893,0.107,423
+CNN,"A multistate outbreak of salmonella has been linked to pet guinea pigs, the CDC says https://t.co/b45AUucJ3p https://t.co/GReJmJH4nd",Fri Mar 09 20:13:52 +0000 2018,0.0,0.0,1.0,0.0,424
+CNN,RT @CNNPolitics: Sanders on the Stormy Daniels scandal: “I’ve addressed this extensively. I don’t have anything else to add” https://t.co/J…,Fri Mar 09 20:10:14 +0000 2018,-0.4404,0.0,0.861,0.139,425
+CNN,Asked if H.R. McMaster will remain national security adviser for the duration of negotiations for North Korea talks… https://t.co/gF20U9hn7o,Fri Mar 09 20:08:35 +0000 2018,0.34,0.118,0.882,0.0,426
+CNN,White House press secretary Sarah Sanders says the time and place of President Trump's meeting with Kim Jong Un hav… https://t.co/4NpWLktflv,Fri Mar 09 20:03:09 +0000 2018,0.0,0.0,1.0,0.0,427
+CNN,"A Florida teacher has been suspended after his school district concluded he repeatedly used the N-word in class, an… https://t.co/KbVOWtRGvF",Fri Mar 09 20:00:14 +0000 2018,-0.4767,0.0,0.853,0.147,428
+CNN,"White House press secretary Sarah Sanders says ""we are making no concessions"" and the US will not move forward with… https://t.co/LNPFwocHaD",Fri Mar 09 19:58:32 +0000 2018,-0.296,0.0,0.901,0.099,429
+CNN,RT @CNNPolitics: Sanders says the time and place of Trump's meeting with Kim Jong Un have not been set https://t.co/WeEoA755ld,Fri Mar 09 19:54:47 +0000 2018,0.0,0.0,1.0,0.0,430
+CNN,"Anthony C. Acevedo, an Army medic who documented the horrors inside a Nazi slave camp, has died at age 93… https://t.co/Kavvw76CAj",Fri Mar 09 19:50:07 +0000 2018,-0.8074,0.0,0.711,0.289,431
+CNN,"White House press secretary Sarah Sanders: ""The Secretary of State's deputy was in the room at the time these conve… https://t.co/LcIUcQ6Pzd",Fri Mar 09 19:47:25 +0000 2018,0.0,0.0,1.0,0.0,432
+CNN,"White House press secretary Sarah Sanders: ""Let's be very clear: The United States has made zero concessions, but N… https://t.co/sH18K5D8CE",Fri Mar 09 19:40:48 +0000 2018,0.4549,0.181,0.819,0.0,433
+CNN,The outgoing US ambassador to Panama issued a scathing critique of President Trump and his foreign policies in an o… https://t.co/BHjhaiu5uP,Fri Mar 09 19:40:03 +0000 2018,0.296,0.104,0.896,0.0,434
+CNN,White House press secretary Sarah Sanders says President Trump won’t meet with Kim Jong Un “until we see concrete a… https://t.co/FZitHDgZXS,Fri Mar 09 19:36:39 +0000 2018,0.0,0.0,1.0,0.0,435
+CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/WjfiYDfxFv",Fri Mar 09 19:30:05 +0000 2018,0.7096,0.315,0.594,0.091,436
 CNN,"The White House is holding a press briefing. Watch CNN: https://t.co/UYpqI3w42L
 
-Follow live updates:… https://t.co/KziQnJbq49",Fri Mar 09 19:23:12 +0000 2018,0.0,0.0,1.0,0.0,336
-CNN,"A North Carolina police officer is facing charges after body camera footage shows him beating, choking and tasing a… https://t.co/s2dA3HoNU6",Fri Mar 09 19:20:07 +0000 2018,-0.7964,0.0,0.664,0.336,337
-CNN,The White House is ignoring a bipartisan congressional inquiry regarding documents about the Rob Porter scandal https://t.co/MAJL9PnerH,Fri Mar 09 19:10:04 +0000 2018,-0.8481,0.0,0.586,0.414,338
-CNN,JUST IN: Martin Shkreli was sentenced to seven years in prison on Friday for defrauding investors… https://t.co/YKUN9hpvAJ,Fri Mar 09 19:09:06 +0000 2018,-0.5267,0.0,0.773,0.227,339
-CNN,"Still digging out from a nor'easter that buried parts of northwestern Massachusetts with up to 2 feet of snow, a ne… https://t.co/38aFpQDIAO",Fri Mar 09 19:00:05 +0000 2018,0.0,0.0,1.0,0.0,340
+Follow live updates:… https://t.co/KziQnJbq49",Fri Mar 09 19:23:12 +0000 2018,0.0,0.0,1.0,0.0,437
+CNN,"A North Carolina police officer is facing charges after body camera footage shows him beating, choking and tasing a… https://t.co/s2dA3HoNU6",Fri Mar 09 19:20:07 +0000 2018,-0.7964,0.0,0.664,0.336,438
+CNN,The White House is ignoring a bipartisan congressional inquiry regarding documents about the Rob Porter scandal https://t.co/MAJL9PnerH,Fri Mar 09 19:10:04 +0000 2018,-0.8481,0.0,0.586,0.414,439
+CNN,JUST IN: Martin Shkreli was sentenced to seven years in prison on Friday for defrauding investors… https://t.co/YKUN9hpvAJ,Fri Mar 09 19:09:06 +0000 2018,-0.5267,0.0,0.773,0.227,440
+CNN,"Still digging out from a nor'easter that buried parts of northwestern Massachusetts with up to 2 feet of snow, a ne… https://t.co/38aFpQDIAO",Fri Mar 09 19:00:05 +0000 2018,0.0,0.0,1.0,0.0,441
 CNN,"7 questions that could come up at today's White House briefing:
 
-Follow here for live updates as soon as it begins:… https://t.co/6T7j0cO4xY",Fri Mar 09 18:59:55 +0000 2018,0.0,0.0,1.0,0.0,341
-CNN,What's missing from this White House photo? | Analysis by @CillizzaCNN https://t.co/sndw2EpJp2 https://t.co/Ove5LSOjXd,Fri Mar 09 18:50:10 +0000 2018,-0.296,0.0,0.833,0.167,342
-CNN,RT @CNNPhotos: The week in 26 photos: https://t.co/R4bgNwtIb0 https://t.co/HOD9iqOxqR,Fri Mar 09 18:47:28 +0000 2018,0.0,0.0,1.0,0.0,343
-CNN,The Kentucky man who tackled Sen. Rand Paul last year pleaded guilty to one felony charge of assaulting a member of… https://t.co/NhS4zCWItO,Fri Mar 09 18:40:07 +0000 2018,-0.8625,0.0,0.652,0.348,344
-CNN,How would Trump negotiate with 'little rocket man'? Here's what we know | Analysis by @zbyronwolf … https://t.co/xqowV8cqg3,Fri Mar 09 18:30:10 +0000 2018,0.0,0.0,1.0,0.0,345
-CNN,There is pervasive anxiety inside the walls of the White House over the fallout around allegations leveled against… https://t.co/eFM5omj19I,Fri Mar 09 18:20:24 +0000 2018,-0.1779,0.0,0.914,0.086,346
-CNN,"Fake news travels at a significantly faster rate on Twitter than accurate information, a new study finds… https://t.co/mViMbxRFoe",Fri Mar 09 18:05:51 +0000 2018,-0.4767,0.0,0.829,0.171,347
-CNN,"Toys ""R"" Us may shut all its US stores as soon as next week, according to several reports https://t.co/55A6cRaCuN https://t.co/Gs5MqEkZT1",Fri Mar 09 17:51:10 +0000 2018,0.0,0.0,1.0,0.0,348
-CNN,This isn't the first time Pyongyang has flirted with denuclearization https://t.co/kQh7nZteJd https://t.co/vXATw3c69A,Fri Mar 09 17:40:08 +0000 2018,-0.0516,0.0,0.902,0.098,349
-CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/slRosX4EtJ,Fri Mar 09 17:24:34 +0000 2018,0.0,0.0,1.0,0.0,350
-CNN,"The doors to Interior Secretary Ryan Zinke's office are getting a nearly $139,000 upgrade https://t.co/oCVRyOURSF",Fri Mar 09 17:10:39 +0000 2018,0.0,0.0,1.0,0.0,351
-CNN,A sheriff's deputy had his ex-wife jailed because he didn't like what she wrote about him on Facebook. And now she'… https://t.co/N63j96ux5C,Fri Mar 09 17:00:06 +0000 2018,-0.6497,0.0,0.782,0.218,352
-CNN,Serena Williams has won her first competitive singles match since she gave birth to her daughter… https://t.co/eUYW9aTskC,Fri Mar 09 16:50:07 +0000 2018,0.6597,0.265,0.735,0.0,353
-CNN,It's legal to grab a person's (clothed) backside in Minnesota. But probably not for long. https://t.co/qJIjHLVrwl https://t.co/gUa9hLloNz,Fri Mar 09 16:40:13 +0000 2018,0.128,0.091,0.909,0.0,354
-CNN,"The attorney for porn star Stormy Daniels, who's suing President Trump, says the American people need to hear from… https://t.co/TzFPfs87im",Fri Mar 09 16:30:06 +0000 2018,-0.2732,0.0,0.9,0.1,355
-CNN,"Flu season is not over yet, the CDC cautions https://t.co/y7InvnnCCm https://t.co/PcDYZSimpp",Fri Mar 09 16:27:29 +0000 2018,-0.3818,0.0,0.794,0.206,356
-CNN,"When a shooting erupted at Marjory Stoneman Douglas High School in Parkland, Florida, the first thing some students… https://t.co/ItrLEm75xn",Fri Mar 09 16:13:21 +0000 2018,0.0,0.0,1.0,0.0,357
-CNN,"For Trump, a meeting with Kim is the ultimate test. @CNNOpinion by @DavidAndelman https://t.co/ttGm0OilqZ https://t.co/b6ecQwaz8R",Fri Mar 09 16:02:06 +0000 2018,0.0,0.0,1.0,0.0,358
-CNN,Some West Virginia schools are canceling spring break to make up for days that were missed during the teacher strik… https://t.co/JnJMRcu0JS,Fri Mar 09 15:50:13 +0000 2018,-0.296,0.0,0.901,0.099,359
-CNN,The outgoing US ambassador to Panama issued a scathing critique of President Trump and his foreign policies in an o… https://t.co/UVley69QxZ,Fri Mar 09 15:40:05 +0000 2018,0.296,0.104,0.896,0.0,360
-CNN,"US President Trump will meet with North Korean leader Kim Jong Un by May, the South Korean national security advise… https://t.co/hcELoTwAEF",Fri Mar 09 15:32:11 +0000 2018,0.34,0.107,0.893,0.0,361
-CNN,KFC says it will switch hundreds of its UK restaurants back to their old supplier after 20 days of shortages… https://t.co/GRlDRrd7oe,Fri Mar 09 15:20:01 +0000 2018,0.0,0.0,1.0,0.0,362
-CNN,5 reasons why President Trump's massive North Korea gamble makes total and complete sense | Analysis by… https://t.co/cNKUBc73f2,Fri Mar 09 15:09:03 +0000 2018,0.0,0.0,1.0,0.0,363
-CNN,US President Donald Trump's stunning decision to meet Kim Jong Un sets up the prospect of the most mind boggling di… https://t.co/el19e8WbP2,Fri Mar 09 15:07:55 +0000 2018,0.5859,0.194,0.806,0.0,364
-CNN,A back-and-forth between Elon Musk and President Trump on Thursday highlighted the challenges automakers face when… https://t.co/feyYIoQsPN,Fri Mar 09 14:57:03 +0000 2018,0.0772,0.08,0.92,0.0,365
-CNN,"RT @CNNnewsroom: ""Kim Jong Un is very sly... He's been to this rodeo before"" says former US Ambassador to China Max Baucus. ""It's really an…",Fri Mar 09 14:55:47 +0000 2018,0.0,0.0,1.0,0.0,366
-CNN,"""What I knew about Harvey was that Harvey was a bully"": Oprah Winfrey discussed some of her past interactions with… https://t.co/UD6goDo3Fp",Fri Mar 09 14:47:59 +0000 2018,0.0,0.0,1.0,0.0,367
-CNN,Former Trump campaign aide Sam Nunberg has arrived at court to testify before a grand jury in special counsel Rober… https://t.co/wb4jwXOxso,Fri Mar 09 14:41:28 +0000 2018,0.6908,0.241,0.759,0.0,368
-CNN,"Anthony C. Acevedo, an Army medic who documented the horrors inside a Nazi slave camp, has died at age 93… https://t.co/ys4rUgN4cJ",Fri Mar 09 14:38:42 +0000 2018,-0.8074,0.0,0.711,0.289,369
-CNN,"Fake news travels at a significantly faster rate on Twitter than accurate information, a new study finds… https://t.co/tAOLhKsROH",Fri Mar 09 14:31:08 +0000 2018,-0.4767,0.0,0.829,0.171,370
-CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/yrsQgdOGU7,Fri Mar 09 14:25:17 +0000 2018,0.0,0.0,1.0,0.0,371
-CNN,"More than 2,000 eggs and embryos may no longer be viable after a malfunction at University Hospital in Cleveland ca… https://t.co/uP6ULsLSWe",Fri Mar 09 14:18:04 +0000 2018,-0.296,0.0,0.896,0.104,372
-CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/fuX5YVPpVw",Fri Mar 09 14:06:48 +0000 2018,0.7096,0.315,0.594,0.091,373
-CNN,A woman who previously accused Donald Trump of inappropriate sexual contact was named in the non-disclosure agreeme… https://t.co/jFdwBz9WRi,Fri Mar 09 13:56:45 +0000 2018,-0.296,0.0,0.879,0.121,374
-CNN,"North Carolina police officer resigns after body camera footage showed him beating, choking and tasing a suspected… https://t.co/14Oe2byPmf",Fri Mar 09 13:50:10 +0000 2018,-0.8074,0.0,0.628,0.372,375
-CNN,The poisoning of former Russian spy Sergei Skripal and his daughter in the United Kingdom has cast new light on a l… https://t.co/eWDgw2Q7AT,Fri Mar 09 13:47:41 +0000 2018,-0.25,0.105,0.752,0.143,376
-CNN,Barack Obama might appear on-camera as the moderator of a new series on Netflix. Or he might stay off-camera as a p… https://t.co/AEPZ8tTdH8,Fri Mar 09 13:39:07 +0000 2018,0.0,0.0,1.0,0.0,377
-CNN,"RT @CNNMoney: U.S. economy added 313,000 jobs last month, much more than expected. Unemployment remained at 4.1%.  https://t.co/A9OlUXl3FI",Fri Mar 09 13:35:30 +0000 2018,-0.4877,0.0,0.843,0.157,378
-CNN,A New York man allegedly hired a hit man to kill his neighbors. Then everything fell apart. https://t.co/QrIIRN3uMh,Fri Mar 09 13:31:09 +0000 2018,-0.6908,0.0,0.761,0.239,379
-CNN,A 15-year-old who protected his classmates in Florida from gunfire is now in critical condition after previously be… https://t.co/Dq5wbln8ih,Fri Mar 09 13:30:51 +0000 2018,0.1531,0.137,0.755,0.108,380
-CNN,"Anxiety over the fallout around allegations by porn star Stormy Daniels is pervasive inside the White House, source… https://t.co/o9zb4jsvYq",Fri Mar 09 13:20:08 +0000 2018,-0.1779,0.0,0.914,0.086,381
-CNN,"RT @NewDay: ""We laughed about it"": Steelworker whose father Trump mistakenly said was dead says he and his family found the incident funny…",Fri Mar 09 13:11:13 +0000 2018,-0.5423,0.102,0.678,0.22,382
-CNN,A sheriff's deputy had his ex-wife jailed because he didn't like what she wrote about him on Facebook. And now she'… https://t.co/zehQcMWuDU,Fri Mar 09 13:10:11 +0000 2018,-0.6497,0.0,0.782,0.218,383
-CNN,The CDC has discovered a cluster of cases of a progressive lung disease that occurred among dentists and other dent… https://t.co/ce4y8W9Vpg,Fri Mar 09 13:02:43 +0000 2018,0.0,0.0,1.0,0.0,384
+Follow here for live updates as soon as it begins:… https://t.co/6T7j0cO4xY",Fri Mar 09 18:59:55 +0000 2018,0.0,0.0,1.0,0.0,442
+CNN,What's missing from this White House photo? | Analysis by @CillizzaCNN https://t.co/sndw2EpJp2 https://t.co/Ove5LSOjXd,Fri Mar 09 18:50:10 +0000 2018,-0.296,0.0,0.833,0.167,443
+CNN,RT @CNNPhotos: The week in 26 photos: https://t.co/R4bgNwtIb0 https://t.co/HOD9iqOxqR,Fri Mar 09 18:47:28 +0000 2018,0.0,0.0,1.0,0.0,444
+CNN,The Kentucky man who tackled Sen. Rand Paul last year pleaded guilty to one felony charge of assaulting a member of… https://t.co/NhS4zCWItO,Fri Mar 09 18:40:07 +0000 2018,-0.8625,0.0,0.652,0.348,445
+CNN,How would Trump negotiate with 'little rocket man'? Here's what we know | Analysis by @zbyronwolf … https://t.co/xqowV8cqg3,Fri Mar 09 18:30:10 +0000 2018,0.0,0.0,1.0,0.0,446
+CNN,There is pervasive anxiety inside the walls of the White House over the fallout around allegations leveled against… https://t.co/eFM5omj19I,Fri Mar 09 18:20:24 +0000 2018,-0.1779,0.0,0.914,0.086,447
+CNN,"Fake news travels at a significantly faster rate on Twitter than accurate information, a new study finds… https://t.co/mViMbxRFoe",Fri Mar 09 18:05:51 +0000 2018,-0.4767,0.0,0.829,0.171,448
+CNN,"Toys ""R"" Us may shut all its US stores as soon as next week, according to several reports https://t.co/55A6cRaCuN https://t.co/Gs5MqEkZT1",Fri Mar 09 17:51:10 +0000 2018,0.0,0.0,1.0,0.0,449
+CNN,This isn't the first time Pyongyang has flirted with denuclearization https://t.co/kQh7nZteJd https://t.co/vXATw3c69A,Fri Mar 09 17:40:08 +0000 2018,-0.0516,0.0,0.902,0.098,450
+CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/slRosX4EtJ,Fri Mar 09 17:24:34 +0000 2018,0.0,0.0,1.0,0.0,451
+CNN,"The doors to Interior Secretary Ryan Zinke's office are getting a nearly $139,000 upgrade https://t.co/oCVRyOURSF",Fri Mar 09 17:10:39 +0000 2018,0.0,0.0,1.0,0.0,452
+CNN,A sheriff's deputy had his ex-wife jailed because he didn't like what she wrote about him on Facebook. And now she'… https://t.co/N63j96ux5C,Fri Mar 09 17:00:06 +0000 2018,-0.6497,0.0,0.782,0.218,453
+CNN,Serena Williams has won her first competitive singles match since she gave birth to her daughter… https://t.co/eUYW9aTskC,Fri Mar 09 16:50:07 +0000 2018,0.6597,0.265,0.735,0.0,454
+CNN,It's legal to grab a person's (clothed) backside in Minnesota. But probably not for long. https://t.co/qJIjHLVrwl https://t.co/gUa9hLloNz,Fri Mar 09 16:40:13 +0000 2018,0.128,0.091,0.909,0.0,455
+CNN,"The attorney for porn star Stormy Daniels, who's suing President Trump, says the American people need to hear from… https://t.co/TzFPfs87im",Fri Mar 09 16:30:06 +0000 2018,-0.2732,0.0,0.9,0.1,456
+CNN,"Flu season is not over yet, the CDC cautions https://t.co/y7InvnnCCm https://t.co/PcDYZSimpp",Fri Mar 09 16:27:29 +0000 2018,-0.3818,0.0,0.794,0.206,457
+CNN,"When a shooting erupted at Marjory Stoneman Douglas High School in Parkland, Florida, the first thing some students… https://t.co/ItrLEm75xn",Fri Mar 09 16:13:21 +0000 2018,0.0,0.0,1.0,0.0,458
+CNN,"For Trump, a meeting with Kim is the ultimate test. @CNNOpinion by @DavidAndelman https://t.co/ttGm0OilqZ https://t.co/b6ecQwaz8R",Fri Mar 09 16:02:06 +0000 2018,0.0,0.0,1.0,0.0,459
+CNN,Some West Virginia schools are canceling spring break to make up for days that were missed during the teacher strik… https://t.co/JnJMRcu0JS,Fri Mar 09 15:50:13 +0000 2018,-0.296,0.0,0.901,0.099,460
+CNN,The outgoing US ambassador to Panama issued a scathing critique of President Trump and his foreign policies in an o… https://t.co/UVley69QxZ,Fri Mar 09 15:40:05 +0000 2018,0.296,0.104,0.896,0.0,461
+CNN,"US President Trump will meet with North Korean leader Kim Jong Un by May, the South Korean national security advise… https://t.co/hcELoTwAEF",Fri Mar 09 15:32:11 +0000 2018,0.34,0.107,0.893,0.0,462
+CNN,KFC says it will switch hundreds of its UK restaurants back to their old supplier after 20 days of shortages… https://t.co/GRlDRrd7oe,Fri Mar 09 15:20:01 +0000 2018,0.0,0.0,1.0,0.0,463
+CNN,5 reasons why President Trump's massive North Korea gamble makes total and complete sense | Analysis by… https://t.co/cNKUBc73f2,Fri Mar 09 15:09:03 +0000 2018,0.0,0.0,1.0,0.0,464
+CNN,US President Donald Trump's stunning decision to meet Kim Jong Un sets up the prospect of the most mind boggling di… https://t.co/el19e8WbP2,Fri Mar 09 15:07:55 +0000 2018,0.5859,0.194,0.806,0.0,465
+CNN,A back-and-forth between Elon Musk and President Trump on Thursday highlighted the challenges automakers face when… https://t.co/feyYIoQsPN,Fri Mar 09 14:57:03 +0000 2018,0.0772,0.08,0.92,0.0,466
+CNN,"RT @CNNnewsroom: ""Kim Jong Un is very sly... He's been to this rodeo before"" says former US Ambassador to China Max Baucus. ""It's really an…",Fri Mar 09 14:55:47 +0000 2018,0.0,0.0,1.0,0.0,467
+CNN,"""What I knew about Harvey was that Harvey was a bully"": Oprah Winfrey discussed some of her past interactions with… https://t.co/UD6goDo3Fp",Fri Mar 09 14:47:59 +0000 2018,0.0,0.0,1.0,0.0,468
+CNN,Former Trump campaign aide Sam Nunberg has arrived at court to testify before a grand jury in special counsel Rober… https://t.co/wb4jwXOxso,Fri Mar 09 14:41:28 +0000 2018,0.6908,0.241,0.759,0.0,469
+CNN,"Anthony C. Acevedo, an Army medic who documented the horrors inside a Nazi slave camp, has died at age 93… https://t.co/ys4rUgN4cJ",Fri Mar 09 14:38:42 +0000 2018,-0.8074,0.0,0.711,0.289,470
+CNN,"Fake news travels at a significantly faster rate on Twitter than accurate information, a new study finds… https://t.co/tAOLhKsROH",Fri Mar 09 14:31:08 +0000 2018,-0.4767,0.0,0.829,0.171,471
+CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/yrsQgdOGU7,Fri Mar 09 14:25:17 +0000 2018,0.0,0.0,1.0,0.0,472
+CNN,"More than 2,000 eggs and embryos may no longer be viable after a malfunction at University Hospital in Cleveland ca… https://t.co/uP6ULsLSWe",Fri Mar 09 14:18:04 +0000 2018,-0.296,0.0,0.896,0.104,473
+CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/fuX5YVPpVw",Fri Mar 09 14:06:48 +0000 2018,0.7096,0.315,0.594,0.091,474
+CNN,A woman who previously accused Donald Trump of inappropriate sexual contact was named in the non-disclosure agreeme… https://t.co/jFdwBz9WRi,Fri Mar 09 13:56:45 +0000 2018,-0.296,0.0,0.879,0.121,475
+CNN,"North Carolina police officer resigns after body camera footage showed him beating, choking and tasing a suspected… https://t.co/14Oe2byPmf",Fri Mar 09 13:50:10 +0000 2018,-0.8074,0.0,0.628,0.372,476
+CNN,The poisoning of former Russian spy Sergei Skripal and his daughter in the United Kingdom has cast new light on a l… https://t.co/eWDgw2Q7AT,Fri Mar 09 13:47:41 +0000 2018,-0.25,0.105,0.752,0.143,477
+CNN,Barack Obama might appear on-camera as the moderator of a new series on Netflix. Or he might stay off-camera as a p… https://t.co/AEPZ8tTdH8,Fri Mar 09 13:39:07 +0000 2018,0.0,0.0,1.0,0.0,478
+CNN,"RT @CNNMoney: U.S. economy added 313,000 jobs last month, much more than expected. Unemployment remained at 4.1%.  https://t.co/A9OlUXl3FI",Fri Mar 09 13:35:30 +0000 2018,-0.4877,0.0,0.843,0.157,479
+CNN,A New York man allegedly hired a hit man to kill his neighbors. Then everything fell apart. https://t.co/QrIIRN3uMh,Fri Mar 09 13:31:09 +0000 2018,-0.6908,0.0,0.761,0.239,480
+CNN,A 15-year-old who protected his classmates in Florida from gunfire is now in critical condition after previously be… https://t.co/Dq5wbln8ih,Fri Mar 09 13:30:51 +0000 2018,0.1531,0.137,0.755,0.108,481
+CNN,"Anxiety over the fallout around allegations by porn star Stormy Daniels is pervasive inside the White House, source… https://t.co/o9zb4jsvYq",Fri Mar 09 13:20:08 +0000 2018,-0.1779,0.0,0.914,0.086,482
+CNN,"RT @NewDay: ""We laughed about it"": Steelworker whose father Trump mistakenly said was dead says he and his family found the incident funny…",Fri Mar 09 13:11:13 +0000 2018,-0.5423,0.102,0.678,0.22,483
+CNN,A sheriff's deputy had his ex-wife jailed because he didn't like what she wrote about him on Facebook. And now she'… https://t.co/zehQcMWuDU,Fri Mar 09 13:10:11 +0000 2018,-0.6497,0.0,0.782,0.218,484
+CNN,The CDC has discovered a cluster of cases of a progressive lung disease that occurred among dentists and other dent… https://t.co/ce4y8W9Vpg,Fri Mar 09 13:02:43 +0000 2018,0.0,0.0,1.0,0.0,485
 CNN,"RT @CNNPolitics: CNN's Chris Cuomo: Why did Stormy Daniels initially deny the alleged affair?
 
-Daniels' attorney: ""I think when she's allow…",Fri Mar 09 12:53:13 +0000 2018,-0.34,0.0,0.893,0.107,385
-CNN,"RT @CNNPolitics: The attorney for Stormy Daniels: ""It's absolutely laughable"" to claim the President was unaware of the attempts made by hi…",Fri Mar 09 12:53:07 +0000 2018,-0.079,0.064,0.859,0.077,386
-CNN,There is pervasive anxiety inside the walls of the White House over the fallout around allegations leveled against… https://t.co/mrOnOkUjNY,Fri Mar 09 12:50:07 +0000 2018,-0.1779,0.0,0.914,0.086,387
-CNN,The Northeastern University women's basketball team worked together to push their bus out of the snow. The team was… https://t.co/gYQaJpRkms,Fri Mar 09 12:50:00 +0000 2018,0.0,0.0,1.0,0.0,388
-CNN,"Two young men are under arrest in connection with a video in which people can be heard chanting, ""F*** the blacks,""… https://t.co/3ReWRYbxsN",Fri Mar 09 12:40:10 +0000 2018,-0.34,0.0,0.893,0.107,389
+Daniels' attorney: ""I think when she's allow…",Fri Mar 09 12:53:13 +0000 2018,-0.34,0.0,0.893,0.107,486
+CNN,"RT @CNNPolitics: The attorney for Stormy Daniels: ""It's absolutely laughable"" to claim the President was unaware of the attempts made by hi…",Fri Mar 09 12:53:07 +0000 2018,-0.079,0.064,0.859,0.077,487
+CNN,There is pervasive anxiety inside the walls of the White House over the fallout around allegations leveled against… https://t.co/mrOnOkUjNY,Fri Mar 09 12:50:07 +0000 2018,-0.1779,0.0,0.914,0.086,488
+CNN,The Northeastern University women's basketball team worked together to push their bus out of the snow. The team was… https://t.co/gYQaJpRkms,Fri Mar 09 12:50:00 +0000 2018,0.0,0.0,1.0,0.0,489
+CNN,"Two young men are under arrest in connection with a video in which people can be heard chanting, ""F*** the blacks,""… https://t.co/3ReWRYbxsN",Fri Mar 09 12:40:10 +0000 2018,-0.34,0.0,0.893,0.107,490
 CNN,"5 things for Friday:
 
 - North Korea
@@ -417,116 +532,13 @@ CNN,"5 things for Friday:
 - Colombia
 - Mexico &amp; spring break
 
-https://t.co/meqUL42JFn https://t.co/jHeZDjf1Ra",Fri Mar 09 12:30:05 +0000 2018,0.0,0.0,1.0,0.0,390
-CNN,"An analysis of radio traffic, 911 calls and security video released by the Broward County Sheriff's Office reveals… https://t.co/wliZ1iLqmE",Fri Mar 09 12:20:10 +0000 2018,0.34,0.118,0.882,0.0,391
-CNN,"There are very high, very scary stakes in the Trump-Kim faceoff | Analysis by @CillizzaCNN https://t.co/OpsqbMe95Y https://t.co/55dusprk0C",Fri Mar 09 12:10:08 +0000 2018,-0.5799,0.0,0.8,0.2,392
-CNN,How Trump caught his White House and the world by surprise https://t.co/2Q7tdjgMqr https://t.co/S4r3j5xVvH,Fri Mar 09 12:00:03 +0000 2018,0.2732,0.149,0.851,0.0,393
-CNN,"White House staffers say the place is filled with division, friction and backbiting https://t.co/0TPeKUeec6 https://t.co/4q663nM82w",Fri Mar 09 11:50:09 +0000 2018,0.0,0.0,1.0,0.0,394
-CNN,"Why don't we all just spring forward and stay there, like Florida? https://t.co/7RrQmlraHp",Fri Mar 09 11:40:10 +0000 2018,0.3612,0.172,0.828,0.0,395
-CNN,"A Florida teacher has been suspended after his school district concluded he repeatedly used the N-word in class, an… https://t.co/cae5ZRP1ci",Fri Mar 09 11:24:51 +0000 2018,-0.4767,0.0,0.853,0.147,396
-CNN,"Yes, Stormy Daniels is a real issue | Analysis by CNN's Gregory Krieg https://t.co/JNeSUMMazM https://t.co/QgAxQAGmgT",Fri Mar 09 11:11:38 +0000 2018,0.4019,0.184,0.816,0.0,397
-CNN,"It's estimated only 9% of plastic ever created has been recycled. But with the help of bacteria, this start-up want… https://t.co/nbowPDWw1P",Fri Mar 09 11:00:49 +0000 2018,0.5719,0.198,0.802,0.0,398
-CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/NLqtMNNBiA",Fri Mar 09 11:00:45 +0000 2018,0.0,0.0,1.0,0.0,399
-CNN,A photographer spent three winters prowling formerly off-limits areas to capture some stunning remnants of the Cold… https://t.co/6hruk22C2Q,Fri Mar 09 10:47:29 +0000 2018,0.3818,0.14,0.86,0.0,400
-CNN,"Wisecracks, cold noodles and soju: Is this what Trump could expect from a Kim summit? https://t.co/J235pTxzfO https://t.co/DyN2zepFpI",Fri Mar 09 10:36:03 +0000 2018,-0.0772,0.0,0.92,0.08,401
-CNN,"North Carolina police officer resigns after body camera footage showed him beating, choking and tasing a suspected… https://t.co/wfBk8UB1Hu",Fri Mar 09 10:29:02 +0000 2018,-0.8074,0.0,0.628,0.372,402
-CNN,"""There is no way that President Trump can be ready, by May, to have a high stakes negotiation on denuclearization o… https://t.co/o3hh4yPfMv",Fri Mar 09 10:21:54 +0000 2018,0.0772,0.105,0.802,0.093,403
-CNN,"US President Trump will meet with North Korean leader Kim Jong Un by May, the South Korean national security advise… https://t.co/fGNInyI7ZJ",Fri Mar 09 09:58:10 +0000 2018,0.34,0.107,0.893,0.0,404
-CNN,A photographer spent three winters prowling formerly off-limits areas to capture some stunning remnants of the Cold… https://t.co/tPaUT6GskS,Fri Mar 09 09:14:20 +0000 2018,0.3818,0.14,0.86,0.0,405
-CNN,Very little is known about US President Donald Trump's plans to meet North Korean leader Kim Jong Un except that th… https://t.co/bRHL8zobCF,Fri Mar 09 09:08:02 +0000 2018,0.0,0.0,1.0,0.0,406
-CNN,The Northeastern University women's basketball team works together to push their bus out of the snow. The team was… https://t.co/2E5yluYrvi,Fri Mar 09 09:02:10 +0000 2018,0.0,0.0,1.0,0.0,407
-CNN,"Two young men are under arrest in connection with a video in which people can be heard chanting, ""F*** the blacks,""… https://t.co/rFJFHACbBv",Fri Mar 09 08:45:13 +0000 2018,-0.34,0.0,0.893,0.107,408
-CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/62DyuLWBT4",Fri Mar 09 08:31:03 +0000 2018,-0.4767,0.0,0.829,0.171,409
-CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/15cfXi0Zep",Fri Mar 09 08:01:12 +0000 2018,0.25,0.1,0.9,0.0,410
-CNN,"US President Trump will meet with North Korean leader Kim Jong Un by May, the South Korean national security advise… https://t.co/WI7smXT8Yy",Fri Mar 09 07:40:23 +0000 2018,0.34,0.107,0.893,0.0,411
-CNN,"Volkswagen says it will stop using coal to power its main factory in Wolfsburg, Germany https://t.co/GYCg969U1o https://t.co/0k26oM8oiM",Fri Mar 09 07:31:02 +0000 2018,-0.296,0.0,0.879,0.121,412
-CNN,"When a shooting erupted at Marjory Stoneman Douglas High School in Parkland, Florida, the first thing some students… https://t.co/69Oh4Ta94M",Fri Mar 09 07:21:53 +0000 2018,0.0,0.0,1.0,0.0,413
-CNN,"Two young men are under arrest in connection with a video in which people can be heard chanting, ""F*** the blacks,""… https://t.co/Q5g3Q6a8QP",Fri Mar 09 07:18:44 +0000 2018,-0.34,0.0,0.893,0.107,414
-CNN,Can you recognize the Kennedys in 1938? They made a big splash in England when Joe Sr. became Ambassador from the U… https://t.co/cYXjEFacse,Fri Mar 09 07:15:41 +0000 2018,0.0,0.0,1.0,0.0,415
-CNN,Bones found on a remote Pacific island almost eight decades ago likely are those of pioneering pilot Amelia Earhart… https://t.co/aMbRWaSbWS,Fri Mar 09 07:08:03 +0000 2018,0.0,0.0,1.0,0.0,416
-CNN,"The US is not effectively countering the Russia cyber threat, a top general says https://t.co/chJ4SMLuIA https://t.co/TmIWVg1HIt",Fri Mar 09 07:01:08 +0000 2018,-0.6131,0.092,0.612,0.296,417
-CNN,"""You have to give a real hats off to President Moon Jae-in here in South Korea."" @willripleyCNN says the South Kore… https://t.co/ulMxcdqrpt",Fri Mar 09 06:51:39 +0000 2018,0.0,0.0,1.0,0.0,418
-CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/5A3u6mPr5W,Fri Mar 09 06:31:00 +0000 2018,0.0,0.0,1.0,0.0,419
-CNN,NASA spacecraft Juno has collected new data on its mission to Jupiter revealing some of the swirling inner mysterie… https://t.co/4tYT2QiWXY,Fri Mar 09 06:31:00 +0000 2018,0.0,0.0,1.0,0.0,420
-CNN,US President Donald Trump's stunning decision to meet Kim Jong Un sets up the prospect of the most mind boggling di… https://t.co/i8NveWoDSF,Fri Mar 09 06:24:00 +0000 2018,0.5859,0.194,0.806,0.0,421
-CNN,A futuristic retreat that aims to be the world's first energy-positive hotel is being planned in the Arctic Circle… https://t.co/30tb6nBszl,Fri Mar 09 06:13:50 +0000 2018,0.2023,0.091,0.909,0.0,422
-CNN,"""What I knew about Harvey was that Harvey was a bully"": Oprah Winfrey discussed some of her past interactions with… https://t.co/LjwU0HQv4H",Fri Mar 09 06:01:06 +0000 2018,0.0,0.0,1.0,0.0,423
-CNN,"Russian internet trolls created an anti-Hillary Clinton video game called ""Hilltendo"" and tried to make it go viral… https://t.co/BmGP7qN23I",Fri Mar 09 06:01:00 +0000 2018,0.25,0.1,0.9,0.0,424
-CNN,"When World War II ended, no industry was stronger or more important than American steel. https://t.co/hfKGTUEInA",Fri Mar 09 05:58:28 +0000 2018,-0.3415,0.206,0.526,0.268,425
-CNN,"Diana Falzone, a reporter who covered entertainment and issues related to sexual harassment, has settled a lawsuit… https://t.co/er3XucMJl6",Fri Mar 09 05:46:05 +0000 2018,-0.1779,0.138,0.69,0.172,426
-CNN,Very little is known about US President Donald Trump's plans to meet North Korean leader Kim Jong Un except that th… https://t.co/wILSMJHXPs,Fri Mar 09 05:34:23 +0000 2018,0.0,0.0,1.0,0.0,427
-CNN,"There are very high, very scary stakes in the Trump-Kim faceoff | Analysis by @CillizzaCNN https://t.co/x4Uo5yXCqs https://t.co/A09VW2edCc",Fri Mar 09 05:31:03 +0000 2018,-0.5799,0.0,0.8,0.2,428
-CNN,"Diana Falzone, a reporter who covered entertainment and issues related to sexual harassment, has settled a lawsuit… https://t.co/QqwcK21ryI",Fri Mar 09 05:27:50 +0000 2018,-0.1779,0.138,0.69,0.172,429
-CNN,Here come the tariffs. Is a trade war next? https://t.co/f7ObVrnM9e https://t.co/UjqGJwd0aO,Fri Mar 09 05:19:53 +0000 2018,-0.5994,0.0,0.698,0.302,430
-CNN,"Just months after the FDA announced efforts to crack down on stem cell clinics touting unapproved therapies, the ag… https://t.co/TAj8L3ht2o",Fri Mar 09 05:16:06 +0000 2018,-0.4767,0.0,0.814,0.186,431
-CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/9CHqQK3uU5",Fri Mar 09 05:01:05 +0000 2018,0.7096,0.315,0.594,0.091,432
-CNN,Here's how Trump caught his White House and the world by surprise https://t.co/De1dAq4b43 https://t.co/OFyshCL2Fd,Fri Mar 09 04:49:21 +0000 2018,0.2732,0.139,0.861,0.0,433
-CNN,"Erik Prince, the latest Trump associate in the spotlight of the Russia investigations, is an international traveler… https://t.co/U6hnGWWqfJ",Fri Mar 09 04:46:04 +0000 2018,0.0,0.0,1.0,0.0,434
-CNN,"RT @CNNTonight: Rep. Ted Lieu on Stormy Daniels' lawsuit against Donald Trump: ""It's really hard to believe that Donald Trump's attorney ne…",Fri Mar 09 04:31:54 +0000 2018,-0.3804,0.0,0.848,0.152,435
-CNN,"RT @CNNTonight: ""This is a President who likes to outdo other presidents. ... If you advise him, well, past administrations have done X, Y…",Fri Mar 09 04:31:29 +0000 2018,0.5994,0.189,0.811,0.0,436
-CNN,"Discovery just bought Scripps Networks. Now what? Global expansion, a possible new streaming service, and an eye on… https://t.co/4r3R8KnGxN",Fri Mar 09 04:31:05 +0000 2018,0.0,0.0,1.0,0.0,437
-CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/9MTyuCHvrO",Fri Mar 09 04:18:26 +0000 2018,0.0,0.0,1.0,0.0,438
-CNN,A photographer spent three winters prowling formerly off-limits areas to capture some stunning remnants of the Cold… https://t.co/gctetILtwp,Fri Mar 09 04:16:06 +0000 2018,0.3818,0.14,0.86,0.0,439
-CNN,"Nebraska Republican Sen. Ben Sasse has a blunt assessment of President Trump's new tariff plan: ""It's really, reall… https://t.co/99qX5COObY",Fri Mar 09 04:01:04 +0000 2018,0.0,0.0,1.0,0.0,440
-CNN,Shortly before President Trump announced he intended to tack on new tariffs to aluminum and steel coming into the U… https://t.co/GHaEnAyaJG,Fri Mar 09 03:46:04 +0000 2018,0.0,0.0,1.0,0.0,441
-CNN,"For Trump, a meeting with Kim is the ultimate test. @CNNOpinion by @DavidAndelman https://t.co/rRRXo7O12H https://t.co/hYwHrrsGra",Fri Mar 09 03:44:14 +0000 2018,0.0,0.0,1.0,0.0,442
-CNN,"The doors to Interior Secretary Ryan Zinke's office are getting a nearly $139,000 upgrade https://t.co/cexh6EPdAq",Fri Mar 09 03:36:57 +0000 2018,0.0,0.0,1.0,0.0,443
-CNN,"In these rare family moments captured at the White House, John F. Kennedy Jr. and his sister Caroline, enjoy playin… https://t.co/ItQJIXA5PF",Fri Mar 09 03:32:56 +0000 2018,0.4939,0.138,0.862,0.0,444
-CNN,Pretty much every Republican told Trump not to impose tariffs. He did it anyway. | Analysis by @CillizzaCNN… https://t.co/3bKvSWPdDa,Fri Mar 09 03:31:08 +0000 2018,0.6234,0.241,0.759,0.0,445
-CNN,"RT @CNNTonight: Ret. Rear Admiral John Kirby said he was ""flabbergasted"" by President Trump's acceptance of North Korean leader Kim Jong Un…",Fri Mar 09 03:28:17 +0000 2018,0.6486,0.209,0.791,0.0,446
-CNN,A futuristic retreat that aims to be the world's first energy-positive hotel is being planned in the Arctic Circle… https://t.co/OKSzRtsbTp,Fri Mar 09 03:16:04 +0000 2018,0.2023,0.091,0.909,0.0,447
-CNN,"Jeff Sessions' 'problem' with California is bogus, writes Raul A. Reyes for @CNNOpinion https://t.co/QncMvms9dU https://t.co/SBOvbfZt5T",Fri Mar 09 03:08:05 +0000 2018,0.0,0.0,1.0,0.0,448
-CNN,RT @AC360: Former spy chief James Clapper: I agree with President Trump’s inclination to meet with North Korean leader right away https://t…,Fri Mar 09 03:03:54 +0000 2018,0.3612,0.111,0.889,0.0,449
-CNN,President Trump's steep steel and aluminum tariffs are official. The question now is how the rest of the world will… https://t.co/wGN5CKXBzH,Fri Mar 09 03:02:07 +0000 2018,0.0,0.0,1.0,0.0,450
-CNN,"RT @AC360: Democrat Rep. Eric Swalwell: House Intel committee investigating Russian interference ""showed today more fidelity to protecting…",Fri Mar 09 02:55:08 +0000 2018,0.0,0.0,1.0,0.0,451
-CNN,"When a shooting erupted at a high school in Parkland, Florida, the first thing some students did was contact their… https://t.co/1iudrWpZxw",Fri Mar 09 02:55:05 +0000 2018,0.0,0.0,1.0,0.0,452
-CNN,"Anxiety over the fallout around allegations by porn star Stormy Daniels is pervasive inside the White House, source… https://t.co/FPmMyYAOBs",Fri Mar 09 02:46:04 +0000 2018,-0.1779,0.0,0.914,0.086,453
-CNN,A Democratic candidate for Wisconsin governor released a campaign ad showing her breastfeeding while detailing her… https://t.co/dIDmtFViXZ,Fri Mar 09 02:38:07 +0000 2018,0.0,0.0,1.0,0.0,454
-CNN,Caitlyn Jenner speaks as she receives the “Champion of Israel and LGBTQ Rights Award” at the World Values Network g… https://t.co/eXkRGnaGJB,Fri Mar 09 02:37:12 +0000 2018,0.4019,0.119,0.881,0.0,455
-CNN,Barack Obama might appear on-camera as the moderator of a new series on Netflix. Or he might stay off-camera as a p… https://t.co/y8IcEmKdev,Fri Mar 09 02:33:02 +0000 2018,0.0,0.0,1.0,0.0,456
-CNN,"Anthony C. Acevedo, an Army medic who documented the horrors inside a Nazi slave camp, has died at age 93… https://t.co/EOy6EmoBju",Fri Mar 09 02:28:04 +0000 2018,-0.8074,0.0,0.711,0.289,457
-CNN,"Nancy Pelosi was on ""RuPaul's Drag Race All Stars."" Here's what happened https://t.co/nQxLUYV7UG https://t.co/BR0jMnvQ7Y",Fri Mar 09 02:19:04 +0000 2018,-0.2263,0.0,0.872,0.128,458
-CNN,"The State Department is warning US citizens against travel to Mexico's Playa del Carmen, a week after an explosive… https://t.co/zdlh2fDE7X",Fri Mar 09 02:10:06 +0000 2018,-0.34,0.0,0.882,0.118,459
-CNN,"Though it seeks to undo the Affordable Care Act, the Trump administration said no to Idaho Gov. C.L. ""Butch"" Otter'… https://t.co/7xdJt0IJ3z",Fri Mar 09 02:01:04 +0000 2018,0.25,0.131,0.779,0.09,460
-CNN,The CDC has discovered a cluster of cases of a progressive lung disease that occurred among dentists and other dent… https://t.co/0zjjkcMtAP,Fri Mar 09 01:54:05 +0000 2018,0.0,0.0,1.0,0.0,461
-CNN,"A Florida teacher has been suspended after his school district concluded he repeatedly used the N-word in class, an… https://t.co/lfDxjbXZ0U",Fri Mar 09 01:51:14 +0000 2018,-0.4767,0.0,0.853,0.147,462
-CNN,"RT @CNNMoney: Anderson Cooper interviews adult film actress Stormy Daniels, who alleged a sexual relationship with Donald Trump and is now…",Fri Mar 09 01:47:17 +0000 2018,0.0,0.0,1.0,0.0,463
-CNN,"Russians released an anti-Clinton video game called ""Hilltendo"" weeks before the 2016 US presidential election. It… https://t.co/m3fm9Zil6U",Fri Mar 09 01:43:05 +0000 2018,0.0,0.0,1.0,0.0,464
-CNN,"Furnished living rooms, brand new bathrooms and heated floors. This isn't a dorm -- it's a prison in Norway, which… https://t.co/R40g0XYV1l",Fri Mar 09 01:36:16 +0000 2018,-0.5106,0.0,0.845,0.155,465
-CNN,The Northeastern University women's basketball team pushes their bus out of the snow. The team was in Philadelphia… https://t.co/2qfzivC3ax,Fri Mar 09 01:30:31 +0000 2018,0.0,0.0,1.0,0.0,466
-CNN,"Michael Cohen, the private attorney who remains entangled in an ongoing legal spat with porn star Stormy Daniels, v… https://t.co/52Cr13o6iq",Fri Mar 09 01:25:45 +0000 2018,0.128,0.073,0.927,0.0,467
-CNN,A 15-year-old who protected his classmates in Florida from gunfire is now in critical condition after previously be… https://t.co/kU1RsJy4Fs,Fri Mar 09 01:23:38 +0000 2018,0.1531,0.137,0.755,0.108,468
-CNN,"Yes, Stormy Daniels is a real issue | Analysis by CNN's Gregory Krieg https://t.co/7cDhYif6UE https://t.co/b89Df6OTju",Fri Mar 09 01:15:38 +0000 2018,0.4019,0.184,0.816,0.0,469
-CNN,"""You have to give a real hats off to President Moon Jae-in here in South Korea."" @willripleyCNN says the South Kore… https://t.co/PxIu5E5TB0",Fri Mar 09 01:13:05 +0000 2018,0.0,0.0,1.0,0.0,470
-CNN,The poisoning of former Russian spy Sergei Skripal and his daughter in the United Kingdom has cast new light on a l… https://t.co/97KdJS3ANZ,Fri Mar 09 01:12:00 +0000 2018,-0.25,0.105,0.752,0.143,471
-CNN,"Two young men are under arrest in connection with a video in which people can be heard chanting, ""F*** the blacks,""… https://t.co/3j9pyhlJYH",Fri Mar 09 01:00:56 +0000 2018,-0.34,0.0,0.893,0.107,472
-CNN,"""This is Kim Jong Un making his own bold, dramatic move right out of the page of President Trump's playbook, and Pr… https://t.co/ZVGIYfYmed",Fri Mar 09 00:57:31 +0000 2018,0.3818,0.106,0.894,0.0,473
-CNN,Former Tennessee Gov. Phil Bredesen's Senate campaign told the FBI in a letter that it fears it was hacked… https://t.co/L87PnnLX1Q,Fri Mar 09 00:53:44 +0000 2018,-0.4215,0.0,0.865,0.135,474
-CNN,"""There is no way that President Trump can be ready, by May, to have a high stakes negotiation on denuclearization o… https://t.co/4UVybaDOfq",Fri Mar 09 00:44:54 +0000 2018,0.0772,0.105,0.802,0.093,475
-CNN,Corey Lewandowski says he answered all “relevant” questions from the House Intelligence Committee on the Russia pro… https://t.co/I1gXb6xNE4,Fri Mar 09 00:40:04 +0000 2018,0.4767,0.154,0.846,0.0,476
-CNN,"President Trump will meet with North Korean leader Kim Jong Un by May, the South Korean national security adviser a… https://t.co/BOB4kIaOiW",Fri Mar 09 00:34:15 +0000 2018,0.34,0.107,0.893,0.0,477
-CNN,South Korean National Security Adviser Chung Eui-Yong: “President Trump appreciated the briefing and said he would… https://t.co/CB0ToimlUf,Fri Mar 09 00:28:25 +0000 2018,0.6908,0.275,0.725,0.0,478
-CNN,"South Korean National Security Adviser Chung Eui-Yong: “I told President Trump that in our meeting, North Korean le… https://t.co/pu0lV9ZgeG",Fri Mar 09 00:27:05 +0000 2018,0.34,0.118,0.882,0.0,479
-CNN,BREAKING: US President Donald Trump said he will meet North Korean leader Kim Jong Un by May for talks on denuclear… https://t.co/CXoxVIlzaU,Fri Mar 09 00:20:59 +0000 2018,0.0,0.0,1.0,0.0,480
-CNN,"North Korean leader Kim Jong Un invited President Trump to meet and offered to suspend nuclear missile testing, US… https://t.co/f9h6MFF30N",Fri Mar 09 00:07:07 +0000 2018,-0.3182,0.0,0.892,0.108,481
-CNN,Why it's 'likely' Stormy Daniels will get to tell her Donald Trump story | Analysis by @CillizzaCNN… https://t.co/HiA0NPzn4g,Fri Mar 09 00:03:45 +0000 2018,0.0,0.0,1.0,0.0,482
-CNN,"RT @CNNSitRoom: Former spy chief Leon Panetta on upcoming announcement regarding North Korea: ""I hope the President responds to Kim Jong Un…",Thu Mar 08 23:57:41 +0000 2018,0.4404,0.121,0.879,0.0,483
-CNN,BREAKING: North Korean leader Kim Jong Un invited President Trump to meet and offered to suspend nuclear missile te… https://t.co/aGNyzppjZO,Thu Mar 08 23:56:32 +0000 2018,-0.3182,0.0,0.892,0.108,484
-CNN,A woman who previously accused Donald Trump of inappropriate sexual contact was named in the non-disclosure agreeme… https://t.co/SjntDCmgZF,Thu Mar 08 23:52:06 +0000 2018,-0.296,0.0,0.879,0.121,485
-CNN,"11 nations signed the Trans-Pacific Partnership, a sweeping trade agreement that was once thought to be dead after… https://t.co/ES5t1tkeux",Thu Mar 08 23:39:05 +0000 2018,-0.2732,0.136,0.681,0.183,486
-CNN,Read the White House statement on #InternationalWomensDay https://t.co/ipRb8MfQYL https://t.co/KppqGql3xe,Thu Mar 08 23:32:06 +0000 2018,0.0,0.0,1.0,0.0,487
-CNN,RT @CNNSitRoom: Former spy chief Leon Panetta on White House drama: It's “like another version of the Keystone cops ... it would be funny i…,Thu Mar 08 23:29:21 +0000 2018,0.4404,0.108,0.892,0.0,488
-CNN,"For businesses that consume steel and aluminum, like automakers and beverage producers, President Trump's tariffs c… https://t.co/DDXpAkF8rZ",Thu Mar 08 23:24:55 +0000 2018,0.3612,0.135,0.865,0.0,489
-CNN,RT @AC360: New clues emerge in Amelia Earhart's mysterious disappearance https://t.co/c8FFPn5lvK https://t.co/2NRkMJoxjS,Thu Mar 08 23:16:06 +0000 2018,0.0,0.0,1.0,0.0,490
-CNN,"Russians' ""Hilltendo"" game, released weeks before 2016 election, had 3 levels:
-
--""Help Hillary delete as many class… https://t.co/jgt7279BIY",Thu Mar 08 23:11:44 +0000 2018,0.0,0.0,1.0,0.0,491
-CNN,"Fake news travels at a markedly faster rate on Twitter than accurate information, a new study finds… https://t.co/jTut8mES7R",Thu Mar 08 23:01:00 +0000 2018,-0.4767,0.0,0.829,0.171,492
-CNN,Republicans are performing at a historic low on the generic congressional ballot | Analysis by Harry Enten… https://t.co/1cGpVkxeyb,Thu Mar 08 22:59:50 +0000 2018,-0.2732,0.0,0.877,0.123,493
-CNN,"""O.J. Simpson: The Lost Confession?"" is a two-hour special cobbled together from material the network opted not to… https://t.co/TadIuzegj7",Thu Mar 08 22:53:58 +0000 2018,0.1027,0.129,0.762,0.11,494
-CNN,"Cindy McCain tweeted to let the public know that her husband, Arizona Republican Sen. John McCain, is ""doing fine""… https://t.co/x89Hid3v8e",Thu Mar 08 22:44:14 +0000 2018,0.0,0.0,1.0,0.0,495
-CNN,"""We have not had a new class of antivirals for 20 years,"" the director of a research authority said during a congre… https://t.co/4mZsQD3o3p",Thu Mar 08 22:41:40 +0000 2018,0.0772,0.064,0.936,0.0,496
-CNN,"With America facing a massive nursing shortage, some hospitals are offering five-figure signing bonuses, free housi… https://t.co/tyTDsUsOOk",Thu Mar 08 22:33:03 +0000 2018,0.7096,0.315,0.594,0.091,497
-CNN,McDonald's is celebrating #InternationalWomensDay by flipping its famous golden arches https://t.co/biYp1YVTaj https://t.co/zxmxcnboZ5,Thu Mar 08 22:33:00 +0000 2018,0.5719,0.252,0.748,0.0,498
-CNN,"JUST IN: President Trump tells reporters that South Korea will make a ""major announcement"" concerning North Korea a… https://t.co/sTJhwnYh9b",Thu Mar 08 22:24:48 +0000 2018,0.0,0.0,1.0,0.0,499
-CNN,The IRS says it has $1.1 billion in unclaimed tax refunds for 2014. Now's your last chance to claim it.… https://t.co/dsyeTUeNmZ,Thu Mar 08 22:11:01 +0000 2018,0.25,0.091,0.909,0.0,500
+https://t.co/meqUL42JFn https://t.co/jHeZDjf1Ra",Fri Mar 09 12:30:05 +0000 2018,0.0,0.0,1.0,0.0,491
+CNN,"An analysis of radio traffic, 911 calls and security video released by the Broward County Sheriff's Office reveals… https://t.co/wliZ1iLqmE",Fri Mar 09 12:20:10 +0000 2018,0.34,0.118,0.882,0.0,492
+CNN,"There are very high, very scary stakes in the Trump-Kim faceoff | Analysis by @CillizzaCNN https://t.co/OpsqbMe95Y https://t.co/55dusprk0C",Fri Mar 09 12:10:08 +0000 2018,-0.5799,0.0,0.8,0.2,493
+CNN,How Trump caught his White House and the world by surprise https://t.co/2Q7tdjgMqr https://t.co/S4r3j5xVvH,Fri Mar 09 12:00:03 +0000 2018,0.2732,0.149,0.851,0.0,494
+CNN,"White House staffers say the place is filled with division, friction and backbiting https://t.co/0TPeKUeec6 https://t.co/4q663nM82w",Fri Mar 09 11:50:09 +0000 2018,0.0,0.0,1.0,0.0,495
+CNN,"Why don't we all just spring forward and stay there, like Florida? https://t.co/7RrQmlraHp",Fri Mar 09 11:40:10 +0000 2018,0.3612,0.172,0.828,0.0,496
+CNN,"A Florida teacher has been suspended after his school district concluded he repeatedly used the N-word in class, an… https://t.co/cae5ZRP1ci",Fri Mar 09 11:24:51 +0000 2018,-0.4767,0.0,0.853,0.147,497
+CNN,"Yes, Stormy Daniels is a real issue | Analysis by CNN's Gregory Krieg https://t.co/JNeSUMMazM https://t.co/QgAxQAGmgT",Fri Mar 09 11:11:38 +0000 2018,0.4019,0.184,0.816,0.0,498
+CNN,"It's estimated only 9% of plastic ever created has been recycled. But with the help of bacteria, this start-up want… https://t.co/nbowPDWw1P",Fri Mar 09 11:00:49 +0000 2018,0.5719,0.198,0.802,0.0,499
+CNN,"""They could divorce. They could own property. They had many rights that women in subsequent civilizations didn't ha… https://t.co/NLqtMNNBiA",Fri Mar 09 11:00:45 +0000 2018,0.0,0.0,1.0,0.0,500
