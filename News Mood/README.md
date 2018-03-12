@@ -1,9 +1,9 @@
 
 # Twitter News Sentiment Analysis
 ##### Observable Trends:
-###### 1.
-###### 2.
-###### 3.
+###### 1. The scatter plot shows tweet sentiments of each news source scattered across vader's tweet polarity. As you look closer at news sources individually you can see that some have more positive tweets than negative, or vice versa. 
+###### 2. As of March 12th, 2018, BBCNews has the most negative average compound score while CBS has the most positive average compound score out of the 5 news sources analyzed.
+###### 3. However, according to the vader sentiment documentation, the average compound scores for these news sources fall in the range of neutral sentiment.
 
 
 ```python
@@ -91,10 +91,10 @@ media_tweets = pd.DataFrame(sentiment)
 media_tweets = media_tweets.iloc[:,[2,6,1,0,5,4,3,7]]
 
 # Grab datetime to interpolate into csv name
-# today = dt.now().strftime('%Y%m%d') 
+today = dt.now().strftime('%Y%m%d') 
 
 # Save to csv
-media_tweets.to_csv('tweet_data/news_sentiment.csv', encoding='utf-8', index=False)
+media_tweets.to_csv(f'tweet_data/{today}_news_sentiment.csv', encoding='utf-8', index=False)
 media_tweets
 ```
 
@@ -133,331 +133,331 @@ media_tweets
     <tr>
       <th>0</th>
       <td>BBC News (UK)</td>
-      <td>Regulator to quiz water firms over shortages h...</td>
-      <td>Sun Mar 11 04:33:27 +0000 2018</td>
-      <td>-0.1531</td>
+      <td>RT @BBCSport: Jamie Carragher has apologised f...</td>
+      <td>Mon Mar 12 20:25:56 +0000 2018</td>
+      <td>0.1027</td>
+      <td>0.065</td>
+      <td>0.935</td>
       <td>0.000</td>
-      <td>0.814</td>
-      <td>0.186</td>
       <td>1</td>
     </tr>
     <tr>
       <th>1</th>
       <td>BBC News (UK)</td>
-      <td>Winter Paralympics: GB skiers win super-G silv...</td>
-      <td>Sun Mar 11 01:53:45 +0000 2018</td>
-      <td>0.5859</td>
-      <td>0.297</td>
-      <td>0.703</td>
-      <td>0.000</td>
+      <td>Chloe Miazek death: Mark Bruce admits Aberdeen...</td>
+      <td>Mon Mar 12 19:17:43 +0000 2018</td>
+      <td>-0.7964</td>
+      <td>0.133</td>
+      <td>0.364</td>
+      <td>0.503</td>
       <td>2</td>
     </tr>
     <tr>
       <th>2</th>
       <td>BBC News (UK)</td>
-      <td>Man restrained by police in Lewisham dies http...</td>
-      <td>Sun Mar 11 00:16:38 +0000 2018</td>
-      <td>0.0000</td>
+      <td>Mesh surgeon removed ovaries without prior con...</td>
+      <td>Mon Mar 12 19:12:59 +0000 2018</td>
+      <td>-0.1695</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.808</td>
+      <td>0.192</td>
       <td>3</td>
     </tr>
     <tr>
       <th>3</th>
       <td>BBC News (UK)</td>
-      <td>Anti-Islamic letters probed by terror police h...</td>
-      <td>Sat Mar 10 23:19:34 +0000 2018</td>
-      <td>-0.5267</td>
-      <td>0.000</td>
-      <td>0.638</td>
-      <td>0.362</td>
+      <td>RT @BBCSport: Eddie Jones is open to bringing ...</td>
+      <td>Mon Mar 12 19:08:15 +0000 2018</td>
+      <td>-0.4019</td>
+      <td>0.108</td>
+      <td>0.677</td>
+      <td>0.215</td>
       <td>4</td>
     </tr>
     <tr>
       <th>4</th>
       <td>BBC News (UK)</td>
-      <td>Russian spy: Traces of nerve agent 'found at Z...</td>
-      <td>Sat Mar 10 22:04:35 +0000 2018</td>
-      <td>0.0000</td>
+      <td>Coronation Street unveils new on-set memorial ...</td>
+      <td>Mon Mar 12 18:45:31 +0000 2018</td>
+      <td>-0.3182</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.813</td>
+      <td>0.187</td>
       <td>5</td>
     </tr>
     <tr>
       <th>5</th>
       <td>BBC News (UK)</td>
-      <td>Totnes landslide damages cars and shuts road h...</td>
-      <td>Sat Mar 10 19:45:36 +0000 2018</td>
-      <td>-0.4404</td>
+      <td>RT @bbcouch: Why is drinking water so bad for ...</td>
+      <td>Mon Mar 12 18:34:24 +0000 2018</td>
+      <td>-0.6696</td>
       <td>0.000</td>
-      <td>0.707</td>
-      <td>0.293</td>
+      <td>0.757</td>
+      <td>0.243</td>
       <td>6</td>
     </tr>
     <tr>
       <th>6</th>
       <td>BBC News (UK)</td>
-      <td>Mother's Day protest for Nazanin Zaghari-Ratcl...</td>
-      <td>Sat Mar 10 19:45:36 +0000 2018</td>
-      <td>-0.2500</td>
+      <td>RT @BBCWorldatOne: A comedy “northern powerhou...</td>
+      <td>Mon Mar 12 18:28:59 +0000 2018</td>
+      <td>0.8689</td>
+      <td>0.366</td>
+      <td>0.634</td>
       <td>0.000</td>
-      <td>0.750</td>
-      <td>0.250</td>
       <td>7</td>
     </tr>
     <tr>
       <th>7</th>
       <td>BBC News (UK)</td>
-      <td>Student asked to leave Rush bar in Mansfield o...</td>
-      <td>Sat Mar 10 19:45:35 +0000 2018</td>
-      <td>-0.0516</td>
+      <td>RT @BBCJonSopel: Now that @theresa_may has con...</td>
+      <td>Mon Mar 12 18:23:43 +0000 2018</td>
+      <td>-0.5859</td>
       <td>0.000</td>
-      <td>0.893</td>
-      <td>0.107</td>
+      <td>0.840</td>
+      <td>0.160</td>
       <td>8</td>
     </tr>
     <tr>
       <th>8</th>
       <td>BBC News (UK)</td>
-      <td>Six Nations: Ireland win 2018 title after Engl...</td>
-      <td>Sat Mar 10 18:44:16 +0000 2018</td>
-      <td>0.2023</td>
-      <td>0.226</td>
-      <td>0.595</td>
-      <td>0.179</td>
+      <td>Russia reacts to @theresa_may statement on Sal...</td>
+      <td>Mon Mar 12 17:51:05 +0000 2018</td>
+      <td>-0.5859</td>
+      <td>0.000</td>
+      <td>0.703</td>
+      <td>0.297</td>
       <td>9</td>
     </tr>
     <tr>
       <th>9</th>
       <td>BBC News (UK)</td>
-      <td>Six Nations: France 22-16 England https://t.co...</td>
-      <td>Sat Mar 10 18:39:51 +0000 2018</td>
-      <td>0.0000</td>
-      <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>Salisbury poisoning was "indiscriminate and re...</td>
+      <td>Mon Mar 12 17:38:37 +0000 2018</td>
+      <td>-0.5719</td>
+      <td>0.138</td>
+      <td>0.542</td>
+      <td>0.320</td>
       <td>10</td>
     </tr>
     <tr>
       <th>10</th>
       <td>BBC News (UK)</td>
-      <td>RT @bbcrugbyunion: FT: France 22-16 England\n\...</td>
-      <td>Sat Mar 10 18:33:24 +0000 2018</td>
-      <td>0.1386</td>
-      <td>0.106</td>
-      <td>0.811</td>
-      <td>0.083</td>
+      <td>RT @BBCAlagiah: Theresa May says “no question ...</td>
+      <td>Mon Mar 12 17:23:58 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>11</td>
     </tr>
     <tr>
       <th>11</th>
       <td>BBC News (UK)</td>
-      <td>RT @BBCBreaking: More than 200 witnesses ident...</td>
-      <td>Sat Mar 10 17:18:57 +0000 2018</td>
-      <td>-0.5859</td>
+      <td>Highly likely Russia behind spy attack, says T...</td>
+      <td>Mon Mar 12 17:19:37 +0000 2018</td>
+      <td>-0.4767</td>
       <td>0.000</td>
-      <td>0.826</td>
-      <td>0.174</td>
+      <td>0.744</td>
+      <td>0.256</td>
       <td>12</td>
     </tr>
     <tr>
       <th>12</th>
       <td>BBC News (UK)</td>
-      <td>Six Nations: Ireland 28-8 Scotland https://t.c...</td>
-      <td>Sat Mar 10 16:29:41 +0000 2018</td>
-      <td>0.0000</td>
+      <td>RT @BBCBreaking: Former Russian spy &amp;amp; his ...</td>
+      <td>Mon Mar 12 17:15:51 +0000 2018</td>
+      <td>-0.4939</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.868</td>
+      <td>0.132</td>
       <td>13</td>
     </tr>
     <tr>
       <th>13</th>
       <td>BBC News (UK)</td>
-      <td>Luke Atherton reunited with RAF 'hero who save...</td>
-      <td>Sat Mar 10 16:16:26 +0000 2018</td>
+      <td>Celibacy and abstinence should be promoted as ...</td>
+      <td>Mon Mar 12 16:31:07 +0000 2018</td>
       <td>0.7506</td>
-      <td>0.416</td>
-      <td>0.584</td>
+      <td>0.368</td>
+      <td>0.632</td>
       <td>0.000</td>
       <td>14</td>
     </tr>
     <tr>
       <th>14</th>
       <td>BBC News (UK)</td>
-      <td>Woman robbed on motorway hard shoulder https:/...</td>
-      <td>Sat Mar 10 16:16:26 +0000 2018</td>
-      <td>-0.1027</td>
+      <td>Tube push attempted murder: Alan Alencar secti...</td>
+      <td>Mon Mar 12 16:27:03 +0000 2018</td>
+      <td>-0.6908</td>
       <td>0.000</td>
-      <td>0.811</td>
-      <td>0.189</td>
+      <td>0.598</td>
+      <td>0.402</td>
       <td>15</td>
     </tr>
     <tr>
       <th>15</th>
       <td>BBC News (UK)</td>
-      <td>Man shot in head during 'brutal' attack in Wes...</td>
-      <td>Sat Mar 10 16:16:26 +0000 2018</td>
+      <td>Giant panda breeding programme at Edinburgh Zo...</td>
+      <td>Mon Mar 12 16:09:35 +0000 2018</td>
       <td>-0.4767</td>
       <td>0.000</td>
-      <td>0.763</td>
-      <td>0.237</td>
+      <td>0.721</td>
+      <td>0.279</td>
       <td>16</td>
     </tr>
     <tr>
       <th>16</th>
       <td>BBC News (UK)</td>
-      <td>RT @BBCPolitics: To mark one year to go until ...</td>
-      <td>Sat Mar 10 13:56:26 +0000 2018</td>
-      <td>0.4019</td>
-      <td>0.105</td>
-      <td>0.895</td>
+      <td>Kathmandu airport crash: Footage shows wreckag...</td>
+      <td>Mon Mar 12 15:58:17 +0000 2018</td>
+      <td>-0.8720</td>
       <td>0.000</td>
+      <td>0.568</td>
+      <td>0.432</td>
       <td>17</td>
     </tr>
     <tr>
       <th>17</th>
       <td>BBC News (UK)</td>
-      <td>RT @BBC: 🙌 1 year ago today the world became a...</td>
-      <td>Sat Mar 10 13:49:23 +0000 2018</td>
-      <td>0.4404</td>
-      <td>0.209</td>
-      <td>0.791</td>
+      <td>Millennial 26-30 railcard to launch nationwide...</td>
+      <td>Mon Mar 12 15:47:44 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
       <td>0.000</td>
       <td>18</td>
     </tr>
     <tr>
       <th>18</th>
       <td>BBC News (UK)</td>
-      <td>Friend tells court Jackson would be 'last pers...</td>
-      <td>Sat Mar 10 12:33:48 +0000 2018</td>
-      <td>-0.3612</td>
-      <td>0.179</td>
-      <td>0.559</td>
-      <td>0.263</td>
+      <td>Meghan Markle joins Queen for Commonwealth Day...</td>
+      <td>Mon Mar 12 15:34:09 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>19</td>
     </tr>
     <tr>
       <th>19</th>
       <td>BBC News (UK)</td>
-      <td>Elizabeth Hurley's nephew stabbed in Wandswort...</td>
-      <td>Sat Mar 10 11:28:29 +0000 2018</td>
-      <td>-0.4404</td>
+      <td>RT @BBCParliament: Speaker John Bercow is chai...</td>
+      <td>Mon Mar 12 15:21:12 +0000 2018</td>
+      <td>0.2023</td>
+      <td>0.083</td>
+      <td>0.917</td>
       <td>0.000</td>
-      <td>0.674</td>
-      <td>0.326</td>
       <td>20</td>
     </tr>
     <tr>
       <th>20</th>
       <td>BBC News (UK)</td>
-      <td>Regulator to quiz water firms over shortages h...</td>
-      <td>Sun Mar 11 04:33:27 +0000 2018</td>
-      <td>-0.1531</td>
+      <td>RT @BBCSport: Jamie Carragher has apologised f...</td>
+      <td>Mon Mar 12 20:25:56 +0000 2018</td>
+      <td>0.1027</td>
+      <td>0.065</td>
+      <td>0.935</td>
       <td>0.000</td>
-      <td>0.814</td>
-      <td>0.186</td>
       <td>21</td>
     </tr>
     <tr>
       <th>21</th>
       <td>BBC News (UK)</td>
-      <td>Winter Paralympics: GB skiers win super-G silv...</td>
-      <td>Sun Mar 11 01:53:45 +0000 2018</td>
-      <td>0.5859</td>
-      <td>0.297</td>
-      <td>0.703</td>
-      <td>0.000</td>
+      <td>Chloe Miazek death: Mark Bruce admits Aberdeen...</td>
+      <td>Mon Mar 12 19:17:43 +0000 2018</td>
+      <td>-0.7964</td>
+      <td>0.133</td>
+      <td>0.364</td>
+      <td>0.503</td>
       <td>22</td>
     </tr>
     <tr>
       <th>22</th>
       <td>BBC News (UK)</td>
-      <td>Man restrained by police in Lewisham dies http...</td>
-      <td>Sun Mar 11 00:16:38 +0000 2018</td>
-      <td>0.0000</td>
+      <td>Mesh surgeon removed ovaries without prior con...</td>
+      <td>Mon Mar 12 19:12:59 +0000 2018</td>
+      <td>-0.1695</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.808</td>
+      <td>0.192</td>
       <td>23</td>
     </tr>
     <tr>
       <th>23</th>
       <td>BBC News (UK)</td>
-      <td>Anti-Islamic letters probed by terror police h...</td>
-      <td>Sat Mar 10 23:19:34 +0000 2018</td>
-      <td>-0.5267</td>
-      <td>0.000</td>
-      <td>0.638</td>
-      <td>0.362</td>
+      <td>RT @BBCSport: Eddie Jones is open to bringing ...</td>
+      <td>Mon Mar 12 19:08:15 +0000 2018</td>
+      <td>-0.4019</td>
+      <td>0.108</td>
+      <td>0.677</td>
+      <td>0.215</td>
       <td>24</td>
     </tr>
     <tr>
       <th>24</th>
       <td>BBC News (UK)</td>
-      <td>Russian spy: Traces of nerve agent 'found at Z...</td>
-      <td>Sat Mar 10 22:04:35 +0000 2018</td>
-      <td>0.0000</td>
+      <td>Coronation Street unveils new on-set memorial ...</td>
+      <td>Mon Mar 12 18:45:31 +0000 2018</td>
+      <td>-0.3182</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.813</td>
+      <td>0.187</td>
       <td>25</td>
     </tr>
     <tr>
       <th>25</th>
       <td>BBC News (UK)</td>
-      <td>Totnes landslide damages cars and shuts road h...</td>
-      <td>Sat Mar 10 19:45:36 +0000 2018</td>
-      <td>-0.4404</td>
+      <td>RT @bbcouch: Why is drinking water so bad for ...</td>
+      <td>Mon Mar 12 18:34:24 +0000 2018</td>
+      <td>-0.6696</td>
       <td>0.000</td>
-      <td>0.707</td>
-      <td>0.293</td>
+      <td>0.757</td>
+      <td>0.243</td>
       <td>26</td>
     </tr>
     <tr>
       <th>26</th>
       <td>BBC News (UK)</td>
-      <td>Mother's Day protest for Nazanin Zaghari-Ratcl...</td>
-      <td>Sat Mar 10 19:45:36 +0000 2018</td>
-      <td>-0.2500</td>
+      <td>RT @BBCWorldatOne: A comedy “northern powerhou...</td>
+      <td>Mon Mar 12 18:28:59 +0000 2018</td>
+      <td>0.8689</td>
+      <td>0.366</td>
+      <td>0.634</td>
       <td>0.000</td>
-      <td>0.750</td>
-      <td>0.250</td>
       <td>27</td>
     </tr>
     <tr>
       <th>27</th>
       <td>BBC News (UK)</td>
-      <td>Student asked to leave Rush bar in Mansfield o...</td>
-      <td>Sat Mar 10 19:45:35 +0000 2018</td>
-      <td>-0.0516</td>
+      <td>RT @BBCJonSopel: Now that @theresa_may has con...</td>
+      <td>Mon Mar 12 18:23:43 +0000 2018</td>
+      <td>-0.5859</td>
       <td>0.000</td>
-      <td>0.893</td>
-      <td>0.107</td>
+      <td>0.840</td>
+      <td>0.160</td>
       <td>28</td>
     </tr>
     <tr>
       <th>28</th>
       <td>BBC News (UK)</td>
-      <td>Six Nations: Ireland win 2018 title after Engl...</td>
-      <td>Sat Mar 10 18:44:16 +0000 2018</td>
-      <td>0.2023</td>
-      <td>0.226</td>
-      <td>0.595</td>
-      <td>0.179</td>
+      <td>Russia reacts to @theresa_may statement on Sal...</td>
+      <td>Mon Mar 12 17:51:05 +0000 2018</td>
+      <td>-0.5859</td>
+      <td>0.000</td>
+      <td>0.703</td>
+      <td>0.297</td>
       <td>29</td>
     </tr>
     <tr>
       <th>29</th>
       <td>BBC News (UK)</td>
-      <td>Six Nations: France 22-16 England https://t.co...</td>
-      <td>Sat Mar 10 18:39:51 +0000 2018</td>
-      <td>0.0000</td>
-      <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>Salisbury poisoning was "indiscriminate and re...</td>
+      <td>Mon Mar 12 17:38:37 +0000 2018</td>
+      <td>-0.5719</td>
+      <td>0.138</td>
+      <td>0.542</td>
+      <td>0.320</td>
       <td>30</td>
     </tr>
     <tr>
@@ -474,184 +474,184 @@ media_tweets
     <tr>
       <th>470</th>
       <td>The New York Times</td>
-      <td>Modern Love wants to hear about how college st...</td>
-      <td>Sat Mar 10 17:30:08 +0000 2018</td>
-      <td>0.8074</td>
-      <td>0.390</td>
-      <td>0.610</td>
+      <td>At restaurants across America, servers calcula...</td>
+      <td>Mon Mar 12 14:21:03 +0000 2018</td>
+      <td>-0.5423</td>
       <td>0.000</td>
+      <td>0.837</td>
+      <td>0.163</td>
       <td>71</td>
     </tr>
     <tr>
       <th>471</th>
       <td>The New York Times</td>
-      <td>Mired in poverty not long ago, Ghana’s economi...</td>
-      <td>Sat Mar 10 17:15:02 +0000 2018</td>
-      <td>-0.1779</td>
-      <td>0.131</td>
-      <td>0.704</td>
-      <td>0.166</td>
+      <td>Goldman Sachs cleared the way for a successor ...</td>
+      <td>Mon Mar 12 14:10:06 +0000 2018</td>
+      <td>0.3182</td>
+      <td>0.163</td>
+      <td>0.837</td>
+      <td>0.000</td>
       <td>72</td>
     </tr>
     <tr>
       <th>472</th>
       <td>The New York Times</td>
-      <td>Donald Trump’s victory shook him. Badly. And s...</td>
-      <td>Sat Mar 10 17:00:03 +0000 2018</td>
-      <td>-0.5423</td>
+      <td>Morning Briefing: Here's what you need to know...</td>
+      <td>Mon Mar 12 14:00:24 +0000 2018</td>
+      <td>0.0000</td>
       <td>0.000</td>
-      <td>0.791</td>
-      <td>0.209</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>73</td>
     </tr>
     <tr>
       <th>473</th>
       <td>The New York Times</td>
-      <td>The vandals attacked a statue of Gandhi in the...</td>
-      <td>Sat Mar 10 16:45:07 +0000 2018</td>
-      <td>-0.4588</td>
+      <td>10 myths about your NCAA bracket https://t.co/...</td>
+      <td>Mon Mar 12 13:44:07 +0000 2018</td>
+      <td>0.0000</td>
       <td>0.000</td>
-      <td>0.842</td>
-      <td>0.158</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>74</td>
     </tr>
     <tr>
       <th>474</th>
       <td>The New York Times</td>
-      <td>RT @samdolnick: I went to Ohio to profile a ma...</td>
-      <td>Sat Mar 10 16:30:08 +0000 2018</td>
-      <td>-0.0258</td>
-      <td>0.077</td>
-      <td>0.843</td>
-      <td>0.080</td>
+      <td>"Does anyone here know who was imprisoned here...</td>
+      <td>Mon Mar 12 13:30:14 +0000 2018</td>
+      <td>-0.4588</td>
+      <td>0.000</td>
+      <td>0.857</td>
+      <td>0.143</td>
       <td>75</td>
     </tr>
     <tr>
       <th>475</th>
       <td>The New York Times</td>
-      <td>Migrants have created some of the works themse...</td>
-      <td>Sat Mar 10 16:15:06 +0000 2018</td>
-      <td>0.3612</td>
-      <td>0.171</td>
-      <td>0.829</td>
+      <td>What's the actual story behind the O.J. Simpso...</td>
+      <td>Mon Mar 12 13:14:06 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
       <td>0.000</td>
       <td>76</td>
     </tr>
     <tr>
       <th>476</th>
       <td>The New York Times</td>
-      <td>Prime Minister Justin Trudeau of Canada has ap...</td>
-      <td>Sat Mar 10 16:00:08 +0000 2018</td>
-      <td>0.0000</td>
-      <td>0.000</td>
-      <td>1.000</td>
+      <td>If President Trump pulls out of the Iran deal,...</td>
+      <td>Mon Mar 12 13:00:14 +0000 2018</td>
+      <td>0.2732</td>
+      <td>0.087</td>
+      <td>0.913</td>
       <td>0.000</td>
       <td>77</td>
     </tr>
     <tr>
       <th>477</th>
       <td>The New York Times</td>
-      <td>RT @EricLiptonNYT: JUST POSTED: A NYT journey ...</td>
-      <td>Sat Mar 10 15:46:12 +0000 2018</td>
-      <td>0.0000</td>
+      <td>A passenger plane from Bangladesh slammed into...</td>
+      <td>Mon Mar 12 12:47:04 +0000 2018</td>
+      <td>-0.4939</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.819</td>
+      <td>0.181</td>
       <td>78</td>
     </tr>
     <tr>
       <th>478</th>
       <td>The New York Times</td>
-      <td>A traditional museum experience using video-ga...</td>
-      <td>Sat Mar 10 15:45:05 +0000 2018</td>
-      <td>0.0000</td>
-      <td>0.000</td>
-      <td>1.000</td>
+      <td>Dropbox said that it hoped to raise as much as...</td>
+      <td>Mon Mar 12 12:30:10 +0000 2018</td>
+      <td>0.3818</td>
+      <td>0.126</td>
+      <td>0.874</td>
       <td>0.000</td>
       <td>79</td>
     </tr>
     <tr>
       <th>479</th>
       <td>The New York Times</td>
-      <td>Here are some of the highlights of the past we...</td>
-      <td>Sat Mar 10 15:30:08 +0000 2018</td>
-      <td>0.0000</td>
+      <td>The White House said it wanted to partner with...</td>
+      <td>Mon Mar 12 12:15:05 +0000 2018</td>
+      <td>-0.2732</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.900</td>
+      <td>0.100</td>
       <td>80</td>
     </tr>
     <tr>
       <th>480</th>
       <td>The New York Times</td>
-      <td>Serve it straight out of the oven, when it's a...</td>
-      <td>Sat Mar 10 15:17:03 +0000 2018</td>
-      <td>0.2263</td>
-      <td>0.137</td>
-      <td>0.863</td>
+      <td>Morning Briefing: Here's what you need to know...</td>
+      <td>Mon Mar 12 12:00:12 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
       <td>0.000</td>
       <td>81</td>
     </tr>
     <tr>
       <th>481</th>
       <td>The New York Times</td>
-      <td>Adam Rippon: "There are other athletes who are...</td>
-      <td>Sat Mar 10 15:02:01 +0000 2018</td>
-      <td>-0.2529</td>
-      <td>0.087</td>
-      <td>0.785</td>
-      <td>0.128</td>
+      <td>Virginia was named the top overall seed in the...</td>
+      <td>Mon Mar 12 11:44:01 +0000 2018</td>
+      <td>0.2023</td>
+      <td>0.107</td>
+      <td>0.893</td>
+      <td>0.000</td>
       <td>82</td>
     </tr>
     <tr>
       <th>482</th>
       <td>The New York Times</td>
-      <td>Unsubscribing from IRL junk mail is almost as ...</td>
-      <td>Sat Mar 10 14:41:06 +0000 2018</td>
-      <td>0.0314</td>
-      <td>0.145</td>
-      <td>0.717</td>
-      <td>0.138</td>
+      <td>The passengers of the helicopter that crashed ...</td>
+      <td>Mon Mar 12 11:31:02 +0000 2018</td>
+      <td>-0.2732</td>
+      <td>0.000</td>
+      <td>0.909</td>
+      <td>0.091</td>
       <td>83</td>
     </tr>
     <tr>
       <th>483</th>
       <td>The New York Times</td>
-      <td>The dispute over the Trump hotel in Panama Cit...</td>
-      <td>Sat Mar 10 14:21:03 +0000 2018</td>
-      <td>-0.4019</td>
+      <td>Under guard at his home, the Venezuelan opposi...</td>
+      <td>Mon Mar 12 11:15:09 +0000 2018</td>
+      <td>0.0000</td>
       <td>0.000</td>
-      <td>0.816</td>
-      <td>0.184</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>84</td>
     </tr>
     <tr>
       <th>484</th>
       <td>The New York Times</td>
-      <td>RT @nytimes: Kevin Zeich had 3 and a half year...</td>
-      <td>Sat Mar 10 14:05:25 +0000 2018</td>
-      <td>-0.4588</td>
-      <td>0.044</td>
-      <td>0.845</td>
-      <td>0.111</td>
+      <td>China's National People’s Congress opened the ...</td>
+      <td>Mon Mar 12 11:00:22 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>85</td>
     </tr>
     <tr>
       <th>485</th>
       <td>The New York Times</td>
-      <td>John Kelly thwarted a plan by the EPA chief Sc...</td>
-      <td>Sat Mar 10 14:02:05 +0000 2018</td>
-      <td>0.1280</td>
-      <td>0.086</td>
-      <td>0.856</td>
-      <td>0.059</td>
+      <td>A commercial flight from Bangladesh crashed at...</td>
+      <td>Mon Mar 12 10:46:04 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
+      <td>0.000</td>
       <td>86</td>
     </tr>
     <tr>
       <th>486</th>
       <td>The New York Times</td>
-      <td>"Identity politics, religion, architecture, ch...</td>
-      <td>Sat Mar 10 13:41:02 +0000 2018</td>
+      <td>Morning Briefing: Here's what you need to know...</td>
+      <td>Mon Mar 12 10:30:13 +0000 2018</td>
       <td>0.0000</td>
       <td>0.000</td>
       <td>1.000</td>
@@ -661,30 +661,30 @@ media_tweets
     <tr>
       <th>487</th>
       <td>The New York Times</td>
-      <td>How one child’s sickle cell mutation helped pr...</td>
-      <td>Sat Mar 10 13:21:04 +0000 2018</td>
-      <td>0.3818</td>
-      <td>0.178</td>
-      <td>0.822</td>
-      <td>0.000</td>
+      <td>“The level of tension between the United State...</td>
+      <td>Mon Mar 12 10:13:02 +0000 2018</td>
+      <td>-0.2944</td>
+      <td>0.105</td>
+      <td>0.709</td>
+      <td>0.186</td>
       <td>88</td>
     </tr>
     <tr>
       <th>488</th>
       <td>The New York Times</td>
-      <td>The excavation of Rome’s newest subway line ha...</td>
-      <td>Sat Mar 10 13:02:03 +0000 2018</td>
-      <td>0.6486</td>
-      <td>0.249</td>
-      <td>0.751</td>
+      <td>Stormy Daniels and her lawyer are pursuing an ...</td>
+      <td>Mon Mar 12 09:59:02 +0000 2018</td>
+      <td>-0.4215</td>
       <td>0.000</td>
+      <td>0.774</td>
+      <td>0.226</td>
       <td>89</td>
     </tr>
     <tr>
       <th>489</th>
       <td>The New York Times</td>
-      <td>Al Sharpton, Reconsidered https://t.co/Sn5DSYqVG7</td>
-      <td>Sat Mar 10 12:50:55 +0000 2018</td>
+      <td>RT @nytimesworld: Brussels is astir after a bu...</td>
+      <td>Mon Mar 12 09:45:07 +0000 2018</td>
       <td>0.0000</td>
       <td>0.000</td>
       <td>1.000</td>
@@ -694,85 +694,85 @@ media_tweets
     <tr>
       <th>490</th>
       <td>The New York Times</td>
-      <td>"It's always good news when you find new pengu...</td>
-      <td>Sat Mar 10 12:41:06 +0000 2018</td>
-      <td>0.4404</td>
-      <td>0.244</td>
-      <td>0.756</td>
-      <td>0.000</td>
+      <td>Marine Le Pen hopes a rebranding may reinvigor...</td>
+      <td>Mon Mar 12 09:30:09 +0000 2018</td>
+      <td>0.7184</td>
+      <td>0.427</td>
+      <td>0.437</td>
+      <td>0.136</td>
       <td>91</td>
     </tr>
     <tr>
       <th>491</th>
       <td>The New York Times</td>
-      <td>RT @NYTHealth: Stop obsessing about your own h...</td>
-      <td>Sat Mar 10 12:21:02 +0000 2018</td>
-      <td>-0.8720</td>
+      <td>How to stop eating sugar https://t.co/PdGvwhkpaH</td>
+      <td>Mon Mar 12 09:00:06 +0000 2018</td>
+      <td>-0.2960</td>
       <td>0.000</td>
-      <td>0.623</td>
-      <td>0.377</td>
+      <td>0.694</td>
+      <td>0.306</td>
       <td>92</td>
     </tr>
     <tr>
       <th>492</th>
       <td>The New York Times</td>
-      <td>In an effort to better understand the top chie...</td>
-      <td>Sat Mar 10 12:02:04 +0000 2018</td>
-      <td>0.5719</td>
-      <td>0.190</td>
-      <td>0.810</td>
+      <td>RT @nytimesworld: He wears tennis shoes and ri...</td>
+      <td>Mon Mar 12 08:44:04 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
       <td>0.000</td>
       <td>93</td>
     </tr>
     <tr>
       <th>493</th>
       <td>The New York Times</td>
-      <td>RT @NYTNational: Megachurches around the count...</td>
-      <td>Sat Mar 10 11:38:51 +0000 2018</td>
-      <td>0.5719</td>
-      <td>0.156</td>
-      <td>0.844</td>
+      <td>In the early days of the crackdown, at least 1...</td>
+      <td>Mon Mar 12 08:31:03 +0000 2018</td>
+      <td>-0.8316</td>
       <td>0.000</td>
+      <td>0.719</td>
+      <td>0.281</td>
       <td>94</td>
     </tr>
     <tr>
       <th>494</th>
       <td>The New York Times</td>
-      <td>Fiction: A Mother and Daughter and a Town Made...</td>
-      <td>Sat Mar 10 11:21:51 +0000 2018</td>
-      <td>0.0000</td>
+      <td>RT @nytimesworld: British counterterrorism pol...</td>
+      <td>Mon Mar 12 08:26:05 +0000 2018</td>
+      <td>-0.5267</td>
       <td>0.000</td>
-      <td>1.000</td>
-      <td>0.000</td>
+      <td>0.841</td>
+      <td>0.159</td>
       <td>95</td>
     </tr>
     <tr>
       <th>495</th>
       <td>The New York Times</td>
-      <td>After Demanding Local Control, DeVos Finds Tha...</td>
-      <td>Sat Mar 10 11:18:23 +0000 2018</td>
-      <td>-0.2263</td>
+      <td>Low-effort, high-reward cooking for when you'r...</td>
+      <td>Mon Mar 12 08:11:27 +0000 2018</td>
+      <td>-0.3612</td>
       <td>0.000</td>
-      <td>0.853</td>
-      <td>0.147</td>
+      <td>0.800</td>
+      <td>0.200</td>
       <td>96</td>
     </tr>
     <tr>
       <th>496</th>
       <td>The New York Times</td>
-      <td>Trump Rules: In Decline, Offshore Drillers Fin...</td>
-      <td>Sat Mar 10 11:14:39 +0000 2018</td>
-      <td>0.5994</td>
-      <td>0.245</td>
-      <td>0.755</td>
+      <td>Today, forgive yourself for putting off that o...</td>
+      <td>Mon Mar 12 07:52:51 +0000 2018</td>
+      <td>0.2732</td>
+      <td>0.110</td>
+      <td>0.890</td>
       <td>0.000</td>
       <td>97</td>
     </tr>
     <tr>
       <th>497</th>
       <td>The New York Times</td>
-      <td>In Britain’s Playgrounds, ‘Bringing in Risk’ t...</td>
-      <td>Sat Mar 10 11:10:59 +0000 2018</td>
+      <td>News Analysis: A Sudden Promotion Raises Quest...</td>
+      <td>Mon Mar 12 07:34:57 +0000 2018</td>
       <td>0.0000</td>
       <td>0.000</td>
       <td>1.000</td>
@@ -782,8 +782,8 @@ media_tweets
     <tr>
       <th>498</th>
       <td>The New York Times</td>
-      <td>In one of China’s biggest cities, the women-on...</td>
-      <td>Sat Mar 10 10:56:12 +0000 2018</td>
+      <td>The phone booth is back. Kind of. https://t.co...</td>
+      <td>Mon Mar 12 07:20:42 +0000 2018</td>
       <td>0.0000</td>
       <td>0.000</td>
       <td>1.000</td>
@@ -793,11 +793,11 @@ media_tweets
     <tr>
       <th>499</th>
       <td>The New York Times</td>
-      <td>RT @nytpolitics: Stephen K. Bannon's next proj...</td>
-      <td>Sat Mar 10 10:38:04 +0000 2018</td>
-      <td>0.2960</td>
-      <td>0.121</td>
-      <td>0.879</td>
+      <td>It’s Tax Time! Here’s What to Know This Year h...</td>
+      <td>Mon Mar 12 07:02:43 +0000 2018</td>
+      <td>0.0000</td>
+      <td>0.000</td>
+      <td>1.000</td>
       <td>0.000</td>
       <td>100</td>
     </tr>
@@ -870,13 +870,16 @@ plt.ylabel('Tweet Polarity', fontsize=14)
 lgd = plt.legend(handles=[bbc_plot, cbs_plot, cnn_plot, fox_plot, nyt_plot], 
                  title='Media Sources', loc=1, bbox_to_anchor=(1.2, 1))
 
+# Format datetime for saving image
+today = dt.now().strftime('%Y%m%d')
+
 # Save image and show
-plt.savefig('images/sent_media_tweets.png', bbox_extra_artists=(lgd,), bbox_inches='tight')
+plt.savefig(f'images/{today}_sent_media_tweets.png', bbox_extra_artists=(lgd,), bbox_inches='tight')
 plt.show()
 ```
 
 
-![png](images/sent_media_tweets.png)
+![png](/images/20180312_sent_media_tweets.png)
 
 
 # Overall Media Sentiment Based on Twitter
@@ -927,27 +930,27 @@ media_sent
     <tr>
       <th>0</th>
       <td>BBC News (UK)</td>
-      <td>-0.124556</td>
+      <td>-0.183014</td>
     </tr>
     <tr>
       <th>1</th>
       <td>CBS</td>
-      <td>0.314749</td>
+      <td>0.289191</td>
     </tr>
     <tr>
       <th>2</th>
       <td>CNN</td>
-      <td>0.006238</td>
+      <td>-0.082892</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Fox News</td>
-      <td>0.201252</td>
+      <td>0.051733</td>
     </tr>
     <tr>
       <th>4</th>
       <td>The New York Times</td>
-      <td>0.039298</td>
+      <td>-0.049292</td>
     </tr>
   </tbody>
 </table>
@@ -1006,11 +1009,14 @@ for i, rect in enumerate(sent_bar):
     plt.text(rect.get_x() + rect.get_width()/2.0, height, perc_tum_vol_chg[i], 
              color='black', fontsize='13', ha='center', va='bottom')
 
+# Format datetime for saving image
+today = dt.now().strftime('%Y%m%d')    
+
 # Save and show
-plt.savefig('images/sent_media_overall.png')
+plt.savefig(f'images/{today}_sent_media_overall.png')
 plt.show()
 ```
 
 
-![png](images/sent_media_overall.png)
+![png](/images/20180312_sent_media_overall.png)
 
