@@ -879,7 +879,7 @@ plt.show()
 ```
 
 
-![png](/images/20180312_sent_media_tweets.png)
+![png](images/20180312_sent_media_tweets.png)
 
 
 # Overall Media Sentiment Based on Twitter
@@ -1018,5 +1018,5 @@ plt.show()
 ```
 
 
-![png](/images/20180312_sent_media_overall.png)
+![png](images/20180312_sent_media_overall.png)
 
